@@ -13,14 +13,14 @@ I'll include your translation in the next updates of the app ;D
 <i>Original English translation</i>
 
     <resources>
-    <string name="app_menu_item_button_text">Click the button</string>
+        <string name="app_menu_item_button_text">Click the button</string>
     </resources>
 
 
 <i>Translation to send via email</i>
 
     <resources>
-    <string name="app_menu_item_button_text">Fai click sul bottone</string>
+        <string name="app_menu_item_button_text">Fai click sul bottone</string>
     </resources>
     
 
