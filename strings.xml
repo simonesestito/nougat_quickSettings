@@ -10,7 +10,6 @@
     <string name="sound">Volume</string>
     <string name="select_app">Choose an app</string>
     <string name="app">Application</string>
-    <string name="root_denied">SU binary available, root access denied</string>
     <string name="mono">In-Ear Audio</string>
     <string name="mono_run">In-Ear Audio is running</string>
     <string name="mono_stop">Click on "In-Ear Audio" tile to stop the service</string>
@@ -26,7 +25,6 @@
     <string name="gps_only">GPS</string>
     <string name="gps_wifi">Network</string>
     <string name="gps_all">GPS + network</string>
-    <string name="done">Done</string>
     <string name="gps_off">Disabled</string>
     <string name="position">Position</string>
     <string name="share_screenshot">Share screenshot with…</string>
@@ -46,7 +44,7 @@
     <string name="reminder_copy">Copy text</string>
     <string name="copied">Copied in clipboard</string>
     <string name="delete_last">Delete last line</string>
-    <string name="title_activity_settings">QuickSettings manager</string>
+    <string name="title_activity_settings" translatable="false">Quick Settings</string>
     <string name="hide_from_launcher">Hide from launcher</string>
     <string name="sure">Are you sure?</string>
     <string name="hide_alert_message">The app will be hidden from launcher.\nTo show it again, you have to delete app data</string>
@@ -107,7 +105,6 @@
     <string name="brightness_summary">Adjust the brightness</string>
     <string name="how_to_use">How to use</string>
     <string name="leave_review">Leave a review</string>
-    <string name="soon_available">Soon available</string>
     <string name="dice">Dice</string>
     <string name="dice_summary">Roll the dice</string>
     <string name="enable_all_tiles">Enable all quicksettings</string>
@@ -116,7 +113,6 @@
     <string name="round_icon">Round launcher icon</string>
     <string name="standard_icon">Standard launcher icon</string>
     <string name="drawable_icons">Various drawables</string>
-    <string name="translation_credits">Translated in this language by</string>
     <string name="not_supported">Not supported</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">I\'ll receive about $0.69</string>
@@ -146,5 +142,18 @@
     <string name="data_mobile_summary">Change mobile data status. Root required</string>
     <string name="vpn_summary">Open VPN settings</string><string name="cast">Cast</string>
     <string name="cast_summary">Open \"Cast\" screen</string>
-
+    <string name="help_translation">Help the translation</string>
+    <string name="battery_saver">Battery saver</string>
+    <string name="not_supported_in_charging_state">Not available while the phone is charging</string>
+    <string name="root_security_settings">Your device is not rooted.\n
+        To use this QS you need to execute a command on your PC\n
+        \'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
+    <string name="root_semi_necessary">Secure settings QS</string>
+    <string name="ambient_display">Ambient Display</string>
+    <string name="may_not_be_compatible">May not be compatible with your device</string>
+    <string name="adb_wifi">Adb Over LAN</string>
+    <string name="command_to_execute">Execute this command on your pc to connect the device</string>
+    <string name="invert_colors">Invert colors</string>
+    <string name="advise_disable_tile">Click on Edit in notification panel to remove disabled quick settings</string>
+    <string name="require_unlock">Require unlock</string>
 </resources>
