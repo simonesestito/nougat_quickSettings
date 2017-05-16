@@ -25,3 +25,6 @@ I'll include your translation in the next updates of the app ;D
     
 
 <b><code>name="app_menu_item_button_text"</code> NOT CHANGED</b>
+
+<h3>How to get credits</h3>
+If you want to receive credits on your translation, you have to <a href="https://help.github.com/articles/creating-a-pull-request/">do a pull request</a> renaming your XML translated file <i>strings-CODE.xml</i> where CODE is the language code
