@@ -6,6 +6,9 @@
 - Translate it in your language but DO NOT change <code>name</code> value
 - Send me the translated xml via email to <a href="mailto:simone.dev.help@gmail.com">simone.dev.help@gmail.com</a>
 
+**The Chinese users can't enter Play Store directly, so I put the apkfile here. <a href="https://github.com/wenyinos/nougat_quickSettings/releases/download/v4.1/Nougat.Quick.Settings_v4.1_apkpure.com.apk">Download Nougat Quick Settings_v4.1 apk file</a>
+(Downdoad it on apkpure.com)**
+
 I'll include your translation in the next updates of the app ;D
 
 <h3>Example (in Italian)</h3>
