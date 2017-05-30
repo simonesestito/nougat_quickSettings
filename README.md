@@ -2,7 +2,7 @@
 
 <h3>How to help translation in your language</h3>
 
-- Download <a href="https://github.com/simonesestito/nougat_quickSettings/blob/master/strings.xml">strings.xml English file</a> to your computer
+- Download <a href="https://raw.githubusercontent.com/simonesestito/nougat_quickSettings/master/strings.xml">strings.xml English file</a> to your computer
 - Translate it in your language but DO NOT change <code>name</code> value
 - Send me the translated xml via email to <a href="mailto:simone.dev.help@gmail.com">simone.dev.help@gmail.com</a>
 
