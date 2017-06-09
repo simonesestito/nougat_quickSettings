@@ -103,15 +103,11 @@
     <string name="bluefilter_summary">Apply a coloured filter on the screen</string>
     <string name="brightness">Brightness</string>
     <string name="brightness_summary">Adjust the brightness</string>
-    <string name="how_to_use">How to use</string>
     <string name="leave_review">Leave a review</string>
     <string name="dice">Dice</string>
     <string name="dice_summary">Roll the dice</string>
     <string name="enable_all_tiles">Enable all quicksettings</string>
     <string name="night_filter_working">Night filter is working</string>
-    <string name="credits">Credits</string>
-    <string name="round_icon">Round launcher icon</string>
-    <string name="standard_icon">Standard launcher icon</string>
     <string name="drawable_icons">Various drawables</string>
     <string name="not_supported">Not supported</string>
     <string name="donation_s">$0.99</string>
@@ -156,4 +152,22 @@
     <string name="invert_colors">Invert colors</string>
     <string name="advise_disable_tile">Click on Edit in notification panel to remove disabled quick settings</string>
     <string name="require_unlock">Require unlock</string>
+    <string name="stop_at_screen_lock">Stop when the phone will be locked</string>
+    <string name="music_volume_tile">Music volume</string>
+    <string name="music_volume_tile_summary">Enable or disable music volume quickly</string>
+    <string name="animations">Animations</string>
+    <string name="animations_summary">Change animation scale</string>
+    <string name="camera">Camera</string>
+    <string name="camera_summary">Launch the camera</string>
+    <string name="camera_tile_record_video">Open camera in video mode instead of photo mode</string>
+    <string name="orientation">Rotation</string>
+    <string name="battery">Battery</string>
+    <string name="battery_level">Show battery level</string>
+    <string name="battery_style">Battery style</string>
+    <string name="need_help">Help &amp; contacts</string>
+    <string name="faq">Read FAQs</string>
+    <string name="send_email">Email me</string>
+    <string name="join_telegram">Join Telegram group</string>
+    <string name="notification_ongoing_channel">Ongoing services</string>
+
 </resources>
