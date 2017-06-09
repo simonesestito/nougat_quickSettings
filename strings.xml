@@ -63,7 +63,7 @@
     <string name="share">Share</string>
     <string name="ringer">Ringer mode</string>
     <string name="permission_required">Permission required</string>
-    <string name="normal">Ringer</string>
+    <string name="normal">Sound</string>
     <string name="silent">Mute</string>
     <string name="vibrate">Vibration</string>
     <string name="in_ear_summary">Listen to the music via the headset capsule of calls. Useful if you haven\'t got any headset</string>
