@@ -150,7 +150,6 @@
     <string name="adb_wifi">Adb Over LAN</string>
     <string name="command_to_execute">Execute this command on your pc to connect the device</string>
     <string name="invert_colors">Invert colors</string>
-    <string name="advise_disable_tile">Click on Edit in notification panel to remove disabled quick settings</string>
     <string name="require_unlock">Require unlock</string>
     <string name="stop_at_screen_lock">Stop when the phone will be locked</string>
     <string name="music_volume_tile">Music volume</string>
@@ -169,5 +168,8 @@
     <string name="send_email">Email me</string>
     <string name="join_telegram">Join Telegram group</string>
     <string name="notification_ongoing_channel">Ongoing services</string>
+    <string name="join_telegram_long_message">Would you like to join the official international Telegram group?</string>
+    <string name="advise_edit_tiles_from_panel">Add this tile editing your quick settings panel.\nFor more information, click the Help button at the top of this page</string>
+    <string name="vibrate_on_ring">Vibrate for calls</string>
 
 </resources>
