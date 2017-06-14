@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Nougat快捷通知栏设定</string>
     <string name="lock">锁屏界面</string>
     <string name="admin_rights_explanation">允许在锁屏页面显示</string>
     <string name="sync">同步</string>
@@ -44,7 +43,6 @@
     <string name="reminder_copy">复制文字</string>
     <string name="copied">复制到剪贴板</string>
     <string name="delete_last">删除最后一行</string>
-    <string name="title_activity_settings" translatable="false">快速设定</string>
     <string name="hide_from_launcher">从启动器图标中隐藏</string>
     <string name="sure">确定吗？</string>
     <string name="hide_alert_message">这个应用将从启动器图标中隐藏。 \n 如果要重新显示，您需要清除应用数据。</string>
@@ -103,15 +101,11 @@
     <string name="bluefilter_summary">在屏幕上应用过滤色</string>
     <string name="brightness">亮度</string>
     <string name="brightness_summary">调节亮度</string>
-    <string name="how_to_use">使用方法</string>
     <string name="leave_review">给予好评</string>
     <string name="dice">骰子</string>
     <string name="dice_summary">扔骰子</string>
     <string name="enable_all_tiles">启用所有快速设定</string>
     <string name="night_filter_working">夜间过滤器工作中</string>
-    <string name="credits">评分</string>
-    <string name="round_icon">环形启动器图标</string>
-    <string name="standard_icon">默认启动器图标</string>
     <string name="drawable_icons">可绘制图标</string>
     <string name="not_supported">不支持</string>
     <string name="donation_s">$0.99</string>
@@ -154,6 +148,5 @@
     <string name="adb_wifi">通过LAN进行Adb调试</string>
     <string name="command_to_execute">在您的电脑上执行此命令连接设备</string>
     <string name="invert_colors">反转颜色</string>
-    <string name="advise_disable_tile">点击通知面板中的修改以删除禁用的快速设置</string>
     <string name="require_unlock">需要解锁</string>
 </resources>

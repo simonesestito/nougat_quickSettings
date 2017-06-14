@@ -10,7 +10,6 @@
     <string name="sound">Hangerő</string>
     <string name="select_app">Válassz egy alkalmazást</string>
     <string name="app">Alkalmazás</string>
-    <string name="root_denied">SU elérhető, root-hozzáférés megtagadva</string>
     <string name="mono">Fülbehang</string>
     <string name="mono_run">Fülbehang aktív</string>
     <string name="mono_stop">Nyomj a Fülbehang csempére a kikapcsoláshoz</string>
@@ -26,7 +25,6 @@
     <string name="gps_only">GPS</string>
     <string name="gps_wifi">Hálózat</string>
     <string name="gps_all">GPS + hálózat</string>
-    <string name="done">Kész</string>
     <string name="gps_off">Letiltva</string>
     <string name="position">Pozíció</string>
     <string name="share_screenshot">Képernyőkép megosztása…</string>
@@ -46,7 +44,6 @@
     <string name="reminder_copy">Másolás</string>
     <string name="copied">Vágólapra másolva</string>
     <string name="delete_last">Utolsó sor törlése</string>
-    <string name="title_activity_settings">Gyorsbeállítás-kezelő</string>
     <string name="hide_from_launcher">Elrejtés az indítóból</string>
     <string name="sure">Biztos vagy benne?</string>
     <string name="hide_alert_message">Az alkalmazás el lesz rejtve az indítóból.\nAz újbóli mutatáshoz ki kell törölnöd az adatokat</string>
@@ -105,18 +102,12 @@
     <string name="bluefilter_summary">Egy színes filter aktiválása</string>
     <string name="brightness">Fényerő</string>
     <string name="brightness_summary">Fényerő kezelése</string>
-    <string name="how_to_use">Útmutató</string>
     <string name="leave_review">Mondd el a véleményed</string>
-    <string name="soon_available">Hamarosan</string>
     <string name="dice">Dobókocka</string>
     <string name="dice_summary">Dobj egy szémot</string>
     <string name="enable_all_tiles">Összes engedélyezése</string>
     <string name="night_filter_working">Éjszakai filter aktív</string>
-    <string name="credits">Készítők</string>
-    <string name="round_icon">Kerek indító-ikon</string>
-    <string name="standard_icon">Alapértelmezett indító-ikon</string>
     <string name="drawable_icons">Egyéb ikonok</string>
-    <string name="translation_credits">Magyarra fordította</string>
     <string name="not_supported">Nem támogatott</string>
     <string name="donation_s">$0,99</string>
     <string name="donation_s_effective">Körübelül $0,69-t kapok</string>

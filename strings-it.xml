@@ -103,7 +103,6 @@
     <string name="tally_counter">Contatore</string>
     <string name="tally_counter_summary">Un contatore sempre a portata di mano</string>
     <string name="leave_review">Lascia una recensione</string>
-    <string name="soon_available">Presto disponibile</string>
     <string name="dice">Dado</string>
     <string name="dice_summary">Lancia il dado</string>
     <string name="enable_all_tiles">Attiva tutti i quicksettings</string>
@@ -168,7 +167,6 @@
     <string name="join_telegram">Entra nel gruppo Telegram</string>
     <string name="notification_ongoing_channel">Servizi in corso</string>
     <string name="join_telegram_long_message">Vuoi entare nel gruppo internazionale di questa app su Telegram?</string>
-    <string name="advise_edit_tiles_from_panel">Aggiungi il tile appena attivato editando il tuo pannello dei quick settings.\nMaggiori informazioni cliccando il tasto Aiuto in alto</string>
     <string name="vibrate_on_ring">Vibrazione per le telefonate</string>
 
 </resources>

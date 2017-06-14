@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Configurações Rápidas Nougat</string>
     <string name="lock">Bloqueio de tela</string>
     <string name="admin_rights_explanation">Permitir bloquear a tela</string>
     <string name="sync">Sincronizar</string>
@@ -11,7 +10,6 @@
     <string name="sound">Volume</string>
     <string name="select_app">Escolha um aplicativo</string>
     <string name="app">Aplicativo</string>
-    <string name="root_denied">SU binário disponível, acesso root negado</string>
     <string name="mono">Áudio In-Ear</string>
     <string name="mono_run">Áudio In-Ear está ativo</string>
     <string name="mono_stop">Clique na notificação "Áudio In-Ear" para encerrar</string>
@@ -27,7 +25,6 @@
     <string name="gps_only">GPS</string>
     <string name="gps_wifi">Rede</string>
     <string name="gps_all">GPS + rede</string>
-    <string name="done">Pronto</string>
     <string name="gps_off">Desativado</string>
     <string name="position">Posição</string>
     <string name="share_screenshot">Compartilhar captura de tela…</string>
@@ -47,7 +44,6 @@
     <string name="reminder_copy">Copiar texto</string>
     <string name="copied">Copiado para a área de tranferência</string>
     <string name="delete_last">Apagar última linha</string>
-    <string name="title_activity_settings">Gerenciar Configurações Rápidas</string>
     <string name="hide_from_launcher">Ocultar aplicativo</string>
     <string name="sure">Tem certeza?</string>
     <string name="hide_alert_message">O aplicativo será oculto da gaveta de aplicativos. Para mostrar novamente deverá limpar os dados do aplicativo.</string>
@@ -106,18 +102,12 @@
     <string name="bluefilter_summary">Aplicar um filtro de cor a tela</string>
     <string name="brightness">Brilho</string>
     <string name="brightness_summary">Ajustar o brilho</string>
-    <string name="how_to_use">Como usar</string>
     <string name="leave_review">Deixe uma avaliação</string>
-    <string name="soon_available">Em breve</string>
     <string name="dice">Dado</string>
     <string name="dice_summary">Jogue o dado</string>
     <string name="enable_all_tiles">Ativar todas as configurações rápidas</string>
     <string name="night_filter_working">Filtro noturno em execução</string>
-    <string name="credits">Creditos</string>
-    <string name="round_icon">Ícone redondo</string>
-    <string name="standard_icon">Ícone padrão</string>
     <string name="drawable_icons">Vários drawables</string>
-    <string name="translation_credits">Traduzido neste idioma por</string>
     <string name="not_supported">Não suportado</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">Receberei cerca de $0.69</string>

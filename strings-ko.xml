@@ -10,10 +10,8 @@
     <string name="sound">볼륨</string>
     <string name="select_app">앱을 선택해주세요</string>
     <string name="app">어플리케이션</string>
-    <string name="root_denied">SU 바이너리 사용 가능, 루트 권한 거부됨</string>
     <string name="mono">수화기 모드</string>
     <string name="mono_run">수화기 모드가 실행 중입니다</string>
-    <string name="mono_stop"></string>
     <string name="reboot_simple">재부팅</string>
     <string name="reboot_soft">빠른 재부팅</string>
     <string name="reboot_recovery">리커버리 재부팅</string>
@@ -26,7 +24,6 @@
     <string name="gps_only">GPS</string>
     <string name="gps_wifi">네트워크</string>
     <string name="gps_all">GPS + 네트워크</string>
-    <string name="done">완료</string>
     <string name="gps_off">비활성화 됨</string>
     <string name="position">위치</string>
     <string name="share_screenshot">스크린샷을 공유...</string>
@@ -46,7 +43,6 @@
     <string name="reminder_copy">텍스트 복사</string>
     <string name="copied">클립보드에 복사되었습니다</string>
     <string name="delete_last">마지막 줄 지우기</string>
-    <string name="title_activity_settings">빠른설정창 매니저</string>
     <string name="hide_from_launcher">런처에서 숨기기</string>
     <string name="sure">확실하신가요?</string>
     <string name="hide_alert_message">모든 타일들이 추가되고 앱의 아이콘이 런처에서 숨겨집니다. 다시 보이게 하려면 앱의 데이터를 모두 삭제하셔야 합니다</string>
@@ -105,18 +101,12 @@
     <string name="bluefilter_summary">화면에 색상 필터를 적용합니다</string>
     <string name="brightness">밝기</string>
     <string name="brightness_summary">밝기 조정</string>
-    <string name="how_to_use">사용법</string>
     <string name="leave_review">리뷰를 남깁니다</string>
-    <string name="soon_available">업데이트 예정</string>
     <string name="dice">주사위</string>
     <string name="dice_summary">주사위를 굴립니다</string>
     <string name="enable_all_tiles">모든 빠른설정창 활성화</string>
     <string name="night_filter_working">블루스크린 필터가 실행 중입니다</string>
-    <string name="credits">도움주신 분들</string>
-    <string name="round_icon">동그란 런처 아이콘</string>
-    <string name="standard_icon">기본 런처 아이콘</string>
     <string name="drawable_icons">여러가지 아이콘들</string>
-    <string name="translation_credits">이 언어로 번역해주신 분</string>
     <string name="not_supported">지원하지 않음</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">제게 $0.69달러 정도 들어옵니다</string>

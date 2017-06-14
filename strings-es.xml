@@ -10,7 +10,6 @@
     <string name="sound">Volumen</string>
     <string name="select_app">Elegir una aplicación</string>
     <string name="app">Aplicación</string>
-    <string name="root_denied">Binario SU disponible, acceso root negado</string>
     <string name="mono">Audio In-Ear</string>
     <string name="mono_run">Audio In-Eat ejecutándose</string>
     <string name="mono_stop">Haga clic en "Audio In-Ear" para detener el servicio</string>
@@ -26,7 +25,6 @@
     <string name="gps_only">GPS</string>
     <string name="gps_wifi">Red</string>
     <string name="gps_all">GPS + Red</string>
-    <string name="done">Hecho</string>
     <string name="gps_off">Desactivado</string>
     <string name="position">Posición</string>
     <string name="share_screenshot">Compartir captura de pantalla con...</string>
@@ -46,7 +44,6 @@
     <string name="reminder_copy">Copiar texto</string>
     <string name="copied">Copiado en el portapapeles</string>
     <string name="delete_last">Eliminar la última línea</string>
-    <string name="title_activity_settings">Gestor QuickSettings</string>
     <string name="hide_from_launcher">Ocultar de cajon de aplicaciones</string>
     <string name="sure">¿Estas seguro?</string>
     <string name="hide_alert_message">La aplicación se ocultara del cajon de aplicaciones. Para volver a mostrarlo, tienes que eliminar los datos de la aplicación</string>
@@ -105,18 +102,12 @@
     <string name="bluefilter_summary">Aplicar un filtro de color en la pantalla</string>
     <string name="brightness">Brillo</string>
     <string name="brightness_summary">Ajustar el brillo</string>
-    <string name="how_to_use">Como utilizar</string>
     <string name="leave_review">Dejar un comentario</string>
-    <string name="soon_available">Pronto disponible</string>
     <string name="dice">Dado</string>
     <string name="dice_summary">Tirar los dados</string>
     <string name="enable_all_tiles">Habilitar todas las configuraciones rápidas</string>
     <string name="night_filter_working">Night Filter ejecutándose</string>
-    <string name="credits">Créditos</string>
-    <string name="round_icon">Icono del cajón de aplicaciones redondo</string>
-    <string name="standard_icon">Icono del cajón de aplicaciones estandar</string>
     <string name="drawable_icons">Varios estirables (not sure of this context)</string>
-    <string name="translation_credits">Traducido en este idioma por</string>
     <string name="not_supported">No es soportado</string>
     <string name="order_number">Número de pedido</string>
     <string name="adb">ADB</string>

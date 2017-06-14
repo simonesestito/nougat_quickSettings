@@ -169,7 +169,6 @@
     <string name="join_telegram">Join Telegram group</string>
     <string name="notification_ongoing_channel">Ongoing services</string>
     <string name="join_telegram_long_message">Would you like to join the official international Telegram group?</string>
-    <string name="advise_edit_tiles_from_panel">Add this tile editing your quick settings panel.\nFor more information, click the Help button at the top of this page</string>
     <string name="vibrate_on_ring">Vibrate for calls</string>
 
 </resources>

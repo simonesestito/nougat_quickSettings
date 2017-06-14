@@ -10,7 +10,6 @@
     <string name="sound">Звук</string>
     <string name="select_app">Выберите приложение</string>
     <string name="app">Приложение</string>
-    <string name="root_denied">Отказано в root-доступе</string>
     <string name="mono">Аудио в гарнитуре</string>
     <string name="mono_run">Аудио в гарнитуре запущено</string>
     <string name="mono_stop">Нажмите, чтобы отключить</string>
@@ -26,7 +25,6 @@
     <string name="gps_only">GPS</string>
     <string name="gps_wifi">Сеть</string>
     <string name="gps_all">GPS + сеть</string>
-    <string name="done">Готово</string>
     <string name="gps_off">Отключено</string>
     <string name="position">Местоположение</string>
     <string name="share_screenshot">Поделиться</string>
@@ -46,7 +44,6 @@
     <string name="reminder_copy">Копировать</string>
     <string name="copied">Скопировано в буфер обмена</string>
     <string name="delete_last">Удалить предыдущую заметку </string>
-    <string name="title_activity_settings">Менеджер быстрых настроек</string>
     <string name="hide_from_launcher">Скрыть из лаунчера</string>
     <string name="sure">Вы уверены?</string>
     <string name="hide_alert_message">Все плитки будут включены, и иконка приложения будет скрыта из лаунчера. Чтобы отобразить ее снова, очистите данные приложения.</string>
@@ -105,18 +102,12 @@
     <string name="bluefilter_summary">Применить цветной фильтр для защиты зрения</string>
     <string name="brightness">Яркость</string>
     <string name="brightness_summary">Регулировка яркости</string>
-    <string name="how_to_use">Как использовать</string>
     <string name="leave_review">Написать отзыв</string>
-    <string name="soon_available">Скоро</string>
     <string name="dice">Кости</string>
     <string name="dice_summary">Бросить кости</string>
     <string name="enable_all_tiles">Включить все быстрые настройки</string>
     <string name="night_filter_working">Ночной фильтр работает</string>
-    <string name="credits">Признательность</string>
-    <string name="round_icon">Круглая иконка лаунчера</string>
-    <string name="standard_icon">Стандартная иконка лаунчера</string>
     <string name="drawable_icons"> Различные drawables</string>
-    <string name="translation_credits">Переведено на этот язык</string>
     <string name="not_supported">Не поддерживается</string>
     <string name="donation_s">0.99$</string>
     <string name="donation_s_effective">Я получу около 0.69$</string>
