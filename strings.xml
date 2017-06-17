@@ -175,5 +175,6 @@
     <string name="vibrate_on_ring">Vibrate for calls</string>
     <string name="disable_doze_request">Please disable Doze for this app. It may cause issues on some devices</string>
     <string name="disable_doze_instructions">Go to All Apps tab, find this app and check as Not Optimized</string>
+    <string name="use_letter_as_app_icon">Use first char as app icon</string>
 
 </resources>
