@@ -168,7 +168,7 @@
     <string name="send_email">发Email给我</string>
     <string name="join_telegram">加入Telegram群组</string>
     <string name="notification_ongoing_channel">正在运行的服务</string>
-    <string name="join_telegram_long_message">您想加入我们的国际Telegram群组吗？</string>
+    <string name="join_telegram_long_message">您想加入我们的国际性Telegram群组吗？</string>
     <string name="add">增加</string>
     <string name="remove">移除</string>
     <string name="advise_edit_tiles_from_panel">%s 这个瓷贴可以编辑您的quick settings面板. \n 想获取更多信息请点击页面上方帮助按钮</string>
