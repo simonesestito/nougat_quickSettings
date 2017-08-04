@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <resources>
     <string name="app_name" translatable="false">Nougat Quick Settings</string>
     <string name="lock">Lock Screen</string>
@@ -10,7 +9,7 @@
     <string name="brightness_auto">Auto brightness</string>
     <string name="sound">Volume</string>
     <string name="select_app">Choose an app</string>
-    <string name="app">Application</string>
+    <string name="app">Application &amp; shortcuts</string>
     <string name="mono">In-Ear Audio</string>
     <string name="mono_run">In-Ear Audio is running</string>
     <string name="mono_stop">Click on "In-Ear Audio" tile to stop the service</string>
@@ -181,5 +180,12 @@
     <string name="accessibility_mono_audio_summary">It is equivalent to Settings > Accessibility > Use mono audio</string>
     <string name="mobile_data_type">Cellular data type</string>
     <string name="mobile_data_type_summary">Open mobile data settings</string>
+    <string name="monochrome">Reading mode</string>
+    <string name="monochrome_summary">Filter screen colors and use only w/b</string>
+    <string name="reboot_system_ui">Reload System UI</string>
+    <string name="input_method_picker">Input method picker</string>
+    <string name="power_menu_tile">Power menu</string>
+    <string name="enable_accessibility_service">Please enable accessibility service to perform this action</string>
+    <string name="immersive_preference">Choose your favourite immersive mode</string>
 
 </resources>
