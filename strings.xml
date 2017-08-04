@@ -187,5 +187,6 @@
     <string name="power_menu_tile">Power menu</string>
     <string name="enable_accessibility_service">Please enable accessibility service to perform this action</string>
     <string name="immersive_preference">Choose your favourite immersive mode</string>
+	<string name="immersive_pref_generic">Choose every time</string>
 
 </resources>
