@@ -188,5 +188,14 @@
     <string name="enable_accessibility_service">Please enable accessibility service to perform this action</string>
     <string name="immersive_preference">Choose your favourite immersive mode</string>
 	<string name="immersive_pref_generic">Choose every time</string>
+    <string name="free_space">Free space:</string>
+    <string name="cm_not_detected">You\'re not running LineageOS</string>
+    <string name="cm_profiles">LineageOS Profiles</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="temperature">Temperature</string>
+    <string name="feels_like">Feels like</string>
+    <string name="humidity">Humidity</string>
+    <string name="dew_point">Dew point</string>
+    <string name="error">Error</string>
 
 </resources>
