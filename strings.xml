@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Nougat Quick Settings</string>
     <string name="lock">Lock Screen</string>
     <string name="admin_rights_explanation">Allow to lock the screen</string>
     <string name="sync">Sync</string>
@@ -44,7 +43,6 @@
     <string name="reminder_copy">Copy text</string>
     <string name="copied">Copied in clipboard</string>
     <string name="delete_last">Delete last line</string>
-    <string name="title_activity_settings" translatable="false">Quick Settings</string>
     <string name="hide_from_launcher">Hide from launcher</string>
     <string name="sure">Are you sure?</string>
     <string name="hide_alert_message">The app will be hidden from launcher.\nTo show it again, you have to delete app data</string>
@@ -222,7 +220,6 @@
     <string name="position_summary">Change location mode with a tap</string>
     <string name="adb_summary">Enable or disable ADB</string>
     <string name="adb_wifi_summary">Enable or disable ADB Over WiFi</string>
-    <string name="empty" translatable="false"/>
     <string name="disable_tile">Disable toggle</string>
     <string name="enable_tile">Enable toggle</string>
     <string name="customize">Customize</string>
@@ -234,7 +231,6 @@
     <string name="empty_search_results">Nothing found here.</string>
     <string name="save">Save</string>
     <string name="search">Search</string>
-    <string name="pip_tile" translatable="false">Picture-in-Picture</string>
     <string name="oreo_required">Android Oreo 8.0.0 is required</string>
     <string name="pip_tile_summary">Simulate PiP button pressure using a quick tile</string>
     <string name="watch_video">Watch video tutorial</string>
@@ -245,6 +241,5 @@
     <string name="change_theme">Change theme</string>
     <string name="dark_theme">Dark theme</string>
     <string name="light_theme">Light theme</string>
-    <string name="cm_live_display_tile" translatable="false">LiveDisplay</string>
     <string name="cm_live_display_tile_summary">Enable or disable LiveDisplay</string>
 </resources>
