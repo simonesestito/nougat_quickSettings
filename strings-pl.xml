@@ -129,7 +129,7 @@
     <string name="caffeina_o_dialog">Tryb nocny nie może uruchomić filtra na paskach nawigacji i statusu z powodu ograniczeń Androida O. To nie jest wina aplikacji</string>
     <string name="never_show">Nie pokazuj ponownie</string>
     <string name="weather">Pogoda</string>
-    <string name="weather_summary">Dostarczana przez openweathermap.org</string>
+    <string name="weather_summary">Dostarczana przez Google Awareness API</string>
     <string name="weather_use_imperial">Użyj stopni Farenheita zamiast Celsjusza</string>
     <string name="in_ear_hide_screen">Wygaś ekran po podniesieniu go do głowy</string>
     <string name="data_mobile">Transmisja danych</string>
@@ -168,7 +168,6 @@
     <string name="send_email">Wyślij email</string>
     <string name="join_telegram">Dołącz do grupy Telegramu</string>
     <string name="notification_ongoing_channel">Uruchomione usługi</string>
-    <string name="join_telegram_long_message">Czy chciałbyś dołączyć do oficjalnej międzynarodowej grupy na Telegramie?</string>
     <string name="add">Dodaj</string>
     <string name="remove">Usuń</string>
     <string name="advise_edit_tiles_from_panel">%s ten kafelek z menu edycji szybkich ustawień.\nPo więcej informacji udaj się do pomocy na górze tej strony</string>

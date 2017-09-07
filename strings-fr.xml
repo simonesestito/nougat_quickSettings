@@ -129,7 +129,7 @@
     <string name="caffeina_o_dialog">Le filtre ne peut pas se superposer aux barres à cause des limitations d’Android O. Ce n’est pas la faute de l’application</string>
     <string name="never_show">Ne plus montrer</string>
     <string name="weather">Météo</string>
-    <string name="weather_summary">Fourni par openweathermap.org</string>
+    <string name="weather_summary">Fourni par Google Awareness API</string>
     <string name="weather_use_imperial">Utiliser les unités impériales plutôt que les métriques</string>
     <string name="in_ear_hide_screen">Éteindre l’écran quand le téléphone est près de la tête</string>
     <string name="data_mobile">Données mobiles</string>
@@ -141,9 +141,9 @@
     <string name="battery_saver">Économiseur de batterie</string>
     <string name="not_supported_in_charging_state">Pas disponible lorsque l’appareil est en charge</string>
     <string name="root_security_settings">Votre appareil n’est pas rooté.\n
-        Pour utiliser ce réglage rapide, vous devez
-        exécuter une commande sur votre PC\n
-        \'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
+    Pour utiliser ce réglage rapide, vous devez
+ exécuter une commande sur votre PC\n
+    \'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
     <string name="root_semi_necessary">Réglages de sécurité</string>
     <string name="ambient_display">Économiseur d’écran</string>
     <string name="may_not_be_compatible">Peut ne pas être compatible avec votre appareil</string>

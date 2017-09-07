@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Nougat Quick Settings</string>
+    <string name="app_name" translatable="false">Quick Settings</string>
     <string name="lock">Lock Screen</string>
     <string name="admin_rights_explanation">Allow to lock the screen</string>
     <string name="sync">Sync</string>
@@ -71,7 +71,7 @@
     <string name="root_required">Root permission required</string>
     <string name="caffeina_summary">Keep the screen awake</string>
     <string name="app_summary">Choose an app to launch</string>
-    <string name="immersive_summary">Hide system bars. Root required</string>
+    <string name="immersive_summary">Hide system bars</string>
     <string name="reminder_summary">Use a notification to note whatever you want</string>
     <string name="screenshot_summary">Take screenshots with a single tap</string>
     <string name="ringer_summary">Ringer - Vibration - Mute</string>
@@ -84,12 +84,12 @@
     <string name="calc_summary">Launch system calculator</string>
     <string name="calc_not_found">System calculator not found</string>
     <string name="sync_summary">Enable or disable synchronization</string>
-    <string name="nfc_summary">Enable or disable NFC. Root required</string>
+    <string name="nfc_summary">Enable or disable NFC</string>
     <string name="in_ear_max">Increase the volume to maximum at the activation</string>
     <string name="heads_up">Heads-Up</string>
     <string name="screen_timeout">Screen timeout</string>
     <string name="timer">Timer</string>
-    <string name="heads_up_summary">Enable or disable Heads Up notifications. Root required</string>
+    <string name="heads_up_summary">Enable or disable Heads Up notifications</string>
     <string name="screen_timeout_summary">Set screen timeout</string>
     <string name="storage">Storage</string>
     <string name="storage_summary">Open system file manager</string>
@@ -106,7 +106,7 @@
     <string name="leave_review">Leave a review</string>
     <string name="dice">Dice</string>
     <string name="dice_summary">Roll the dice</string>
-    <string name="enable_all_tiles">Enable all quicksettings</string>
+    <string name="enable_all_tiles">Enable all quick settings</string>
     <string name="night_filter_working">Night filter is working</string>
     <string name="drawable_icons">Various drawables</string>
     <string name="not_supported">Not supported</string>
@@ -130,12 +130,12 @@
     <string name="caffeina_o_dialog">Night Filter can\'t show the overlay on system bars due to Android O system limitations. It isn\'t app\'s fault</string>
     <string name="never_show">Never show again</string>
     <string name="weather">Weather</string>
-    <string name="weather_summary">Provided by openweathermap.org</string>
+    <string name="weather_summary">Provided by Google Awareness API</string>
     <string name="weather_use_imperial">Use imperial units instead of metric ones</string>
     <string name="in_ear_hide_screen">Hide screen when the phone is near your head</string>
     <string name="data_mobile">Mobile data</string>
     <string name="vpn">VPN</string>
-    <string name="data_mobile_summary">Change mobile data status. Root required</string>
+    <string name="data_mobile_summary">Change mobile data status</string>
     <string name="vpn_summary">Open VPN settings</string><string name="cast">Cast</string>
     <string name="cast_summary">Open \"Cast\" screen</string>
     <string name="help_translation">Help the translation</string>
@@ -166,9 +166,8 @@
     <string name="need_help">Help &amp; contacts</string>
     <string name="faq">Read FAQs</string>
     <string name="send_email">Email me</string>
-    <string name="join_telegram">Join Telegram group</string>
+    <string name="join_telegram">Join Telegram channel</string>
     <string name="notification_ongoing_channel">Ongoing services</string>
-    <string name="join_telegram_long_message">Would you like to join the official international Telegram group?</string>
     <string name="add">Add</string>
     <string name="remove">Remove</string>
     <string name="advise_edit_tiles_from_panel">%s this tile editing your quick settings panel.\nFor more information, click the Help button at the top of this page</string>
@@ -188,5 +187,76 @@
     <string name="enable_accessibility_service">Please enable accessibility service to perform this action</string>
     <string name="immersive_preference">Choose your favourite immersive mode</string>
 	<string name="immersive_pref_generic">Choose every time</string>
+    <string name="free_space">Free space:</string>
+    <string name="cm_not_detected">You\'re not running LineageOS</string>
+    <string name="cm_profiles">LineageOS Profiles</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="temperature">Temperature</string>
+    <string name="feels_like">Feels like</string>
+    <string name="humidity">Humidity</string>
+    <string name="dew_point">Dew point</string>
+    <string name="error">Error</string>
+    <string name="request_admin_explanation">This app uses the Device Administrator permission.\n
+        This permission is required to lock the screen when the user clicks on the \'Lock Screen\' tile. This permission will never be used for other purposes</string>
+    <string name="weather_not_available">Weather not available</string>
+    <string name="welcome_home_message">Welcome to Nougat/Oreo Quick Settings</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="utilities">Utilities</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="system_no_root">System (no root)</string>
+    <string name="system_secure_adb">System (secure)</string>
+    <string name="system_root_only">System (root only)</string>
+    <string name="for_developers">Toggles for developers</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_1">App &amp; Shortcuts #1</string>
+    <string name="app_2">App &amp; Shortcuts #2</string>
+    <string name="app_3">App &amp; Shortcuts #3</string>
+    <string name="power_menu_tile_summary">Open power menu system dialog</string>
+    <string name="orientation_summary">Change screen orientation manually (180° included)</string>
+    <string name="input_method_picker_summary">Change input method quickly</string>
+    <string name="cm_profiles_summary">Change CyanogenMod / LineageOS profile quickly</string>
+    <string name="hotspot_summary">Enable WiFi hotspot</string>
+    <string name="battery_saver_summary">Enable or disable AOSP battery saver</string>
+    <string name="position_summary">Change location mode with a tap</string>
+    <string name="adb_summary">Enable or disable ADB</string>
+    <string name="adb_wifi_summary">Enable or disable ADB Over WiFi</string>
+    <string name="empty" translatable="false"/>
+    <string name="disable_tile">Disable toggle</string>
+    <string name="enable_tile">Enable toggle</string>
+    <string name="customize">Customize</string>
+    <string name="nothing_to_customize">There\'s nothing to customize here</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="licenses">Licences</string>
+    <string name="search_result_title">Search results for "%s"</string>
+    <string name="empty_search_results">Nothing found here.</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="pip_tile" translatable="false">Picture-in-Picture</string>
+    <string name="oreo_required">Android Oreo 8.0.0 is required</string>
+    <string name="pip_tile_summary">Simulate PiP button pressure using a quick tile</string>
+    <string name="watch_video">Watch video tutorial</string>
+    <string name="led_tile">Notification LED</string>
+    <string name="led_tile_summary">Enable or disable notification light</string>
+    <string name="show_weather_info_onclick">Show weather info dialog on tile click</string>
+    <string name="enable_location">Please enable a location service</string>
+    <string name="change_theme">Change theme</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="light_theme">Light theme</string>
+    <string name="cm_live_display_tile" translatable="false">LiveDisplay</string>
+    <string name="cm_live_display_tile_summary">Enable or disable LiveDisplay</string>
+    <string name="sound_panel_preference_summary">Choose your favourite volume type</string>
+    <string name="activity_crash_title">An error has occurred</string>
+    <string name="activity_crash_subtitle">Would you like to improve the app?\nClick on \'Send report via email\'</string>
+    <string name="restart_app">Restart the app</string>
+    <string name="report_crash">Send report via email</string>
+    <string name="show_logcat">Show logcat (debug only)</string>
+    <string name="all">List all</string>
+    <string name="last_added">Latest additions</string>
+    <string name="sound_panel_type_auto">Current stream type</string>
+    <string name="sound_panel_type_ring">Ring</string>
+    <string name="sound_panel_type_media">Media volume</string>
+    <string name="sound_panel_type_alarm">Alarms</string>
 
 </resources>

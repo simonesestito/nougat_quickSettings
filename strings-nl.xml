@@ -87,7 +87,7 @@
 
         <string name="delete_last">Verwijder laatste rij</string>
 
-    <string name="hide_from_launcher">Verberg in applicatielijst</string>
+        <string name="hide_from_launcher">Verberg in applicatielijst</string>
 
         <string name="sure">Weet je het zeker?</string>
 
@@ -203,7 +203,7 @@
 
         <string name="brightness_summary">Pas de helderheid aan.</string>
 
-    <string name="leave_review">Laat een review achter</string>
+        <string name="leave_review">Laat een review achter</string>
 
         <string name="dice">Dobbelsteen</string>
 
@@ -213,7 +213,7 @@
 
         <string name="night_filter_working">Nachtfilter staat aan</string>
 
-    <string name="drawable_icons">Verschillende iconen</string>
+        <string name="drawable_icons">Verschillende iconen</string>
 
         <string name="not_supported">Niet ondersteund</string>
 
@@ -257,7 +257,7 @@
 
         <string name="weather">Weer</string>
 
-        <string name="weather_summary">Met dank aan openweathermap.org</string>
+        <string name="weather_summary">Met dank aan Google Awareness API</string>
 
         <string name="weather_use_imperial">Gebruik imperiale eenheden in plaats van metrische</string>
 

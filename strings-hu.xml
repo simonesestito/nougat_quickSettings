@@ -129,7 +129,7 @@
     <string name="caffeina_o_dialog">Az Android O limitációi miatt a filter nem fog látszani a rendszersávokon</string>
     <string name="never_show">Többet ne mutasd</string>
     <string name="weather">Időjárás</string>
-    <string name="weather_summary">Forrás: openweathermap.org</string>
+    <string name="weather_summary">Forrás: Google Awareness API</string>
     <string name="weather_use_imperial">Ne használja a metrikus mértékegységeket</string>
     <string name="in_ear_hide_screen">Képernyő lekapcsolása, ha a fejed közel van</string>
     <string name="data_mobile">Mobilinternet</string>
@@ -138,4 +138,5 @@
     <string name="vpn_summary">VPN-beállítások megnyitása</string>
     <string name="cast">Képernyőmegosztás</string>
     <string name="cast_summary">Képernyőmegosztási képernyő megnyitása</string>
+    <string name="accessibility_mono_audio"></string>
 </resources>
