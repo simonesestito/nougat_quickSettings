@@ -242,7 +242,6 @@
     <string name="cm_live_display_tile_summary">启用或禁用主动显示</string>
     <string name="sound_panel_preference_summary">选择你喜欢的音量类型</string>
     <string name="activity_crash_title">出现了一个错误</string>
-    <string name="activity_crash_subtitle">你想改进应用程序吗？ \n 通过电子邮件发送报告。</string>
     <string name="restart_app">重新启动应用</string>
     <string name="report_crash">发送调试信息</string>
     <string name="show_logcat">显示日志（仅用于调试）</string>

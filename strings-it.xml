@@ -240,7 +240,7 @@
     <string name="dark_theme">Tema scuro</string>
     <string name="light_theme">Tema chiaro</string>
     <string name="cm_live_display_tile_summary">Attiva o disattiva LiveDisplay</string>
-    <string name="activity_crash_subtitle">Vuoi aiutare l\'app? Premi \'Invia report via email\'</string>
+    <string name="activity_crash_subtitle">Ci scusiamo per il crash… :(</string>
     <string name="activity_crash_title">Si è verificato un errore</string>
     <string name="all">Mostra tutto</string>
     <string name="last_added">Ultime aggiunte</string>
@@ -251,7 +251,14 @@
     <string name="sound_panel_type_alarm">Sveglia</string>
     <string name="sound_panel_type_auto">Tipo attuale</string>
     <string name="sound_panel_type_media">Volume multimedia</string>
-    <string name="sound_panel_type_notification"></string>
     <string name="sound_panel_type_ring">Suoneria</string>
+    <string name="disable_admin_rights">Disattiva come amministratore</string>
+    <string name="information">Informazioni</string>
+    <string name="reboot_qs_summary">Riavvia quick settings se non rispondono</string>
+    <string name="rescue_mode">Modalità di recupero</string>
+    <string name="tiles_reboot_wait">I quick settings torneranno a funzionare fra pochi attimi</string>
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="use_aggressive_mode">Esegui in modalità aggressiva</string>
+    <string name="use_aggressive_mode_summary">Utile se spesso non rispondono. Può causare wakelocks</string>
 
 </resources>

@@ -44,7 +44,6 @@
     <string name="reminder_copy">Copy text</string>
     <string name="copied">Copied in clipboard</string>
     <string name="delete_last">Delete last line</string>
-    <string name="title_activity_settings" translatable="false">Quick Settings</string>
     <string name="hide_from_launcher">Hide from launcher</string>
     <string name="sure">Are you sure?</string>
     <string name="hide_alert_message">The app will be hidden from launcher.\nTo show it again, you have to delete app data</string>
@@ -136,7 +135,8 @@
     <string name="data_mobile">Mobile data</string>
     <string name="vpn">VPN</string>
     <string name="data_mobile_summary">Change mobile data status</string>
-    <string name="vpn_summary">Open VPN settings</string><string name="cast">Cast</string>
+    <string name="vpn_summary">Open VPN settings</string>
+    <string name="cast">Cast</string>
     <string name="cast_summary">Open \"Cast\" screen</string>
     <string name="help_translation">Help the translation</string>
     <string name="battery_saver">Battery saver</string>
@@ -186,7 +186,7 @@
     <string name="power_menu_tile">Power menu</string>
     <string name="enable_accessibility_service">Please enable accessibility service to perform this action</string>
     <string name="immersive_preference">Choose your favourite immersive mode</string>
-	<string name="immersive_pref_generic">Choose every time</string>
+    <string name="immersive_pref_generic">Choose every time</string>
     <string name="free_space">Free space:</string>
     <string name="cm_not_detected">You\'re not running LineageOS</string>
     <string name="cm_profiles">LineageOS Profiles</string>
@@ -248,7 +248,7 @@
     <string name="cm_live_display_tile_summary">Enable or disable LiveDisplay</string>
     <string name="sound_panel_preference_summary">Choose your favourite volume type</string>
     <string name="activity_crash_title">An error has occurred</string>
-    <string name="activity_crash_subtitle">Would you like to improve the app?\nClick on \'Send report via email\'</string>
+    <string name="activity_crash_subtitle">We are really sorry for this crash… :(</string>
     <string name="restart_app">Restart the app</string>
     <string name="report_crash">Send report via email</string>
     <string name="show_logcat">Show logcat (debug only)</string>
@@ -258,5 +258,13 @@
     <string name="sound_panel_type_ring">Ring</string>
     <string name="sound_panel_type_media">Media volume</string>
     <string name="sound_panel_type_alarm">Alarms</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="reboot_qs_summary">Restart quick settings if they don\'t respond</string>
+    <string name="rescue_mode">Recovery mode</string>
+    <string name="use_aggressive_mode">Run in aggressive mode</string>
+    <string name="use_aggressive_mode_summary">Useful if quick settings often don\'t respond. It may cause wakelocks</string>
+    <string name="information">Information</string>
+    <string name="tiles_reboot_wait">Quick settings should work again soon</string>
+    <string name="disable_admin_rights">Disable admin rights</string>
 
 </resources>
