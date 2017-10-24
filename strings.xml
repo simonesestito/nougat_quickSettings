@@ -141,9 +141,6 @@
     <string name="help_translation">Help the translation</string>
     <string name="battery_saver">Battery saver</string>
     <string name="not_supported_in_charging_state">Not available while the phone is charging</string>
-    <string name="root_security_settings">Your device is not rooted.\n
-        To use this QS you need to execute a command on your PC\n
-        \'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
     <string name="root_semi_necessary">Secure settings QS</string>
     <string name="ambient_display">Ambient Display</string>
     <string name="may_not_be_compatible">May not be compatible with your device</string>
@@ -213,6 +210,8 @@
     <string name="app_1">App &amp; Shortcuts #1</string>
     <string name="app_2">App &amp; Shortcuts #2</string>
     <string name="app_3">App &amp; Shortcuts #3</string>
+    <string name="app_4">App &amp; Shortcuts #4</string>
+    <string name="app_5">App &amp; Shortcuts #5</string>
     <string name="power_menu_tile_summary">Open power menu system dialog</string>
     <string name="orientation_summary">Change screen orientation manually (180° included)</string>
     <string name="input_method_picker_summary">Change input method quickly</string>
@@ -233,9 +232,7 @@
     <string name="empty_search_results">Nothing found here.</string>
     <string name="save">Save</string>
     <string name="search">Search</string>
-    <string name="pip_tile" translatable="false">Picture-in-Picture</string>
     <string name="oreo_required">Android Oreo 8.0.0 is required</string>
-    <string name="pip_tile_summary">Simulate PiP button pressure using a quick tile</string>
     <string name="watch_video">Watch video tutorial</string>
     <string name="led_tile">Notification LED</string>
     <string name="led_tile_summary">Enable or disable notification light</string>
@@ -266,5 +263,25 @@
     <string name="information">Information</string>
     <string name="tiles_reboot_wait">Quick settings should work again soon</string>
     <string name="disable_admin_rights">Disable admin rights</string>
+    <string name="ringer_mode_vibrate">Vibration</string>
+    <string name="ringer_mode_normal">Ringing mode</string>
+    <string name="ringer_mode_priority_mode">Priority mode</string>
+    <string name="ringer_mode_alarms_only">Alarms only</string>
+    <string name="ringer_mode_total_silence">Total silence</string>
+    <string name="ringer_mode_all">Include Priority Mode and Total Silence in choice list</string>
+    <string name="show_touches">Show taps</string>
+    <string name="reboot_erecovery_huawei">Reboot Huawei eRecovery</string>
+    <string name="huawei_required">Huawei device required</string>
+    <string name="density_chooser">Set density</string>
+    <string name="color_black">Black</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_red">Red</string>
+    <string name="battery_ongoing">Observing your battery level</string>
+    <string name="screenshot_ongoing">Processing screenshot</string>
+    <string name="internet_speed">Internet speed</string>
+    <string name="how_to_use_card_home">How to use it?</string>
+    <string name="root_security_settings_short">Click here for more information</string>
+    <string name="root_security_settings_long">You are not rooted, but this can be unlocked using a PC.\nOn your computer, go to https://simonesestito.tk/qs_enabler to download the software</string>
+    <string name="more">More</string>
 
 </resources>

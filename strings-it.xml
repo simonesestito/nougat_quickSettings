@@ -146,7 +146,6 @@
     <string name="command_to_execute">Esegui questo comando sul pc per collegare il dispositivo</string>
     <string name="invert_colors">Inverti colori</string>
     <string name="may_not_be_compatible">Potrebbe non essere compatibile col tuo dispositivo</string>
-    <string name="root_security_settings">Il tuo dispositivo non ha i permessi di root. Per usare questa funzione, esegui il seguente comando sul tuo computer:\n\'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
     <string name="root_semi_necessary">Secure Settings QS</string>
     <string name="require_unlock">Richiedi sblocco</string>
     <string name="stop_at_screen_lock">Ferma quando il dispositivo viene bloccato</string>
@@ -199,9 +198,11 @@
     <string name="action_settings">Impostazioni</string>
     <string name="adb_summary">Attiva o disattiva ADB</string>
     <string name="adb_wifi_summary">Attiva o disattiva Adb Over WiFi</string>
-    <string name="app_1">App e scorciatoie #1</string>
-    <string name="app_2">App e scorciatoie #2</string>
-    <string name="app_3">App e scorciatoie #3</string>
+    <string name="app_1">App &amp; scorciatoie #1</string>
+    <string name="app_2">App &amp; scorciatoie #2</string>
+    <string name="app_3">App &amp; scorciatoie #3</string>
+    <string name="app_4">App &amp; scorciatoie #4</string>
+    <string name="app_5">App &amp; scorciatoie #5</string>
     <string name="battery_saver_summary">Attiva o disattiva il risparmio batteria AOSP</string>
     <string name="categories">Categorie</string>
     <string name="cm_profiles_summary">Cambia il profilo LineageOS velocemente</string>
@@ -260,5 +261,25 @@
     <string name="title_activity_settings">Impostazioni</string>
     <string name="use_aggressive_mode">Esegui in modalità aggressiva</string>
     <string name="use_aggressive_mode_summary">Utile se spesso non rispondono. Può causare wakelocks</string>
+    <string name="ringer_mode_vibrate">Vibrazione</string>
+    <string name="ringer_mode_normal">Suoneria</string>
+    <string name="ringer_mode_priority_mode">Priorità</string>
+    <string name="ringer_mode_alarms_only">Solo sveglie</string>
+    <string name="ringer_mode_total_silence">Silenzio totale</string>
+    <string name="ringer_mode_all">Includi Priorità e Silenzio Totale nella selezione</string>
+    <string name="show_touches">Mostra tocchi</string>
+    <string name="reboot_erecovery_huawei">Riavvia in Huawei eRecovery</string>
+    <string name="huawei_required">Dispositivo Huawei richiesto</string>
+    <string name="density_chooser">Imposta densità</string>
+    <string name="color_black">Ner</string>
+    <string name="color_yellow">Giallo</string>
+    <string name="color_red">Rosso</string>
+    <string name="battery_ongoing">Osservando il livello di carica</string>
+    <string name="screenshot_ongoing">Elaborazione screenshot</string>
+    <string name="internet_speed">Velocità Internet</string>
+    <string name="how_to_use_card_home">Come si usa?</string>
+    <string name="root_security_settings_short">Premi per maggiori informazioni</string>
+    <string name="root_security_settings_long">Non hai i permessi di root, ma puoi usare questo tile con un PC. Sul computer, vai a https://simonesestito.tk/qs_enabler per scaricare il software</string>
+    <string name="more">Di più</string>
 
 </resources>
