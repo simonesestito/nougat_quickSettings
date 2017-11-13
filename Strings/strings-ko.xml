@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">잠금 화면</string>
-    <string name="admin_rights_explanation">화면 잠금을 허용</string>
     <string name="sync">동기화</string>
     <string name="caffeina">카페인</string>
     <string name="caffeina_stop">카페인 타일을 눌러 정지하세요</string>
@@ -53,7 +52,6 @@
     <string name="reboot_to_refresh">재부팅이 필요할 수도 있습니다</string>
     <string name="volume_up">음량 +</string>
     <string name="volume_down">음량 -</string>
-    <string name="custom_options">커스터마이즈</string>
     <string name="store_screenshots">스크린샷을 공유 대신 저장합니다</string>
     <string name="screenshot_done">스크린샷이 저장되었습니다</string>
     <string name="screenshot_touch_to_show">스크린샷 보기</string>
@@ -61,9 +59,6 @@
     <string name="share">공유</string>
     <string name="ringer">벨소리 모드</string>
     <string name="permission_required">권한이 필요합니다</string>
-    <string name="normal">벨소리</string>
-    <string name="silent">무음</string>
-    <string name="vibrate">진동</string>
     <string name="in_ear_summary">전면의 전화 리시버를 통해 음악을 듣습니다. 헤드셋이 없다면 유용한 기능입니다</string>
     <string name="lock_summary">지문으로 잠금을 해제하기 위해선 루팅이 필요합니다</string>
     <string name="root_required">루트 권한 필요</string>
@@ -106,7 +101,6 @@
     <string name="dice_summary">주사위를 굴립니다</string>
     <string name="enable_all_tiles">모든 빠른설정창 활성화</string>
     <string name="night_filter_working">블루스크린 필터가 실행 중입니다</string>
-    <string name="drawable_icons">여러가지 아이콘들</string>
     <string name="not_supported">지원하지 않음</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">제게 $0.69달러 정도 들어옵니다</string>

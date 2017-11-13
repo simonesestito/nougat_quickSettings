@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">Sperrbildschirm</string>
-    <string name="admin_rights_explanation">Erlaubt den Bildschirm zu sperren</string>
     <string name="sync">Sync</string>
     <string name="caffeina">Caffeine</string>
     <string name="caffeina_stop">Tippe auf die Caffeine Schaltfläche um den Dienst anzuhalten</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Sie müssen ihr Gerät neustarten</string>
     <string name="volume_up">Lautstärke +</string>
     <string name="volume_down">Lautstärke -</string>
-    <string name="custom_options">Anpassen</string>
     <string name="store_screenshots">Speicher Screenshots, anstatt sie zu teilen</string>
     <string name="screenshot_done">Screenshot gespeichert</string>
     <string name="screenshot_touch_to_show">Tippen um den Screenshot anzuzeigen</string>
@@ -62,9 +60,6 @@
     <string name="share">Teilen</string>
     <string name="ringer">Tonprofil</string>
     <string name="permission_required">Berichtigung benötigt</string>
-    <string name="normal">Sound</string>
-    <string name="silent">Stumm</string>
-    <string name="vibrate">Vibration</string>
     <string name="in_ear_summary">Musikhören mittels der Hörmuschel. Nützlich wenn sie kein Headset haben</string>
     <string name="lock_summary">Zur Entsperrung mittels Fingerabdruck muss das Gerät gerottet sein</string>
     <string name="root_required">Root Berechtigung benötigt</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">Würfel rollen lassen</string>
     <string name="enable_all_tiles">Aktiviere alle Schnelleinstellungen</string>
     <string name="night_filter_working">Nachtfilter läuft</string>
-    <string name="drawable_icons">Diverse Drawables</string>
     <string name="not_supported">Nicht unterstützt</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">Ich werde circa $0.69 erhalten</string>
@@ -126,7 +120,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">Wiedergabe / Pause</string>
     <string name="play_pause_summary">Wiedergabe oder Pause der aktuellen Musik</string>
-    <string name="caffeina_o_dialog">Nachtfilter kann kann das Overlay , aufgrund von Android O Systemlimitierungen nicht auf Systemleisten anwenden. Kein App-Fehler</string>
     <string name="never_show">Nicht wieder anzeigen</string>
     <string name="weather">Wetter</string>
     <string name="weather_summary">Bereitgestellt von Google Awareness API</string>
@@ -140,13 +133,12 @@
     <string name="cast_summary">Öffnet \"Cast\" Bildschirm</string>
     <string name="help_translation">Hilf beim Übersetzen</string>
     <string name="battery_saver">Energiesparmodus</string>
-    <string name="not_supported_in_charging_state">Während dem Laden nicht verfügbar</string><string name="root_semi_necessary">Secure settings QS</string>
+    <string name="not_supported_in_charging_state">Während dem Laden nicht verfügbar</string>
     <string name="ambient_display">Inaktivitätsdisplay</string>
     <string name="may_not_be_compatible">Eventuell nicht mit ihrem Gerät kompatibel</string>
     <string name="adb_wifi">Adb über LAN</string>
     <string name="command_to_execute">Führe dieses Kommando auf dem PC aus um das Gerät zu verbinden</string>
     <string name="invert_colors">Farbumkehr</string>
-    <string name="require_unlock">Entsperrung benötigt</string>
     <string name="stop_at_screen_lock">Stoppen wenn das Geröt gesperrt wird</string>
     <string name="music_volume_tile">Musiklautstärke</string>
     <string name="music_volume_tile_summary">Aktiviere oder Deaktiviere Musiklautstärke</string>
@@ -168,8 +160,6 @@
     <string name="remove">Löschen</string>
     <string name="advise_edit_tiles_from_panel">%s this tile editing your quick settings panel.\nFor more information, click the Help button at the top of this page</string>
     <string name="vibrate_on_ring">Vibriere bei Anrufen</string>
-    <string name="disable_doze_request">Bitte deaktiviere Doze für diese App. Es führt auf manchen Geräten eventuell zu Problemen</string>
-    <string name="disable_doze_instructions">Gehe zum Alle Apps Tab, wähle diese App und wähle Nicht oprimieren</string>
     <string name="use_letter_as_app_icon">Nuztze ersten Buchstaben als App-Icon</string>
     <string name="accessibility_mono_audio">Mono Audio</string>
     <string name="accessibility_mono_audio_summary">Gleich wie Einstellungen > Bedienungshilfen > Mono-Audio</string>
@@ -179,8 +169,6 @@
     <string name="monochrome_summary">Filtert Bildschirmfarben und nutzt nur s/w</string>
     <string name="reboot_system_ui">Lade System UI neu</string>
     <string name="input_method_picker">Eingabemethode</string>
-    <string name="power_menu_tile">Powermenü</string>
-    <string name="enable_accessibility_service">Bitte aktiviere Bedienungshilfen um diese Aktion auszuführen</string>
     <string name="immersive_preference">Wähle deinen bevorzugten Immersiv-Modus</string>
     <string name="immersive_pref_generic">Wähle jede Zeit</string>
     <string name="free_space">Freier Platz:</string>
@@ -205,11 +193,9 @@
     <string name="system_secure_adb">System (sicher)</string>
     <string name="system_root_only">System (nur root)</string>
     <string name="for_developers">Kacheln für Entwickler</string>
-    <string name="action_settings">Einstellungen</string>
     <string name="app_1">App &amp; Shortcuts #1</string>
     <string name="app_2">App &amp; Shortcuts #2</string>
     <string name="app_3">App &amp; Shortcuts #3</string>
-    <string name="power_menu_tile_summary">Öffnet den Power-Menü Systemdialog</string>
     <string name="orientation_summary">Ändert Bildschirmorientierun manuell (180° inkludiert)</string>
     <string name="input_method_picker_summary">Ändert Eingabemethode</string>
     <string name="cm_profiles_summary">Ändert CyanogenMod / LineageOS Profil</string>
@@ -228,7 +214,6 @@
     <string name="empty_search_results">Nichts gefunden.</string>
     <string name="save">Sichern</string>
     <string name="search">Suche</string>
-    <string name="oreo_required">Android Oreo 8.0.0 benötigt</string>
     <string name="watch_video">Schau das Videotutorial</string>
     <string name="led_tile">Benachrichtigungs-LED</string>
     <string name="led_tile_summary">Aktiviere oder Deaktiviere die Benachrichtigungs-LED</string>
@@ -242,7 +227,6 @@
     <string name="activity_crash_title">Ein Fehler ist aufgetreten</string>
     <string name="activity_crash_subtitle">Uns tut dieser Fehler sehr leid… :(</string>
     <string name="restart_app">App-Neustart</string>
-    <string name="report_crash">Sende Report via E-Mail</string>
     <string name="show_logcat">Zeige logcat (debug only)</string>
     <string name="all">Alle</string>
     <string name="last_added">Neueste Kacheln</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">Pantalla de bloqueo</string>
-    <string name="admin_rights_explanation">Permitir bloquear la pantalla</string>
     <string name="sync">Sincronizar</string>
     <string name="caffeina">Cafeína</string>
     <string name="caffeina_stop">Haga clic en Cafeína para detener el servicio</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Es posible que deba reiniciar el dispositivo</string>
     <string name="volume_up">Volumen +</string>
     <string name="volume_down">Volumen -</string>
-    <string name="custom_options">Personalizar</string>
     <string name="store_screenshots">Guardar las capturas de pantalla en lugar de compartirlas</string>
     <string name="screenshot_done">Captura de pantalla guardada</string>
     <string name="screenshot_touch_to_show">Toca para mostrar la captura de pantalla</string>
@@ -62,9 +60,6 @@
     <string name="share">Compartir</string>
     <string name="ringer">Modo de timbre</string>
     <string name="permission_required">Permiso requerido</string>
-    <string name="normal">Timbre</string>
-    <string name="silent">Silencio</string>
-    <string name="vibrate">Vibracion</string>
     <string name="in_ear_summary">Escuche la música a través de la cápsula del auricular de las llamadas. Útil si no tienes ningún auricular</string>
     <string name="lock_summary">Para desbloquear con escáner de huellas dactilares tienes que estar roteado</string>
     <string name="root_required">Se requiere permiso root</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">Tirar los dados</string>
     <string name="enable_all_tiles">Habilitar todas las configuraciones rápidas</string>
     <string name="night_filter_working">Night Filter ejecutándose</string>
-    <string name="drawable_icons">Varios estirables (not sure of this context)</string>
     <string name="not_supported">No es soportado</string>
     <string name="order_number">Número de pedido</string>
     <string name="adb">ADB</string>

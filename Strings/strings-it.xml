@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="admin_rights_explanation">Consenti per far bloccare lo schermo</string>
     <string name="app">App e scorciatoie</string>
     <string name="brightness_auto">Luminosità automatica</string>
     <string name="caffeina">Caffeina</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Potrebbe essere necessario riavviare il dispositivo</string>
     <string name="volume_up">Volume +</string>
     <string name="volume_down">Volume -</string>
-    <string name="custom_options">Personalizza</string>
     <string name="store_screenshots">Memorizza gli screenshot anzichè condividerli</string>
     <string name="screenshot_done">Screenshot acquisito</string>
     <string name="screenshot_touch_to_show">Tocca per visualizzare lo screenshot</string>
@@ -62,9 +60,6 @@
     <string name="share">Condividi</string>
     <string name="ringer">Suoneria</string>
     <string name="permission_required">Permesso richiesto</string>
-    <string name="normal">Suoneria</string>
-    <string name="silent">Silenzioso</string>
-    <string name="vibrate">Vibrazione</string>
     <string name="in_ear_summary">Ascolta la musica tramite la capsula auricolare delle telefonate. Utile se sei senza cuffie</string>
     <string name="lock_summary">Per sbloccare con l\'impronta digitale è necessario il root</string>
     <string name="root_required">Root richiesto</string>
@@ -106,7 +101,6 @@
     <string name="dice">Dado</string>
     <string name="dice_summary">Lancia il dado</string>
     <string name="enable_all_tiles">Attiva tutti i quicksettings</string>
-    <string name="drawable_icons">Drawable vari</string>
     <string name="night_filter_working">Filtro notte è in funzione</string>
     <string name="not_supported">Non supportato</string>
     <string name="donation_s">€0.79</string>
@@ -126,7 +120,6 @@
     <string name="play_pause">Riproduci / Pausa</string>
     <string name="play_pause_summary">Riproduci o metti in pausa la canzone aperta nel tuo player musicale</string>
     <string name="storage_open_old_screen">Apri \"archiviazione\" anzichè il file manager di sistema</string>
-    <string name="caffeina_o_dialog">Il filtro notte non può mostrare l\'overlay sulle barre di sistema a causa di limitazioni di Android O</string>
     <string name="in_ear_hide_screen">Nascondi la schermata quando hai il dispositivo vicino l\'orecchio</string>
     <string name="never_show">Non mostrare più</string>
     <string name="weather">Meteo</string>
@@ -146,8 +139,6 @@
     <string name="command_to_execute">Esegui questo comando sul pc per collegare il dispositivo</string>
     <string name="invert_colors">Inverti colori</string>
     <string name="may_not_be_compatible">Potrebbe non essere compatibile col tuo dispositivo</string>
-    <string name="root_semi_necessary">Secure Settings QS</string>
-    <string name="require_unlock">Richiedi sblocco</string>
     <string name="stop_at_screen_lock">Ferma quando il dispositivo viene bloccato</string>
     <string name="music_volume_tile">Volume media</string>
     <string name="music_volume_tile_summary">Attiva o disattiva il volume dei media rapidamente</string>
@@ -169,8 +160,6 @@
     <string name="vibrate_on_ring">Vibrazione per le telefonate</string>
     <string name="add">Aggiungi</string>
     <string name="remove">Rimuovi</string>
-    <string name="disable_doze_request">Si consiglia di disattivare Doze per questa app. Causa problemi su alcuni dispositivi</string>
-    <string name="disable_doze_instructions">Vai nella scheda Tutte le app, trova questa app e spuntala come Non ottimizzata</string>
     <string name="use_letter_as_app_icon">Usa la prima lettera dell\'app come icona</string>
     <string name="accessibility_mono_audio">Audio mono</string>
     <string name="accessibility_mono_audio_summary">Equivale a Impostazioni > Accessibilità > Usa audio mono</string>
@@ -178,11 +167,9 @@
     <string name="mobile_data_type_summary">Apre le impostazioni rete cellulare di sistema</string>
     <string name="monochrome">Modalità lettura</string>
     <string name="monochrome_summary">Filtra i colori dello schermo usando solo bianco e nero</string>
-    <string name="enable_accessibility_service">Abilita il servizio accessibilità per eseguire questa azione</string>
     <string name="immersive_preference">Scegli la tua modalità immersive preferita</string>
     <string name="immersive_pref_generic">Scegli ogni volta</string>
     <string name="input_method_picker">Selettore metodo di inserimento</string>
-    <string name="power_menu_tile">Menu di accensione</string>
     <string name="reboot_system_ui">Riavvia System UI</string>
     <string name="cm_not_detected">LineageOS non presente</string>
     <string name="cm_profiles">Profili LineageOS</string>
@@ -195,7 +182,6 @@
     <string name="temperature">Temperatura</string>
     <string name="request_admin_explanation">Questa app usa il permesso Amministratore Dispositivo. Tale permesso è richiesto solo per bloccare lo schermo quando l\'utente preme sul tile \'Blocca schermo\'. Questo permesso non verrà mai utilizzato per altri scopi</string>
     <string name="weather_not_available">Informazioni meteo non disponibili</string>
-    <string name="action_settings">Impostazioni</string>
     <string name="adb_summary">Attiva o disattiva ADB</string>
     <string name="adb_wifi_summary">Attiva o disattiva Adb Over WiFi</string>
     <string name="app_1">App &amp; scorciatoie #1</string>
@@ -219,7 +205,6 @@
     <string name="nothing_to_customize">Nulla da personalizzare</string>
     <string name="orientation_summary">Cambia orientamento schermo manualmente, 180° compreso</string>
     <string name="position_summary">Cambia modalità localizzazione</string>
-    <string name="power_menu_tile_summary">Apri menu di spegnimento di sistema</string>
     <string name="privacy_policy">Norme sulla privacy</string>
     <string name="save">Salva</string>
     <string name="search_result_title">Risultati di ricerca per \"%s\"</string>
@@ -232,8 +217,6 @@
     <string name="enable_location">Per favore attiva la localizzazione</string>
     <string name="led_tile">LED di notifica</string>
     <string name="led_tile_summary">Attiva o disattiva il led di notifica</string>
-    <string name="oreo_required">Android Oreo 8.0.0 è richiesto</string>
-    <string name="pip_tile_summary">Simula la pressione del tasto PiP con un quick tile</string>
     <string name="search">Cerca</string>
     <string name="show_weather_info_onclick">Mostra info meteo al click</string>
     <string name="watch_video">Guarda il vide tutorial</string>
@@ -245,7 +228,6 @@
     <string name="activity_crash_title">Si è verificato un errore</string>
     <string name="all">Mostra tutto</string>
     <string name="last_added">Ultime aggiunte</string>
-    <string name="report_crash">Invia report via email</string>
     <string name="restart_app">Riavvia l\'app</string>
     <string name="show_logcat">Mostra logcat (debug)</string>
     <string name="sound_panel_preference_summary">Scegli il tipo di audio da mostrare</string>
@@ -281,5 +263,6 @@
     <string name="root_security_settings_short">Premi per maggiori informazioni</string>
     <string name="root_security_settings_long">Non hai i permessi di root, ma puoi usare questo tile con un PC. Sul computer, vai a https://simonesestito.tk/qs_enabler per scaricare il software</string>
     <string name="more">Di più</string>
+    <string name="battery_settings">Impostazioni batteria</string>
 
 </resources>

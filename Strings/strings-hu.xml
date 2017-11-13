@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">Zárképernyő</string>
-    <string name="admin_rights_explanation">Képernyőzár engedélyezése</string>
     <string name="sync">Szinkronizálás</string>
     <string name="caffeina">Koffein</string>
     <string name="caffeina_stop">Nyomj a Koffein csempére a kikapcsoláshoz</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Lehet, hogy újra kell indítanod a készüléked</string>
     <string name="volume_up">Hangerő +</string>
     <string name="volume_down">Hangerő -</string>
-    <string name="custom_options">Személyre szabás</string>
     <string name="store_screenshots">Képernyőképek mentése megosztás helyett</string>
     <string name="screenshot_done">Képernyőkép elmentve</string>
     <string name="screenshot_touch_to_show">Nyisd meg az értesítést a megtekintéshez</string>
@@ -62,9 +60,6 @@
     <string name="share">Megosztás</string>
     <string name="ringer">Üzemmód</string>
     <string name="permission_required">Engedély szügséges</string>
-    <string name="normal">Hangos</string>
-    <string name="silent">Néma</string>
-    <string name="vibrate">Rezgő</string>
     <string name="in_ear_summary">Halgass zenét a híváshangszóró segítségével. Hasznos, ha nincs nálad fülhallgató</string>
     <string name="lock_summary">Az ujjlenyomat-olvasó használatához root szügséges</string>
     <string name="root_required">Root szügséges</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">Dobj egy szémot</string>
     <string name="enable_all_tiles">Összes engedélyezése</string>
     <string name="night_filter_working">Éjszakai filter aktív</string>
-    <string name="drawable_icons">Egyéb ikonok</string>
     <string name="not_supported">Nem támogatott</string>
     <string name="donation_s">$0,99</string>
     <string name="donation_s_effective">Körübelül $0,69-t kapok</string>
@@ -126,7 +120,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">Indtás / Szünet</string>
     <string name="play_pause_summary">Aktív zene kezelése</string>
-    <string name="caffeina_o_dialog">Az Android O limitációi miatt a filter nem fog látszani a rendszersávokon</string>
     <string name="never_show">Többet ne mutasd</string>
     <string name="weather">Időjárás</string>
     <string name="weather_summary">Forrás: Google Awareness API</string>

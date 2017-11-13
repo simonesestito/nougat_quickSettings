@@ -1,6 +1,5 @@
 <resources>
     <string name="lock">Zamykací obrazovka</string>
-    <string name="admin_rights_explanation">Povolit zamknutí obrazovky</string>
     <string name="sync">Sync</string>
     <string name="caffeina">Kofein</string>
     <string name="caffeina_stop">Klikněte na Kofein pro zastavení služby</string>
@@ -53,7 +52,6 @@
     <string name="reboot_to_refresh">Možná budete muset restartovat zařízení</string>
     <string name="volume_up">Hlasitost +</string>
     <string name="volume_down">Hlasitost -</string>
-    <string name="custom_options">Přizpůsobit</string>
     <string name="store_screenshots">Uložit screenshoty místo sdílení</string>
     <string name="screenshot_done">Screenshot uložen</string>
     <string name="screenshot_touch_to_show">Klikněte pro zobrazení screenshotu</string>
@@ -61,9 +59,6 @@
     <string name="share">Sdílet</string>
     <string name="ringer">Hlasitost vyzvánění</string>
     <string name="permission_required">Vyžadováno povolení</string>
-    <string name="normal">Zvuk</string>
-    <string name="silent">Ztišit</string>
-    <string name="vibrate">Vibrace</string>
     <string name="in_ear_summary">Poslouchejte hudbu reproduktorem pro hovory. Užitečné pokud nemáte sluchátka</string>
     <string name="lock_summary">Pro odemčení otiskem musí být zařízení rootováno</string>
     <string name="root_required">Vyžádováno povolení root</string>
@@ -106,7 +101,6 @@
     <string name="dice_summary">Hoďte kostkou</string>
     <string name="enable_all_tiles">Zapne všechna rychlá nastavení</string>
     <string name="night_filter_working">Noční filtr je spuštěn</string>
-    <string name="drawable_icons">Various drawables</string>
     <string name="not_supported">Není podporováno</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">Obdržím asi $0.69</string>
@@ -125,7 +119,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">Přehrát / Pozastavit</string>
     <string name="play_pause_summary">Přehrát nebo pozastavit aktuální instanci přehrávače</string>
-    <string name="caffeina_o_dialog">Noční filtr nedokáže zobrazovat překryv na systémových lištách kvůli systémovým omezením systému Android O. Není to chyba aplikace</string>
     <string name="never_show">Znovu nezobrazovat</string>
     <string name="weather">Počasí</string>
     <string name="weather_summary">Poskytuje rozhraní Google Awareness API</string>
@@ -140,16 +133,11 @@
     <string name="help_translation">Pomoc s překladem</string>
     <string name="battery_saver">Šetřič baterie</string>
     <string name="not_supported_in_charging_state">Není k dispozici, když se telefon nabíjí</string>
-    <string name="root_security_settings">Vaše zařízení není rootováno.\n
-        Chcete-li použít tuto QS, musíte spustit příkaz v počítači\n
-        \'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
-    <string name="root_semi_necessary">Zabezpečené nastavení QS</string>
     <string name="ambient_display">Ambientní displej</string>
     <string name="may_not_be_compatible">Nemusí být kompatibilní s vaším zařízením</string>
     <string name="adb_wifi">Adb přes LAN</string>
     <string name="command_to_execute">Proveďte tento příkaz na počítači pro připojení zařízení</string>
     <string name="invert_colors">Invertovat barvy</string>
-    <string name="require_unlock">Vyžadovat odemčení</string>
     <string name="stop_at_screen_lock">Zastavte, když bude telefon zamknut</string>
     <string name="music_volume_tile">Hlasitost hudby</string>
     <string name="music_volume_tile_summary">Aktivujte nebo deaktivujte hlasitost hudby rychle</string>
@@ -171,8 +159,6 @@
     <string name="remove">Odstranit</string>
     <string name="advise_edit_tiles_from_panel">%s this tile editing your quick settings panel.\nFor more information, click the Help button at the top of this page</string>
     <string name="vibrate_on_ring">Vibrovat při hovoru</string>
-    <string name="disable_doze_request">Pro tuto aplikaci deaktivujte Doze. V některých zařízeních může způsobit problémy</string>
-    <string name="disable_doze_instructions">Přejděte na kartu Všechny aplikace, najděte tuto aplikaci a zkontrolujte, zda není optimalizována</string>
     <string name="use_letter_as_app_icon">Použijte první znak jako ikonu aplikace</string>
     <string name="accessibility_mono_audio">Mono zvuk</string>
     <string name="accessibility_mono_audio_summary">Je to ekvivalent Nastavení > Přístupnost > Použití mono zvuku</string>
@@ -182,8 +168,6 @@
     <string name="monochrome_summary">Filtruje barvy obrazovky na černobílou</string>
     <string name="reboot_system_ui">Obnovit systémové uživatelské rozhraní</string>
     <string name="input_method_picker">Výběr metody zadávání</string>
-    <string name="power_menu_tile">Nabídka napájení</string>
-    <string name="enable_accessibility_service">Chcete-li provést tuto akci, povolte službu usnadnění přístupu</string>
     <string name="immersive_preference">Vyberte si svůj oblíbený imersivní režim</string>
     <string name="immersive_pref_generic">Zvolit pokaždé</string>
     <string name="free_space">Volné místo:</string>
@@ -208,11 +192,9 @@
     <string name="system_secure_adb">System (secure)</string>
     <string name="system_root_only">System (root only)</string>
     <string name="for_developers">Toggles for developers</string>
-    <string name="action_settings">Nastavení</string>
     <string name="app_1">App &amp; Shortcuts #1</string>
     <string name="app_2">App &amp; Shortcuts #2</string>
     <string name="app_3">App &amp; Shortcuts #3</string>
-    <string name="power_menu_tile_summary">Otevřít nabídku napájení</string>
     <string name="orientation_summary">Nastavit orientaci obrazovky manuálně (180° zahrnuto)</string>
     <string name="input_method_picker_summary">Rychle změnit metodu zadávání</string>
     <string name="cm_profiles_summary">Změňte profil CyanogenMod / LineageOS rychle</string>
@@ -225,15 +207,12 @@
     <string name="enable_tile">Povolit přepnutí</string>
     <string name="customize">Přizpůsobit</string>
     <string name="nothing_to_customize">Zde není nic, co byste si mohli přizpůsobit</string>
-    <string name="search_hint">Vyhledávání rychlého nastavení</string>
     <string name="privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="licenses">Licence</string>
     <string name="search_result_title">Výsledky hledání pro "%s"</string>
     <string name="empty_search_results">Nic nenalezeno.</string>
     <string name="save">Uložit</string>
     <string name="search">Hledat</string>
-    <string name="oreo_required">Android Oreo 8.0.0 je vyžadován</string>
-    <string name="pip_tile_summary">Simulujte tlak tlačítka PiP pomocí rychlé dlaždice</string>
     <string name="watch_video">Sledujte video tutorial</string>
     <string name="led_tile">LED notifikační dioda</string>
     <string name="led_tile_summary">Povolení nebo zakázání LED diody</string>

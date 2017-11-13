@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">锁屏界面</string>
-    <string name="admin_rights_explanation">允许在锁屏页面显示</string>
     <string name="sync">同步</string>
     <string name="caffeina">Caffeine</string>
     <string name="caffeina_stop">点击"Caffeine"磁块停止服务</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">您需要重启您的设备</string>
     <string name="volume_up">音量 +</string>
     <string name="volume_down">音量 -</string>
-    <string name="custom_options">自定义</string>
     <string name="store_screenshots">保存屏幕截图而不是分享它</string>
     <string name="screenshot_done">屏幕截图已保存</string>
     <string name="screenshot_touch_to_show">点击以显示屏幕截图</string>
@@ -62,9 +60,6 @@
     <string name="share">分享</string>
     <string name="ringer">铃声模式</string>
     <string name="permission_required">需要权限</string>
-    <string name="normal">正常</string>
-    <string name="silent">静音</string>
-    <string name="vibrate">振动</string>
     <string name="in_ear_summary">通过入耳式耳机连接收听音乐。如果您没有头戴式耳机这会很方便。</string>
     <string name="lock_summary">如果通过指纹解锁，您的设备需要root权限</string>
     <string name="root_required">Root 权限已获取</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">扔骰子</string>
     <string name="enable_all_tiles">启用所有快速设定</string>
     <string name="night_filter_working">夜间过滤器工作中</string>
-    <string name="drawable_icons">可绘制图标</string>
     <string name="not_supported">不支持</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">作者将获得约 $0.69</string>
@@ -126,7 +120,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">播放 / 暂停</string>
     <string name="play_pause_summary">播放或暂停当前的音乐播放器实例</string>
-    <string name="caffeina_o_dialog">由于Android O系统的限制，夜间过滤器不能显示系统栏上的覆盖。这不是应用程序的错误</string>
     <string name="never_show">不再显示</string>
     <string name="weather">天气</string>
     <string name="weather_summary">提供源 openweathermap.org</string>
@@ -141,14 +134,11 @@
     <string name="help_translation">帮助翻译</string>
     <string name="battery_saver">电池节约</string>
     <string name="not_supported_in_charging_state">手机充电中不可用</string>
-    <string name="root_security_settings">您的设备似乎没有获取Root.n        想使用此功能需要把设备连接到PC执行如下命令：n        </string>
-    <string name="root_semi_necessary">安全设置QS</string>
     <string name="ambient_display">环境显示</string>
     <string name="may_not_be_compatible">可能无法兼容您的设备</string>
     <string name="adb_wifi">通过LAN进行Adb调试</string>
     <string name="command_to_execute">在您的电脑上执行此命令连接设备</string>
     <string name="invert_colors">反转颜色</string>
-    <string name="require_unlock">需要解锁</string>
     <string name="stop_at_screen_lock">当你的手机锁定时停止运行</string>
     <string name="music_volume_tile">音乐音量</string>
     <string name="music_volume_tile_summary">快速禁用或启用音乐音量控制</string>
@@ -170,8 +160,6 @@
     <string name="remove">移除</string>
     <string name="advise_edit_tiles_from_panel">%s 这个瓷贴可以编辑您的quick settings面板. n 想获取更多信息请点击页面上方帮助按钮</string>
     <string name="vibrate_on_ring">电话振动</string>
-    <string name="disable_doze_request">请为此应用关闭电池优化（Doze）. 否则可能在某些设备引起故障</string>
-    <string name="disable_doze_instructions">转到所有应用程序标签，找到这个应用程序，并检查哪些没有优化</string>
     <string name="use_letter_as_app_icon">使用第一个字符作为应用程序图标</string>
     <string name="accessibility_mono_audio">单声道音频</string>
     <string name="accessibility_mono_audio_summary">它相当于设置>辅助功能>使用单声道音频</string>
@@ -181,8 +169,6 @@
     <string name="monochrome_summary">过滤屏幕颜色和只使用黑 / 白</string>
     <string name="reboot_system_ui">重新载入System UI </string>
     <string name="input_method_picker">输入法选择器</string>
-    <string name="power_menu_tile">电源菜单</string>
-    <string name="enable_accessibility_service">请启用辅助功能服务来执行此操作</string>
     <string name="immersive_preference">选择你喜欢的沉浸模式</string>
     <string name="immersive_pref_generic">每次选择</string>
     <string name="free_space">剩余空间：</string>
@@ -206,11 +192,9 @@
     <string name="system_secure_adb">系统（安全）</string>
     <string name="system_root_only">系统（仅root）</string>
     <string name="for_developers">针对开发者</string>
-    <string name="action_settings">系统设置</string>
     <string name="app_1">应用&amp;快捷方式 #1</string>
     <string name="app_2">应用&amp;快捷方式 #2</string>
     <string name="app_3">应用&amp;快捷方式 #3</string>
-    <string name="power_menu_tile_summary">打开电源菜单系统对话框</string>
     <string name="orientation_summary">手动改变屏幕方向（包括180°）</string>
     <string name="input_method_picker_summary">快速更改输入法</string>
     <string name="cm_profiles_summary">快速更改CyanogenMod / lineageos剖面</string>
@@ -229,8 +213,6 @@
     <string name="empty_search_results">此处未找到</string>
     <string name="save">保存</string>
     <string name="search">搜索</string>
-    <string name="oreo_required">需要Android 8.0 Oreo系统</string>
-    <string name="pip_tile_summary">使用快速瓦片模拟PIP按钮压力</string>
     <string name="watch_video">观看视频</string>
     <string name="led_tile">LED提醒 </string>
     <string name="led_tile_summary">启用或禁用通知LED指示</string>
@@ -243,7 +225,6 @@
     <string name="sound_panel_preference_summary">选择你喜欢的音量类型</string>
     <string name="activity_crash_title">出现了一个错误</string>
     <string name="restart_app">重新启动应用</string>
-    <string name="report_crash">发送调试信息</string>
     <string name="show_logcat">显示日志（仅用于调试）</string>
     <string name="all">显示所有的</string>
     <string name="last_added">新增内容</string>

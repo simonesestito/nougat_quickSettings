@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">Écran de verrouillage</string>
-    <string name="admin_rights_explanation">Permettre le verrouillage de l’écran</string>
     <string name="sync">Synchronisation</string>
     <string name="caffeina">Mode caféine</string>
     <string name="caffeina_stop">Cliquez sur la tuile "Mode caféine" pour arrêter le service</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Vous devrez peut être redémarrer votre appareil</string>
     <string name="volume_up">Volume +</string>
     <string name="volume_down">Volume -</string>
-    <string name="custom_options">Personnaliser</string>
     <string name="store_screenshots">Sauvegarder les captures d’écran au lieu de les partager</string>
     <string name="screenshot_done">Capture d’écran sauvée</string>
     <string name="screenshot_touch_to_show">Cliquez pour afficher la capture d’écran</string>
@@ -62,9 +60,6 @@
     <string name="share">Partager</string>
     <string name="ringer">Sonnerie</string>
     <string name="permission_required">Permission requise</string>
-    <string name="normal">Sonnerie</string>
-    <string name="silent">Silencieux</string>
-    <string name="vibrate">Vibreur</string>
     <string name="in_ear_summary">Écoutez votre musique via le haut parleur des appels. Pratique si vous n’avez pas de casque audio</string>
     <string name="lock_summary">Pour déverrouiller avec votre empreinte digitale, vous devez être rooté</string>
     <string name="root_required">Permission root requise</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">Lance un dé</string>
     <string name="enable_all_tiles">Activer tous les réglages rapides</string>
     <string name="night_filter_working">Le mode nuit est activé</string>
-    <string name="drawable_icons">Autres icônes</string>
     <string name="not_supported">Non supporté</string>
     <string name="donation_s">0.99€</string>
     <string name="donation_s_effective">Je recevrai environ 0.69€</string>
@@ -126,7 +120,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">Play / Pause</string>
     <string name="play_pause_summary">Démarre ou met le lecteur de musique sur pause</string>
-    <string name="caffeina_o_dialog">Le filtre ne peut pas se superposer aux barres à cause des limitations d’Android O. Ce n’est pas la faute de l’application</string>
     <string name="never_show">Ne plus montrer</string>
     <string name="weather">Météo</string>
     <string name="weather_summary">Fourni par Google Awareness API</string>
@@ -140,16 +133,10 @@
     <string name="help_translation">Aidez à traduire</string>
     <string name="battery_saver">Économiseur de batterie</string>
     <string name="not_supported_in_charging_state">Pas disponible lorsque l’appareil est en charge</string>
-    <string name="root_security_settings">Votre appareil n’est pas rooté.\n
-    Pour utiliser ce réglage rapide, vous devez
- exécuter une commande sur votre PC\n
-    \'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
-    <string name="root_semi_necessary">Réglages de sécurité</string>
     <string name="ambient_display">Économiseur d’écran</string>
     <string name="may_not_be_compatible">Peut ne pas être compatible avec votre appareil</string>
     <string name="adb_wifi">Adb via LAN</string>
     <string name="command_to_execute">Exécutez cette commande sur votre PC pour connecter l’appareil</string>
     <string name="invert_colors">Inverser les couleurs</string>
-    <string name="require_unlock">Requiert le déverrouillage</string>
 
 </resources>

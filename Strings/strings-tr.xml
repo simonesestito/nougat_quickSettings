@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">Ekranı Kilitle</string>
-    <string name="admin_rights_explanation">Ekranı kilitlemeye izin ver</string>
     <string name="sync">Senkronizasyon</string>
     <string name="caffeina">Kafein</string>
     <string name="caffeina_stop">"Kafein" karesine dokunarak servisi durdur</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Cihazını yeniden başlatman gerekiyor</string>
     <string name="volume_up">Ses +</string>
     <string name="volume_down">Ses -</string>
-    <string name="custom_options">Özelleştir</string>
     <string name="store_screenshots">Paylaşmak için ekran görüntülerini kaydedin</string>
     <string name="screenshot_done">Ekran görüntüsü alındı</string>
     <string name="screenshot_touch_to_show">Ekran görüntüsünü görmek için dokunun</string>
@@ -62,9 +60,6 @@
     <string name="share">Paylaş</string>
     <string name="ringer">Zil sesi modu</string>
     <string name="permission_required">İzin gerekli</string>
-    <string name="normal">Ses</string>
-    <string name="silent">Sessiz</string>
-    <string name="vibrate">Titreşim</string>
     <string name="in_ear_summary">Kulaklık kapsülü yoluyla müzik dinleyin. Herhangi bir kulaklığa sahip değilseniz kullanışlıdır</string>
     <string name="lock_summary">Parmak izi okuyucusu ile kilidi açmak için cihazınız rootlu olmalıdır.</string>
     <string name="root_required">Root izni gerekli</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">Zarı salla</string>
     <string name="enable_all_tiles">Tüm hızlı ayarları etkinleştir</string>
     <string name="night_filter_working">Gece filtresi çalışıyor</string>
-    <string name="drawable_icons">Çeşitli çekmeceler</string>
     <string name="not_supported">Desteklenmiyor</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">Yaklaşık $0.69 alacağım</string>
@@ -126,7 +120,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">Oynat / Duraklat</string>
     <string name="play_pause_summary">Şu an bulunan müzik oynatıcıyı oynat / duraklat</string>
-    <string name="caffeina_o_dialog">Gece filtresi, Android O sınırlamaları yüzünden durum çubuğunun üzerinde filtre uygulanamaz. Bu uygulamanın hatası değildir.</string>
     <string name="never_show">Bir daha gösterme</string>
     <string name="weather">Hava Durumu</string>
     <string name="weather_summary">Google Awareness API tarafından sağlanmaktadır</string>
@@ -141,13 +134,11 @@
     <string name="help_translation">Bana çeviri için yardım edin</string>
     <string name="battery_saver">Pil tasarrufu</string>
     <string name="not_supported_in_charging_state">Cihaz şarj edilirken kullanılamaz</string>
-    <string name="root_semi_necessary">Güvenli ayarlar QS</string>
     <string name="ambient_display">Ambient Display</string>
     <string name="may_not_be_compatible">Cihazın ile uyumlu olmayabilir</string>
     <string name="adb_wifi">WiFi üzerinden ADB</string>
     <string name="command_to_execute">Cihazı bağlamak için bilgisayarınızda bu komutu çalıştırın</string>
     <string name="invert_colors">Renkleri Değiştir</string>
-    <string name="require_unlock">Kilidi açık olması gerekir</string>
     <string name="stop_at_screen_lock">Telefon kilitlendiğinde durdur</string>
     <string name="music_volume_tile">Müzik sesi</string>
     <string name="music_volume_tile_summary">Müzik sesini hızlıca etkinleştir veya devre dışı bırak</string>
@@ -169,8 +160,6 @@
     <string name="remove">Kaldır</string>
     <string name="advise_edit_tiles_from_panel">%s bu kare senin hızlı ayarlar panelini düzenliyor.\nDaha fazla bilgi için, sayfanın üstündeki yardım butonuna bas</string>
     <string name="vibrate_on_ring">Aramalar için titreşim</string>
-    <string name="disable_doze_request">Bu uygulama için lütfen Doze özelliğini kapatın. Bu bazı cihazlarda sorun yaratabilir</string>
-    <string name="disable_doze_instructions">Tüm Uygulamalar sekmesinden bu uygulamayı bulun ve Optimize Etme olarak ayarlayın.</string>
     <string name="use_letter_as_app_icon">Uygulama simgesi olarak ilk harfi kullan</string>
     <string name="accessibility_mono_audio">Mono ses</string>
     <string name="accessibility_mono_audio_summary">Ayarlar > Erişilebilirlik > Mono ses kullan seçeneği ile eşdeğerdir</string>
@@ -180,8 +169,6 @@
     <string name="monochrome_summary">Ekran renklerini filtrele ve sadece siyah/beyaz kullan</string>
     <string name="reboot_system_ui">Sistem arayüzünü yeniden başlat</string>
     <string name="input_method_picker">Giriş yöntemi seçici</string>
-    <string name="power_menu_tile">Güç menüsü</string>
-    <string name="enable_accessibility_service">Bu işlemi gerçekleştirebilmek için lütfen bu uygulama için Erişilebilirlik ayarını etkinleştirin</string>
     <string name="immersive_preference">Favori Tam Ekran modunuzu seçin</string>
     <string name="immersive_pref_generic">Her zaman seç</string>
     <string name="free_space">Boş alan:</string>
@@ -206,13 +193,11 @@
     <string name="system_secure_adb">Sistem (güvenli)</string>
     <string name="system_root_only">Sistem (sadece root)</string>
     <string name="for_developers">Geliştiriciler için araçlar</string>
-    <string name="action_settings">Ayarlar</string>
     <string name="app_1">Uygulama &amp; Kısayollar #1</string>
     <string name="app_2">Uygulama &amp; Kısayollar #2</string>
     <string name="app_3">Uygulama &amp; Kısayollar #3</string>
     <string name="app_4">Uygulama &amp; Kısayollar #4</string>
     <string name="app_5">Uygulama &amp; Kısayollar #5</string>
-    <string name="power_menu_tile_summary">Güç menüsü sistem diyaloğunu aç</string>
     <string name="orientation_summary">Manuel olarak ekran yönünü değiştirin (180° dahil)</string>
     <string name="input_method_picker_summary">Hızlıca giriş yöntemini değiştirin</string>
     <string name="cm_profiles_summary">CyanogenMod / LineageOS profilini hızlıca değiştir</string>
@@ -231,7 +216,6 @@
     <string name="empty_search_results">Burada bir şey bulunamadı.</string>
     <string name="save">Kaydet</string>
     <string name="search">Ara</string>
-    <string name="oreo_required">Android Oreo 8.0.0 gerekli</string>
     <string name="watch_video">Rehber videosunu izle</string>
     <string name="led_tile">Bildirim LEDi</string>
     <string name="led_tile_summary">Bildirim ışığını etkinleştir veya devre dışı bırak</string>
@@ -245,7 +229,6 @@
     <string name="activity_crash_title">Bir hata oluştu</string>
     <string name="activity_crash_subtitle">Bu hata için gerçekten üzgünüz… :(</string>
     <string name="restart_app">Uygulamayı yeniden başlat</string>
-    <string name="report_crash">Eposta yolu ile rapor et</string>
     <string name="show_logcat">Logcat kayıtını göster (sadece ayıklama)</string>
     <string name="all">Hepsini listele</string>
     <string name="last_added">Son eklenenler</string>

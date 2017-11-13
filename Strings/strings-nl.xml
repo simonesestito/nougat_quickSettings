@@ -1,9 +1,10 @@
 <resources>
-    <string name="lock">Vergrendelscherm</string>
+    <string name="lock">Vergrendelscherm</string><![CDATA[
 
-        <string name="admin_rights_explanation">Sta toe het scherm te vergrendelen</string>
+        
 
-        <string name="sync">Sync</string>
+        ]]>
+    <string name="sync">Sync</string>
 
         <string name="caffeina">Cafeïne</string>
 
@@ -105,11 +106,12 @@
 
         <string name="volume_up">Volume +</string>
 
-        <string name="volume_down">Volume -</string>
+        <string name="volume_down">Volume -</string><![CDATA[
 
-        <string name="custom_options">Aanpassen</string>
+        
 
-        <string name="store_screenshots">Sla de screenshots op in je gallerij in plaats van ze meteen te delen</string>
+        ]]>
+    <string name="store_screenshots">Sla de screenshots op in je gallerij in plaats van ze meteen te delen</string>
 
         <string name="screenshot_done">Screenshot opgeslagen</string>
 
@@ -121,15 +123,16 @@
 
         <string name="ringer">Belmodus</string>
 
-        <string name="permission_required">Toestemming vereist</string>
+        <string name="permission_required">Toestemming vereist</string><![CDATA[
 
-        <string name="normal">Beltoon</string>
+        
 
-        <string name="silent">Stil</string>
+        
 
-        <string name="vibrate">Trillen</string>
+        
 
-        <string name="in_ear_summary">Luister naar muziek via de gespreksspeaker​ van je telefoon, handig wanneer je geen oortjes hebt.</string>
+        ]]>
+    <string name="in_ear_summary">Luister naar muziek via de gespreksspeaker​ van je telefoon, handig wanneer je geen oortjes hebt.</string>
 
         <string name="lock_summary">Je telefoon moet geroot zijn om te kunnen ontgrendelen met vingerafdruk.</string>
 
@@ -211,11 +214,10 @@
 
         <string name="enable_all_tiles">Schakel alle quicksettings in</string>
 
-        <string name="night_filter_working">Nachtfilter staat aan</string>
+        <string name="night_filter_working">Nachtfilter staat aan</string><![CDATA[
 
-        <string name="drawable_icons">Verschillende iconen</string>
-
-        <string name="not_supported">Niet ondersteund</string>
+            ]]>
+    <string name="not_supported">Niet ondersteund</string>
 
         <string name="donation_s">€0.79</string>
 
@@ -249,11 +251,12 @@
 
         <string name="play_pause">Speel af / Pauze</string>
 
-        <string name="play_pause_summary">Speel of pauze de huidige muziekspelerinstantie</string>
+        <string name="play_pause_summary">Speel of pauze de huidige muziekspelerinstantie</string><![CDATA[
 
-        <string name="caffeina_o_dialog">Nachtfilter kan de overlay op systeembalk niet laten zien door de beperkingen van Android O systeem. Het is niet de fout van de app.</string>
+        
 
-        <string name="never_show">Laat dit niet nog een keer zien</string>
+        ]]>
+    <string name="never_show">Laat dit niet nog een keer zien</string>
 
         <string name="weather">Weer</string>
 

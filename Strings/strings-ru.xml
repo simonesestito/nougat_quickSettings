@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">Заблокировать экран</string>
-    <string name="admin_rights_explanation">Резрешение блокировать экран</string>
     <string name="sync">Синхронизация</string>
     <string name="caffeina">Кофеин</string>
     <string name="caffeina_stop">Нажмите, чтобы отключить </string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Вам может понадобиться перегрузить устройство</string>
     <string name="volume_up">Звук +</string>
     <string name="volume_down">Звук -</string>
-    <string name="custom_options">Настроить </string>
     <string name="store_screenshots">Сохранять скриншоты вместо отправки</string>
     <string name="screenshot_done">Скриншот сохранен</string>
     <string name="screenshot_touch_to_show">Нажмите, чтобы просмотреть скриншот</string>
@@ -62,9 +60,6 @@
     <string name="share">Поделиться </string>
     <string name="ringer">Режим звонка</string>
     <string name="permission_required">Требуется разрешение </string>
-    <string name="normal">Звонок</string>
-    <string name="silent">Без звука</string>
-    <string name="vibrate">Вибрация</string>
     <string name="in_ear_summary">Слушать музыку через гарнитуру ддя звонков. Полезно, если у вас нет наушников.</string>
     <string name="lock_summary">Чтобы разблокировать с помощью отпечатка пальца требуется root-доступ</string>
     <string name="root_required">Требуется root-доступ</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">Бросить кости</string>
     <string name="enable_all_tiles">Включить все быстрые настройки</string>
     <string name="night_filter_working">Ночной фильтр работает</string>
-    <string name="drawable_icons"> Различные drawables</string>
     <string name="not_supported">Не поддерживается</string>
     <string name="donation_s">0.99$</string>
     <string name="donation_s_effective">Я получу около 0.69$</string>

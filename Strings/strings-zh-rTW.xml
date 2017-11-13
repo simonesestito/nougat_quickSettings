@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lock">鎖定畫面</string>
-    <string name="admin_rights_explanation">允許鎖定螢幕</string>
     <string name="sync">同步</string>
     <string name="caffeina">Caffeine</string>
     <string name="caffeina_stop">輕觸「Caffeine」圖示來停止服務</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">您需要重新啟動裝置</string>
     <string name="volume_up">提高音量</string>
     <string name="volume_down">降低音量</string>
-    <string name="custom_options">自訂</string>
     <string name="store_screenshots">不分享螢幕截圖，直接儲存</string>
     <string name="screenshot_done">已儲存螢幕截圖</string>
     <string name="screenshot_touch_to_show">輕觸這裡顯示螢幕截圖</string>
@@ -62,9 +60,6 @@
     <string name="share">分享</string>
     <string name="ringer">鈴聲模式</string>
     <string name="permission_required">需要權限</string>
-    <string name="normal">鈴聲</string>
-    <string name="silent">靜音</string>
-    <string name="vibrate">震動</string>
     <string name="in_ear_summary">從話筒喇叭收聽音樂。這在手邊沒有耳機時很有用。</string>
     <string name="lock_summary">要使用指紋辨識來解鎖，您必須先 Root 裝置。</string>
     <string name="root_required">需要 Root 權限</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">擲骰子</string>
     <string name="enable_all_tiles">開啟所有快速設定</string>
     <string name="night_filter_working">「夜間螢幕過濾器」正在運作</string>
-    <string name="drawable_icons">圖示製作</string>
     <string name="not_supported">不支援</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">作者將獲得大約 $0.69 美元。</string>
@@ -126,7 +120,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">播放 / 暫停</string>
     <string name="play_pause_summary">立刻播放或停止目前使用的音樂播放器</string>
-    <string name="caffeina_o_dialog">因為 Android O 系統限制，夜間螢幕過濾器無法過濾系統列，這並不是 App 的問題。</string>
     <string name="never_show">不要再顯示</string>
     <string name="weather">天氣</string>
     <string name="weather_summary">由 Google Awareness API 提供數據</string>
@@ -141,13 +134,11 @@
     <string name="help_translation">協助翻譯</string>
     <string name="battery_saver">省電模式</string>
     <string name="not_supported_in_charging_state">在裝置充電時無法使用</string>
-    <string name="root_semi_necessary">需要特殊權限的快速設定</string>
     <string name="ambient_display">環境顯示</string>
     <string name="may_not_be_compatible">可能無法相容所有裝置</string>
     <string name="adb_wifi">透過 LAN 使用 ADB</string>
     <string name="command_to_execute">連接您的裝置，在電腦上執行這個指令</string>
     <string name="invert_colors">反相顏色</string>
-    <string name="require_unlock">需要解鎖</string>
     <string name="stop_at_screen_lock">當裝置鎖定時停止運作</string>
     <string name="music_volume_tile">媒體音量</string>
     <string name="music_volume_tile_summary">開啟或關閉「媒體音量快速設定」</string>
@@ -169,8 +160,6 @@
     <string name="remove">移除</string>
     <string name="advise_edit_tiles_from_panel">%s 這個按鈕可以編輯您的快速設定面板。\n請按一下「說明與意見回饋」按鈕來得知更多資訊。</string>
     <string name="vibrate_on_ring">接到來電時震動</string>
-    <string name="disable_doze_request">請關閉對這個應用程式的「電池效能最佳化（Doze）」，因為 Doze 有可能在某些裝置上造成問題。</string>
-    <string name="disable_doze_instructions">進入「所有應用程式」頁面，找到 Quick Settings 並 選取/取消 勾選來不對它電池效能最佳化。</string>
     <string name="use_letter_as_app_icon">使用第一個字元作為 App 圖示</string>
     <string name="accessibility_mono_audio">單聲道</string>
     <string name="accessibility_mono_audio_summary">它相當於 設定 > 協助工具 > 使用單聲道</string>
@@ -180,8 +169,6 @@
     <string name="monochrome_summary">螢幕使用黑白濾鏡</string>
     <string name="reboot_system_ui">重新載入系統 UI</string>
     <string name="input_method_picker">選擇輸入法</string>
-    <string name="power_menu_tile">電源選單</string>
-    <string name="enable_accessibility_service">請開啟輔助功能服務</string>
     <string name="immersive_preference">請選擇你喜歡的沉浸模式</string>
     <string name="immersive_pref_generic">每次提示</string>
     <string name="free_space">剩餘空間：</string>
@@ -206,13 +193,11 @@
     <string name="system_secure_adb">系統 (安全)</string>
     <string name="system_root_only">系統 (需 root)</string>
     <string name="for_developers">開發者專用</string>
-    <string name="action_settings">設定</string>
     <string name="app_1">程式 &amp; 捷徑 #1</string>
     <string name="app_2">程式 &amp; 捷徑 #2</string>
     <string name="app_3">程式 &amp; 捷徑 #3</string>
     <string name="app_4">程式 &amp; 捷徑 #4</string>
     <string name="app_5">程式 &amp; 捷徑 #5</string>
-    <string name="power_menu_tile_summary">開啟電源選單</string>
     <string name="orientation_summary">手動更改旋轉方向 (包括 180°)</string>
     <string name="input_method_picker_summary">快速更改輸入法</string>
     <string name="cm_profiles_summary">快速更改 CyanogenMod / LineageOS 設定</string>
@@ -232,7 +217,6 @@
     <string name="empty_search_results">查無結果</string>
     <string name="save">儲存</string>
     <string name="search">搜尋</string>
-    <string name="oreo_required">需要 Android Oreo 8.0.0</string>
     <string name="watch_video">觀看影片教學</string>
     <string name="led_tile">LED 通知</string>
     <string name="led_tile_summary">開啟或關閉通知燈光</string>
@@ -247,7 +231,6 @@
     <string name="activity_crash_title">發生錯誤</string>
     <string name="activity_crash_subtitle">我們很抱歉發生了錯誤… QAQ</string>
     <string name="restart_app">重開程式</string>
-    <string name="report_crash">把錯誤報告寄 Email 給我</string>
     <string name="show_logcat">顯示日誌 (僅限 debug)</string>
     <string name="all">全部</string>
     <string name="last_added">最新</string>

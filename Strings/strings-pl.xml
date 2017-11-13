@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
     <string name="lock">Zablokuj ekran</string>
-    <string name="admin_rights_explanation">Zezwól na blokadę ekranu przez aplikację</string>
     <string name="sync">Synchronizacja</string>
     <string name="caffeina">Kofeina</string>
     <string name="caffeina_stop">Kliknij na kafelek kofeiny, aby zatrzymać tę usługę</string>
@@ -54,7 +53,6 @@
     <string name="reboot_to_refresh">Być może musisz zrestartować swoje urządzenie</string>
     <string name="volume_up">Podgłoś</string>
     <string name="volume_down">Przycisz</string>
-    <string name="custom_options">Dostosuj</string>
     <string name="store_screenshots">Zapisuj zrzuty ekranu zamiast ich udostępniać</string>
     <string name="screenshot_done">Zrzut ekranu zapisany</string>
     <string name="screenshot_touch_to_show">Dotknij, aby wyświetlić zrzut ekranu</string>
@@ -62,9 +60,6 @@
     <string name="share">Udostępnij</string>
     <string name="ringer">Tryb dźwięku</string>
     <string name="permission_required">Potrzebne uprawnienie</string>
-    <string name="normal">Normalny</string>
-    <string name="silent">Wyciszony</string>
-    <string name="vibrate">Wibracje</string>
     <string name="in_ear_summary">Słuchaj muzyki z głośnika do obsługi połączeń. Przydatne, jeśli nie masz zestawu słuchawkowego</string>
     <string name="lock_summary">Aby odblokować poprzez odcisk palca, potrzebujesz roota</string>
     <string name="root_required">Wymagany root</string>
@@ -107,7 +102,6 @@
     <string name="dice_summary">Rzuć kością</string>
     <string name="enable_all_tiles">Aktywuj wszystkie kafelki</string>
     <string name="night_filter_working">Filtr nocny jest uruchomiony</string>
-    <string name="drawable_icons">Różne ikony</string>
     <string name="not_supported">Niedostępne</string>
     <string name="donation_s">$0.99</string>
     <string name="donation_s_effective">Otrzymam od ciebie około $0.69</string>
@@ -126,7 +120,6 @@
     <string name="adb">ADB</string>
     <string name="play_pause">Muzyka</string>
     <string name="play_pause_summary">Odtwórz lub zatrzymaj obecnie grającą muzykę</string>
-    <string name="caffeina_o_dialog">Tryb nocny nie może uruchomić filtra na paskach nawigacji i statusu z powodu ograniczeń Androida O. To nie jest wina aplikacji</string>
     <string name="never_show">Nie pokazuj ponownie</string>
     <string name="weather">Pogoda</string>
     <string name="weather_summary">Dostarczana przez Google Awareness API</string>
@@ -141,16 +134,11 @@
     <string name="help_translation">Pomóż w tłumaczeniu</string>
     <string name="battery_saver">Oszczędzanie baterii</string>
     <string name="not_supported_in_charging_state">Niedostępne podczas ładowania telefonu</string>
-    <string name="root_security_settings">Twoje urządzenie nie jest zrootowane.\n
-        Aby użyć tego kafelka, wykonaj na komputerze komendę\n
-        \'<b><i>adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</i></b>\'</string>
-    <string name="root_semi_necessary">Kafelki dokładniejszych ustawień</string>
     <string name="ambient_display">Tryb Always On Display</string>
     <string name="may_not_be_compatible">Może nie być kompatybilne z twoim urządzeniem</string>
     <string name="adb_wifi">ADB przez LAN</string>
     <string name="command_to_execute"> Wywołaj tę komendę na komputerze, aby połączyć się z urządzeniem</string>
     <string name="invert_colors">Inwersja kolorów</string>
-    <string name="require_unlock">Wymagaj odblokowania</string>
     <string name="stop_at_screen_lock">Wyłącz po zablokowaniu telefonu</string>
     <string name="music_volume_tile">Głośność multimediów</string>
     <string name="music_volume_tile_summary">Natychmiastowo wycisz/odcisz multimedia</string>
@@ -172,8 +160,6 @@
     <string name="remove">Usuń</string>
     <string name="advise_edit_tiles_from_panel">%s ten kafelek z menu edycji szybkich ustawień.\nPo więcej informacji udaj się do pomocy na górze tej strony</string>
     <string name="vibrate_on_ring">Wibracja połączeń</string>
-    <string name="disable_doze_request">Wyłącz oszczędzanie baterii dla tej aplikacji, gdyż może to powodować pewne problemy</string>
-    <string name="disable_doze_instructions">Przejdź do zakładki z aplikacjami, znajdź Nougat Quick Settings i wybierz opcję braku optymalizacji.</string>
     <string name="use_letter_as_app_icon">Użyj pierwszej litery jako ikony aplikacji</string>
     <string name="accessibility_mono_audio">Dźwięk mono</string>
     <string name="accessibility_mono_audio_summary">Jest to równoznaczne z Ustawienia > Ułatwienia dostępu > Dźwięk mono</string>
@@ -183,8 +169,6 @@
     <string name="monochrome_summary">Włącza czarno-biały filtr ekranowy</string>
     <string name="reboot_system_ui">Uruchom ponownie interfejs systemu</string>
     <string name="input_method_picker">Wybór metody wprowadzania</string>
-    <string name="power_menu_tile">Menu zasilania</string>
-    <string name="enable_accessibility_service">Włącz ustawienia dostępności, aby przeprowadzić tę akcję</string>
     <string name="immersive_preference">Wybierz tryb rozszerzonego pulpitu</string>
     <string name="immersive_pref_generic">Wybieraj za każdym razem</string>
 </resources>
