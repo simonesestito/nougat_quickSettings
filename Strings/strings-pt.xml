@@ -242,5 +242,28 @@
     <string name="information">Informação</string>
     <string name="tiles_reboot_wait">As configurações rápidas logo devem voltar a funcionar</string>
     <string name="disable_admin_rights">Desabilita os direitos de administrador</string>
+    <string name="app_4">Aplicativo &amp; Atalhos #4</string>
+    <string name="app_5">Aplicativo &amp; Atalhos #</string>
+    <string name="ringer_mode_vibrate">Vibração</string>
+    <string name="ringer_mode_normal">Modo tocar</string>
+    <string name="ringer_mode_priority_mode">Modo prioridade</string>
+    <string name="ringer_mode_alarms_only">Somente alarmes</string>
+    <string name="ringer_mode_total_silence">Silêncio total</string>
+    <string name="ringer_mode_all">Incluir Modo Prioridade e Silêncio Total na lista de opções</string>
+    <string name="show_touches">Mostrar rastro de toque</string>
+    <string name="reboot_erecovery_huawei">Reiniciar no modo eRecovery do Huawei</string>
+    <string name="huawei_required">Exclusivo para dispositivo Huawei</string>
+    <string name="density_chooser">Definir densidade da tela</string>
+    <string name="color_black">Preto</string>
+    <string name="color_yellow">Amarelo</string>
+    <string name="color_red">Vermelho</string>
+    <string name="battery_ongoing">Verificando o nível da bateria</string>
+    <string name="screenshot_ongoing">Processando a captura de tela</string>
+    <string name="internet_speed">Velocidade da Internet</string>
+    <string name="how_to_use_card_home">Como usá-lo?</string>
+    <string name="root_security_settings_short">Clique aqui para obter mais informações</string>
+    <string name="root_security_settings_long">Você não está rooteado, mas isto pode ser desbloqueado usando um PC.\\nNo seu computador, vá para https://simonesestito.tk/qs_enabler para baixar o programa</string>
+    <string name="more">Mais</string>
+    <string name="battery_settings">Configurações de bateria</string>
 
 </resources>

@@ -267,5 +267,6 @@
     <string name="root_security_settings_long">You are not rooted, but this can be unlocked using a PC.\nOn your computer, go to https://simonesestito.tk/qs_enabler to download the software</string>
     <string name="more">More</string>
     <string name="battery_settings">Battery settings</string>
+    <string name="battery_onclick">Open settings on tile click</string>
 
 </resources>
