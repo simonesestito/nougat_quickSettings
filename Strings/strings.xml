@@ -253,8 +253,8 @@
     <string name="ringer_mode_total_silence">Total silence</string>
     <string name="ringer_mode_all">Include Priority Mode and Total Silence in choice list</string>
     <string name="show_touches">Show taps</string>
-    <string name="reboot_erecovery_huawei">Reboot Huawei eRecovery</string>
-    <string name="huawei_required">Huawei device required</string>
+    <string name="reboot_erecovery_huawei">Reboot to Huawei eRecovery</string>
+    <string name="huawei_required">Huawei device is required</string>
     <string name="density_chooser">Set density</string>
     <string name="color_black">Black</string>
     <string name="color_yellow">Yellow</string>
