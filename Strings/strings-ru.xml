@@ -117,4 +117,8 @@
     <string name="search_summary">Поиск в интернете</string>
     <string name="search_tile_long_press">Попробуйте запустить голосовой поиск</string>
     <string name="adb">ADB</string>
+    <string name="join_telegram">Канал в Telegram</string>
+    <string name="need_help">Помощь &amp; контакты</string>
+    <string name="how_to_use_card_home">Как пользовться?</string>
+    <string name="welcome_home_message">Добро пожаловать в Nougat/Oreo Quick Settings</string>
 </resources>
