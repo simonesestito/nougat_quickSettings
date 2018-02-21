@@ -12,7 +12,7 @@ open terminal in the unzipped folder, connect your phone, then type <code>./adb 
 
 ## Instructions for Windows users
 ### STEP 1 - Download the ZIP
-Download the zip <a href="https://simonesestito.tk/qs_enabler/win.zip">here</a>
+Download the zip <a href="https://drive.google.com/file/d/1irlIOm9yIqfwhwhB0jsOqX1lEWSf_9aF/view?usp=drivesdk">here</a>
 
 Unzip the file you've just downloaded in a folder on your PC.
 
