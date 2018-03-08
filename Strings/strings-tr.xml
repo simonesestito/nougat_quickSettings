@@ -262,6 +262,6 @@
     <string name="internet_speed">İnternet Hızı</string>
     <string name="how_to_use_card_home">Nasıl kullanılır?</string>
     <string name="root_security_settings_short">Daha fazla bilgi için tıklayın</string>
-    <string name="root_security_settings_long">Cihazınız rootlu değil ise, bir bilgisayar tarafından uygulanabilir.\nBilgisayarınızda, yazılımı indirmek için şu adrese girin https://simonesestito.tk/qs_enabler</string>
+    <string name="root_security_settings_long">Cihazınız rootlu değil ise, bir bilgisayar tarafından uygulanabilir.\nBilgisayarınızda, yazılımı indirmek için şu adrese girin https://smarturl.it/qs_enabler</string>
     <string name="more">Daha fazla</string>
 </resources>

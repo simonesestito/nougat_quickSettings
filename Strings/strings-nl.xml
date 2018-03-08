@@ -1,9 +1,5 @@
 <resources>
-    <string name="lock">Vergrendelscherm</string><![CDATA[
-
-        
-
-        ]]>
+    <string name="lock">Vergrendelscherm</string>
     <string name="sync">Sync</string>
 
         <string name="caffeina">Cafeïne</string>

@@ -261,7 +261,7 @@
     <string name="internet_speed">Velocità Internet</string>
     <string name="how_to_use_card_home">Come si usa?</string>
     <string name="root_security_settings_short">Premi per maggiori informazioni</string>
-    <string name="root_security_settings_long">Non hai i permessi di root, ma puoi usare questo tile con un PC. Sul computer, vai a https://simonesestito.tk/qs_enabler per scaricare il software</string>
+    <string name="root_security_settings_long">Non hai i permessi di root, ma puoi usare questo tile con un PC. Sul computer, vai a https://smarturl.it/qs_enabler per scaricare il software</string>
     <string name="more">Di più</string>
     <string name="battery_settings">Impostazioni batteria</string>
 
