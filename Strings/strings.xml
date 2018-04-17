@@ -36,7 +36,7 @@
     <string name="immersive">Immersive mode</string>
     <string name="reminder_public_text">Reminder is working</string>
     <string name="dismiss">Delete all</string>
-    <string name="reminder_empty_note">Add new text by clicking the button below</string>
+    <string name="reminder_empty_note">Add new text clicking the button below</string>
     <string name="reminder">Smart Reminder</string>
     <string name="reply_label">Write new line…</string>
     <string name="add_new_note_reminder">Add new line</string>

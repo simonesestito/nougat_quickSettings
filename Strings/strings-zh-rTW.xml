@@ -264,7 +264,7 @@
     <string name="internet_speed">網路速度</string>
     <string name="how_to_use_card_home">如何使用？</string>
     <string name="root_security_settings_short">按此了解更多</string>
-    <string name="root_security_settings_long">您的裝置尚未取得 Root 權限，但可以從電腦解鎖功能。\n到您的電腦下載這個程式 https://simonesestito.tk/qs_enabler </string>
+    <string name="root_security_settings_long">您的裝置尚未取得 Root 權限，但可以從電腦解鎖功能。\n到您的電腦下載這個程式 https://smarturl.it/qs_enabler </string>
     <string name="more">更多</string>
 
 </resources>
