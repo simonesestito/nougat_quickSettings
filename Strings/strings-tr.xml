@@ -176,7 +176,7 @@
     <string name="cm_profiles">LineageOS Profilleri</string>
     <string name="hotspot">Taşınabilir WiFi</string>
     <string name="temperature">Sıcaklık</string>
-    <string name="feels_like">Harika görünüyor</string>
+    <string name="feels_like">Hissediliyor</string>
     <string name="humidity">Nem</string>
     <string name="dew_point">Çiy noktası</string>
     <string name="error">Hata</string>
