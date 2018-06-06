@@ -158,7 +158,7 @@
     <string name="notification_ongoing_channel">Ongoing services</string>
     <string name="add">Add</string>
     <string name="remove">Remove</string>
-    <string name="advise_edit_tiles_from_panel">%s this tile by editing your quick settings panel.\nFor more information, click the Help button at the top of this page</string>
+    <string name="advise_edit_tiles_from_panel">%s this tile editing your quick settings panel.\nFor more information, click the Help button at the top of this page</string>
     <string name="vibrate_on_ring">Vibrate for calls</string>
     <string name="use_letter_as_app_icon">Use first char as app icon</string>
     <string name="accessibility_mono_audio">Mono audio</string>
