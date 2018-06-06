@@ -207,7 +207,6 @@
     <string name="position_summary">Zmeňte režim určovania polohy klepnutím</string>
     <string name="adb_summary">Zapne alebo vypne ADB</string>
     <string name="adb_wifi_summary">Zapne alebo vypne ADB cez WiFi</string>
-    <string name="empty" translatable="false" />
     <string name="disable_tile">Zakázať prepnutie</string>
     <string name="enable_tile">Povoliť prepnutie</string>
     <string name="customize">Prispôsobiť</string>

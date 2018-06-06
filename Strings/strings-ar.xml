@@ -206,7 +206,6 @@
     <string name="position_summary">تغيير وضع الموقع بلمسة واحدة</string>
     <string name="adb_summary">تفعيل أو إلغاء تفعيل وضع ADB</string>
     <string name="adb_wifi_summary">تفعيل أو إلغاء تفعيل خاصية ADB عبر الواي فاي</string>
-    <string name="empty" translatable="false" />
     <string name="disable_tile">إلغاء تفعيل الخاصيّة</string>
     <string name="enable_tile">تفعيل الخاصيّة</string>
     <string name="customize">تخصيص</string>
