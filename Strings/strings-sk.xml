@@ -26,7 +26,7 @@
     <string name="gps_wifi">Sieť</string>
     <string name="gps_all">GPS + sieť</string>
     <string name="gps_off">Vypnuté</string>
-    <string name="position">Pozícia</string>
+    <string name="position">Poloha</string>
     <string name="share_screenshot">Zdieľať screenshot s…</string>
     <string name="nfc">NFC</string>
     <string name="wait">Prosím čakajte</string>
@@ -135,9 +135,9 @@
     <string name="help_translation">Pomoc s prekladom</string>
     <string name="battery_saver">Šetrič batérie</string>
     <string name="not_supported_in_charging_state">Počas nabíjania telefónu nie je k dispozícii</string>
-    <string name="ambient_display">Ambientný displej</string>
+    <string name="ambient_display">Prispôsobivý displej</string>
     <string name="may_not_be_compatible">Nemusí byť kompatibilný s vaším zariadením</string>
-    <string name="adb_wifi">Adb cez LAN</string>
+    <string name="adb_wifi">ADB cez LAN</string>
     <string name="command_to_execute">Vykonajte tento príkaz na počítači pre pripojenie zariadenia</string>
     <string name="invert_colors">Invertovať farby</string>
     <string name="stop_at_screen_lock">Zastavte, keď bude telefón zamknutý</string>
@@ -207,8 +207,8 @@
     <string name="position_summary">Zmeňte režim určovania polohy klepnutím</string>
     <string name="adb_summary">Zapne alebo vypne ADB</string>
     <string name="adb_wifi_summary">Zapne alebo vypne ADB cez WiFi</string>
-    <string name="disable_tile">Zakázať prepnutie</string>
-    <string name="enable_tile">Povoliť prepnutie</string>
+    <string name="disable_tile">Zakázať prepínač</string>
+    <string name="enable_tile">Povoliť prepínač</string>
     <string name="customize">Prispôsobiť</string>
     <string name="nothing_to_customize">Nič tu nie je možné prispôsobiť</string>
     <string name="privacy_policy">Zásady ochrany osobných údajov</string>
