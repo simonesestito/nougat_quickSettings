@@ -213,7 +213,7 @@
     <string name="system_root_only">Sistema (root)</string>
     <string name="system_secure_adb">Sistema (secure)</string>
     <string name="utilities">Utilità</string>
-    <string name="welcome_home_message">Benvenuto in Nougat/Oreo Quick Settings</string>
+    <string name="welcome_home_message">Benvenuto in Quick Settings</string>
     <string name="enable_location">Per favore attiva la localizzazione</string>
     <string name="led_tile">LED di notifica</string>
     <string name="led_tile_summary">Attiva o disattiva il led di notifica</string>
@@ -264,5 +264,7 @@
     <string name="root_security_settings_long">Non hai i permessi di root, ma puoi usare questo tile con un PC. Sul computer, vai a https://smarturl.it/qs_enabler per scaricare il software</string>
     <string name="more">Di più</string>
     <string name="battery_settings">Impostazioni batteria</string>
+    <string name="battery_onclick">Apri le impostazioni al tap del tile</string>
+    <string name="screenshot_edit">Modifica</string>
 
 </resources>

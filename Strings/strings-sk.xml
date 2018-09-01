@@ -184,7 +184,7 @@
     <string name="request_admin_explanation">Táto aplikácia používa povolenie správcu zariadenia.\n
         Toto povolenie je potrebné na uzamknutie obrazovky, keď používateľ klikne na \'Uzamknúť obrazovku\'. Toto povolenie sa nikdy nepoužije na iné účely</string>
     <string name="weather_not_available">Počasie nie je k dispozícii</string>
-    <string name="welcome_home_message">Vitajte v Nougat/Oreo rýchlych nastaveniach</string>
+    <string name="welcome_home_message">Vitajte v rýchlych nastaveniach</string>
     <string name="home">Domov</string>
     <string name="categories">Kategórie</string>
     <string name="utilities">Nástroje</string>

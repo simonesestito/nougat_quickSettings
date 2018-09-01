@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-    <string name="app_name" translatable="false">Quick Settings</string>
     <string name="lock">ロック画面</string>
     <string name="sync">同期</string>
     <string name="caffeina">カフェイン</string>
     <string name="caffeina_stop">「カフェイン」タイルをタップしてサービスを停止</string>
     <string name="caffeina_run">カフェインは実行中です</string>
-    <string name="brightness_auto">明るさの自動調整</string>
+    <string name="brightness_auto">明るさの自動調節</string>
     <string name="sound">音量</string>
     <string name="select_app">アプリを選択</string>
     <string name="app">アプリケーションとショートカット</string>
@@ -45,7 +42,7 @@
     <string name="reminder_copy">テキストをコピー</string>
     <string name="copied">クリップボードにコピーしました</string>
     <string name="delete_last">最終行を削除</string>
-    <string name="hide_from_launcher">ランチャーで非表示</string>
+    <string name="hide_from_launcher">ランチャーに表示しない</string>
     <string name="sure">よろしいですか？</string>
     <string name="hide_alert_message">このアプリはランチャーで非表示になります。\n再度表示させるには、アプリのデータを消去する必要があります。</string>
     <string name="cancel">キャンセル</string>
@@ -99,7 +96,7 @@
     <string name="bluefilter_summary">カラーフィルターを画面に適用します</string>
     <string name="brightness">明るさ</string>
     <string name="brightness_summary">明るさを調整します</string>
-    <string name="leave_review">レビューを残す</string>
+    <string name="leave_review">レビューを書く</string>
     <string name="dice">ダイス</string>
     <string name="dice_summary">ダイスを振ります</string>
     <string name="enable_all_tiles">すべてのクイック設定を有効にする</string>
@@ -113,7 +110,7 @@
     <string name="donation_l_effective">作者の分け前はおよそ1.39ドルです</string>
     <string name="donation_xl">4.49ドル</string>
     <string name="donation_xl_effective">作者の分け前はおよそ3.14ドルです</string>
-    <string name="donate">寄付</string>
+    <string name="donate">寄付する</string>
     <string name="order_number">受注番号</string>
     <string name="search_tile">検索</string>
     <string name="search_summary">インターネットで検索します</string>
@@ -124,7 +121,7 @@
     <string name="play_pause_summary">現在の音楽プレーヤーを再生または一時停止します</string>
     <string name="never_show">二度と表示しない</string>
     <string name="weather">天気</string>
-    <string name="weather_summary">Google Awareness APIが提供</string>
+    <string name="weather_summary">Google Awareness APIの提供</string>
     <string name="weather_use_imperial">メートル法の代わりに帝国単位を使用する</string>
     <string name="in_ear_hide_screen">頭の近くにある時に画面を隠します</string>
     <string name="data_mobile">モバイルデータ</string>
@@ -140,7 +137,7 @@
     <string name="may_not_be_compatible">お使いの端末は対応していないかもしれません</string>
     <string name="adb_wifi">LAN上でADB</string>
     <string name="command_to_execute">端末と接続してこのコマンドをPC上で実行してください</string>
-    <string name="invert_colors">色の反転</string>
+    <string name="invert_colors">色を反転します</string>
     <string name="stop_at_screen_lock">端末がロックされた遠きに停止します</string>
     <string name="music_volume_tile">音楽の音量</string>
     <string name="music_volume_tile_summary">音楽の音量を素早く有効または無効にします</string>
@@ -150,13 +147,13 @@
     <string name="camera_summary">カメラを起動します</string>
     <string name="camera_tile_record_video">カメラを写真モードの代わりに動画モードで起動します</string>
     <string name="orientation">画面の回転</string>
-    <string name="battery">バッテリー</string>
-    <string name="battery_level">バッテリーレベルを表示</string>
+    <string name="battery">電池</string>
+    <string name="battery_level">電池残量を表示します</string>
     <string name="battery_style">バッテリースタイル</string>
     <string name="need_help">ヘルプと連絡</string>
     <string name="faq">FAQを読む</string>
     <string name="send_email">メールを送る</string>
-    <string name="join_telegram">Telegramのチャンネルに参加</string>
+    <string name="join_telegram">Telegramチャンネルに参加</string>
     <string name="notification_ongoing_channel">実行中のサービス</string>
     <string name="add">追加</string>
     <string name="remove">削除</string>
@@ -164,7 +161,7 @@
     <string name="vibrate_on_ring">着信時にバイブレーション</string>
     <string name="use_letter_as_app_icon">最初の文字をアプリのアイコンに使用する</string>
     <string name="accessibility_mono_audio">モノラル再生</string>
-    <string name="accessibility_mono_audio_summary">設定 > アクセシビリティ > モノラル再生 と同じものです</string>
+    <string name="accessibility_mono_audio_summary">設定 > ユーザー補助 > モノラル音声 と同じものです</string>
     <string name="mobile_data_type">モバイルデータの種類</string>
     <string name="mobile_data_type_summary">モバイルデータの設定を開きます</string>
     <string name="monochrome">読書灯</string>
@@ -184,14 +181,14 @@
     <string name="error">エラー</string>
     <string name="request_admin_explanation">このアプリはデバイス管理者の権限を使用します。\nこの権限は「画面をロック」タイルをタップした時に画面をロックするのに必要です。この権限が他の目的に使用されることはありません。</string>
     <string name="weather_not_available">天気は利用できません</string>
-    <string name="welcome_home_message">Nougat/Oreo Quick Settingsへようこそ</string>
+    <string name="welcome_home_message">Quick Settingsへようこそ</string>
     <string name="home">ホーム</string>
     <string name="categories">カテゴリー</string>
     <string name="utilities">ユーティリティー</string>
     <string name="multimedia">マルチメディア</string>
     <string name="shortcuts">ショートカット</string>
     <string name="system_no_root">システム(root不要)</string>
-    <string name="system_secure_adb">システム(セキュア)</string>
+    <string name="system_secure_adb">システム(安全)</string>
     <string name="system_root_only">システム(rootのみ)</string>
     <string name="for_developers">開発者向けのトグル</string>
     <string name="app_1">アプリとショートカット#1</string>
@@ -206,7 +203,7 @@
     <string name="battery_saver_summary">AOSPのバッテリーセーバーを有効または無効にします</string>
     <string name="position_summary">位置情報モードをタップで変更します</string>
     <string name="adb_summary">ADBを有効または無効にします</string>
-    <string name="adb_wifi_summary">WiFiでのADB有効または無効にします</string>
+    <string name="adb_wifi_summary">WiFiでのADBを有効または無効にします</string>
     <string name="empty" translatable="false"/>
     <string name="disable_tile">トグルを無効にする</string>
     <string name="enable_tile">トグルを有効にする</string>
@@ -256,7 +253,7 @@
     <string name="show_touches">タップを表示</string>
     <string name="reboot_erecovery_huawei">Huawei eRecoveryに再起動</string>
     <string name="huawei_required">Huawei製の端末が必要です</string>
-    <string name="density_chooser">解像度をセット</string>
+    <string name="density_chooser">解像度の設定</string>
     <string name="color_black">黒色</string>
     <string name="color_yellow">黄色</string>
     <string name="color_red">赤色</string>

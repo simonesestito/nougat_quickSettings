@@ -183,7 +183,7 @@
     <string name="request_admin_explanation">This app uses the Device Administrator permission.\n
         This permission is required to lock the screen when the user clicks on the \'Lock Screen\' tile. This permission will never be used for other purposes</string>
     <string name="weather_not_available">Weather not available</string>
-    <string name="welcome_home_message">Welcome to Nougat/Oreo Quick Settings</string>
+    <string name="welcome_home_message">Welcome to Quick Settings</string>
     <string name="home">Home</string>
     <string name="categories">Categories</string>
     <string name="utilities">Utilities</string>
@@ -268,5 +268,6 @@
     <string name="more">More</string>
     <string name="battery_settings">Battery settings</string>
     <string name="battery_onclick">Open settings on tile click</string>
+    <string name="screenshot_edit">Edit</string>
 
 </resources>

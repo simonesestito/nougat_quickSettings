@@ -2,105 +2,154 @@
     <string name="lock">Vergrendelscherm</string>
     <string name="sync">Sync</string>
 
-        <string name="caffeina">Cafeïne</string>
+        
+    <string name="caffeina">Cafeïne</string>
 
-        <string name="caffeina_stop">Klik op de "Cafeïne" tegel om de service te stoppen</string>
+        
+    <string name="caffeina_stop">Klik op de "Cafeïne" tegel om de service te stoppen</string>
 
-        <string name="caffeina_run">Cafeïne is actief</string>
+        
+    <string name="caffeina_run">Cafeïne is actief</string>
 
-        <string name="brightness_auto">Auto helderheid</string>
+        
+    <string name="brightness_auto">Auto helderheid</string>
 
-        <string name="sound">Volume</string>
+        
+    <string name="sound">Volume</string>
 
-        <string name="select_app">Kies een app</string>
+        
+    <string name="select_app">Kies een app</string>
 
-        <string name="app">Applicatie</string>
+        
+    <string name="app">Applicatie</string>
 
-        <string name="mono">In-Ear Audio​</string>
+        
+    <string name="mono">In-Ear Audio​</string>
 
-        <string name="mono_run">In-Ear Audio is actief</string>
+        
+    <string name="mono_run">In-Ear Audio is actief</string>
 
-        <string name="mono_stop">Klik op "In-Ear Audio" tegel om de service te stoppen</string>
+        
+    <string name="mono_stop">Klik op "In-Ear Audio" tegel om de service te stoppen</string>
 
-        <string name="reboot_simple">Herstart</string>
+        
+    <string name="reboot_simple">Herstart</string>
 
-        <string name="reboot_soft">Lichte herstart</string>
+        
+    <string name="reboot_soft">Lichte herstart</string>
 
-        <string name="reboot_recovery">Herstart in recovery-mode</string>
+        
+    <string name="reboot_recovery">Herstart in recovery-mode</string>
 
-        <string name="reboot_bootloader">Herstart in bootloader</string>
+        
+    <string name="reboot_bootloader">Herstart in bootloader</string>
 
-        <string name="reboot_shutdown">Uitschakelen</string>
+        
+    <string name="reboot_shutdown">Uitschakelen</string>
 
-        <string name="root_unavaible">Het ziet er naar uit dat je telefoon geen root toegang heeft</string>
+        
+    <string name="root_unavaible">Het ziet er naar uit dat je telefoon geen root toegang heeft</string>
 
-        <string name="reboot">Herstart</string>
+        
+    <string name="reboot">Herstart</string>
 
-        <string name="ok">Oké</string>
+        
+    <string name="ok">Oké</string>
 
-        <string name="screenshot">Screenshot</string>
+        
+    <string name="screenshot">Screenshot</string>
 
-        <string name="gps_only">GPS</string>
+        
+    <string name="gps_only">GPS</string>
 
-        <string name="gps_wifi">Netwerk</string>
+        
+    <string name="gps_wifi">Netwerk</string>
 
-        <string name="gps_all">GPS + netwerk</string>
+        
+    <string name="gps_all">GPS + netwerk</string>
 
-        <string name="gps_off">Uitgeschakeld</string>
+        
+    <string name="gps_off">Uitgeschakeld</string>
 
-        <string name="position">Locatie</string>
+        
+    <string name="position">Locatie</string>
 
-        <string name="share_screenshot">Deel screenshot met…</string>
+        
+    <string name="share_screenshot">Deel screenshot met…</string>
 
-        <string name="nfc">NFC</string>
+        
+    <string name="nfc">NFC</string>
 
-        <string name="wait">Even geduld..</string>
+        
+    <string name="wait">Even geduld..</string>
 
-        <string name="status">Verberg statusbalk​</string>
+        
+    <string name="status">Verberg statusbalk​</string>
 
-        <string name="nav">Verberg navigatiebalk</string>
+        
+    <string name="nav">Verberg navigatiebalk</string>
 
-        <string name="full">Verberg alle systeembalken</string>
+        
+    <string name="full">Verberg alle systeembalken</string>
 
-        <string name="none">Laat alle systeembalken zien</string>
+        
+    <string name="none">Laat alle systeembalken zien</string>
 
-        <string name="immersive">Immersive mode</string>
+        
+    <string name="immersive">Immersive mode</string>
 
-        <string name="reminder_public_text">Herinneringen actief</string>
+        
+    <string name="reminder_public_text">Herinneringen actief</string>
 
-        <string name="dismiss">Verwijder alles</string>
+        
+    <string name="dismiss">Verwijder alles</string>
 
-        <string name="reminder_empty_note">Voeg nieuwe tekst toe door op onderstaande knop te tikken</string>
+        
+    <string name="reminder_empty_note">Voeg nieuwe tekst toe door op onderstaande knop te tikken</string>
 
-        <string name="reminder">Slimme herinnering</string>
+        
+    <string name="reminder">Slimme herinnering</string>
 
-        <string name="reply_label">Schrijf iets nieuws</string>
+        
+    <string name="reply_label">Schrijf iets nieuws</string>
 
-        <string name="add_new_note_reminder">Voeg nieuwe rij toe</string>
+        
+    <string name="add_new_note_reminder">Voeg nieuwe rij toe</string>
 
-        <string name="reminder_copy">Kopieer tekst</string>
+        
+    <string name="reminder_copy">Kopieer tekst</string>
 
-        <string name="copied">Gekopieerd naar klembord</string>
+        
+    <string name="copied">Gekopieerd naar klembord</string>
 
-        <string name="delete_last">Verwijder laatste rij</string>
+        
+    <string name="delete_last">Verwijder laatste rij</string>
 
-        <string name="hide_from_launcher">Verberg in applicatielijst</string>
+    <string name="hide_from_launcher">Verberg in applicatielijst</string>
 
-        <string name="sure">Weet je het zeker?</string>
+        
+    <string name="sure">Weet je het zeker?</string>
 
-        <string name="hide_alert_message">De app is verborgen in de applicatielijst.\nOm hem weer in de applicatielijst te krijgen moet je de app data en cache leeg maken.</string>
+        
+    <string name="hide_alert_message">De app is verborgen in de applicatielijst.\nOm hem weer in de applicatielijst te krijgen moet je de app data en cache leeg maken.</string>
 
-        <string name="cancel">Annuleren</string>
+        
+    <string name="cancel">Annuleren</string>
 
-        <string name="todo">Kies volgende actie</string>
+        
+    <string name="todo">Kies volgende actie</string>
 
-        <string name="restore_launcher">Laat zien in de applicatielijst</string>
+        
+    <string name="restore_launcher">Laat zien in de applicatielijst</string>
 
-        <string name="unistall">Deïnstalleer</string>
+        
+    <string name="unistall">Deïnstalleer</string>
 
-        <string name="reboot_to_refresh">Je moet waarschijnlijk je apparaat opnieuw opstarten.</string>
+        
+    <string name="reboot_to_refresh">Je moet waarschijnlijk je apparaat opnieuw opstarten.</string>
 
-        <string name="volume_up">Volume +</string>
+        
+    <string name="volume_up">Volume +</string>
 
         <string name="volume_down">Volume -</string><![CDATA[
 
@@ -109,15 +158,20 @@
         ]]>
     <string name="store_screenshots">Sla de screenshots op in je gallerij in plaats van ze meteen te delen</string>
 
-        <string name="screenshot_done">Screenshot opgeslagen</string>
+        
+    <string name="screenshot_done">Screenshot opgeslagen</string>
 
-        <string name="screenshot_touch_to_show">Raak aan om de gemaakte screenshot weer te geven</string>
+        
+    <string name="screenshot_touch_to_show">Raak aan om de gemaakte screenshot weer te geven</string>
 
-        <string name="delete">Verwijder</string>
+        
+    <string name="delete">Verwijder</string>
 
-        <string name="share">Deel</string>
+        
+    <string name="share">Deel</string>
 
-        <string name="ringer">Belmodus</string>
+        
+    <string name="ringer">Belmodus</string>
 
         <string name="permission_required">Toestemming vereist</string><![CDATA[
 
@@ -130,122 +184,177 @@
         ]]>
     <string name="in_ear_summary">Luister naar muziek via de gespreksspeaker​ van je telefoon, handig wanneer je geen oortjes hebt.</string>
 
-        <string name="lock_summary">Je telefoon moet geroot zijn om te kunnen ontgrendelen met vingerafdruk.</string>
+        
+    <string name="lock_summary">Je telefoon moet geroot zijn om te kunnen ontgrendelen met vingerafdruk.</string>
 
-        <string name="root_required">Root toestemming vereist</string>
+        
+    <string name="root_required">Root toestemming vereist</string>
 
-        <string name="caffeina_summary">Houdt het scherm wakker</string>
+        
+    <string name="caffeina_summary">Houdt het scherm wakker</string>
 
-        <string name="app_summary">Kies een app om te starten vanuit Quick Settings.</string>
+        
+    <string name="app_summary">Kies een app om te starten vanuit Quick Settings.</string>
 
-        <string name="immersive_summary">Verberg systeembalken. Root vereist.</string>
+        
+    <string name="immersive_summary">Verberg systeembalken. Root vereist.</string>
 
-        <string name="reminder_summary">Gebruik een notificatie om te herinneren wat je moest doen.</string>
+        
+    <string name="reminder_summary">Gebruik een notificatie om te herinneren wat je moest doen.</string>
 
-        <string name="screenshot_summary">Neem screenshots met een simpele klik.</string>
+        
+    <string name="screenshot_summary">Neem screenshots met een simpele klik.</string>
 
-        <string name="ringer_summary">Schakel tussen Beltoon, Trillen en Stil.</string>
+        
+    <string name="ringer_summary">Schakel tussen Beltoon, Trillen en Stil.</string>
 
-        <string name="contact">Contact</string>
+        
+    <string name="contact">Contact</string>
 
-        <string name="contact_summary">Open snel en eenvoudig een contact</string>
+        
+    <string name="contact_summary">Open snel en eenvoudig een contact</string>
 
-        <string name="sound_summary">Open het volumepaneel.</string>
+        
+    <string name="sound_summary">Open het volumepaneel.</string>
 
-        <string name="brightness_auto_summary">Schakel de automatische helderheid in of uit.</string>
+        
+    <string name="brightness_auto_summary">Schakel de automatische helderheid in of uit.</string>
 
-        <string name="thanks">Dankjewel.</string>
+        
+    <string name="thanks">Dankjewel.</string>
 
-        <string name="calculator">Rekenmachine.</string>
+        
+    <string name="calculator">Rekenmachine.</string>
 
-        <string name="calc_summary">Start de systeem rekenmachine op.</string>
+        
+    <string name="calc_summary">Start de systeem rekenmachine op.</string>
 
-        <string name="calc_not_found">Geen systeem rekenmachine gevonden.</string>
+        
+    <string name="calc_not_found">Geen systeem rekenmachine gevonden.</string>
 
-        <string name="sync_summary">Synchronisatie in- of uitschakelen.</string>
+        
+    <string name="sync_summary">Synchronisatie in- of uitschakelen.</string>
 
-        <string name="nfc_summary">NFC inschakelen of uitschakelen. Root vereist.</string>
+        
+    <string name="nfc_summary">NFC inschakelen of uitschakelen. Root vereist.</string>
 
-        <string name="in_ear_max">Zet het volume op maximaal bij het overschakelen naar In-Ear Audio modus.</string>
+        
+    <string name="in_ear_max">Zet het volume op maximaal bij het overschakelen naar In-Ear Audio modus.</string>
 
-        <string name="heads_up">Heads-Up</string>
+        
+    <string name="heads_up">Heads-Up</string>
 
-        <string name="screen_timeout">Scherm time-out</string>
+        
+    <string name="screen_timeout">Scherm time-out</string>
 
-        <string name="timer">Timer</string>
+        
+    <string name="timer">Timer</string>
 
-        <string name="heads_up_summary">Heads Up notificaties in- of uitschakelen. Root vereist.</string>
+        
+    <string name="heads_up_summary">Heads Up notificaties in- of uitschakelen. Root vereist.</string>
 
-        <string name="screen_timeout_summary">Stel de time-out van het scherm in</string>
+        
+    <string name="screen_timeout_summary">Stel de time-out van het scherm in</string>
 
-        <string name="storage">Opslag</string>
+        
+    <string name="storage">Opslag</string>
 
-        <string name="storage_summary">Open de systeem bestandsmanager of opslag instellingen.</string>
+        
+    <string name="storage_summary">Open de systeem bestandsmanager of opslag instellingen.</string>
 
-        <string name="tally_counter">Teller</string>
+        
+    <string name="tally_counter">Teller</string>
 
-        <string name="tally_counter_summary">Een snelle teller in quick settings</string>
+        
+    <string name="tally_counter_summary">Een snelle teller in quick settings</string>
 
-        <string name="timer_summary">Stel een nieuwe timer in</string>
+        
+    <string name="timer_summary">Stel een nieuwe timer in</string>
 
-        <string name="alarm">Alarm</string>
+        
+    <string name="alarm">Alarm</string>
 
-        <string name="alarm_summary">Stel een nieuw alarm in</string>
+        
+    <string name="alarm_summary">Stel een nieuw alarm in</string>
 
-        <string name="bluefilter">Nachtscherm filter</string>
+        
+    <string name="bluefilter">Nachtscherm filter</string>
 
-        <string name="bluefilter_color">Kies het filterkleur</string>
+        
+    <string name="bluefilter_color">Kies het filterkleur</string>
 
-        <string name="bluefilter_summary">Brengt​ een gekleurd filter aan op het scherm.</string>
+        
+    <string name="bluefilter_summary">Brengt​ een gekleurd filter aan op het scherm.</string>
 
-        <string name="brightness">Helderheid</string>
+        
+    <string name="brightness">Helderheid</string>
 
-        <string name="brightness_summary">Pas de helderheid aan.</string>
+        
+    <string name="brightness_summary">Pas de helderheid aan.</string>
 
-        <string name="leave_review">Laat een review achter</string>
+    <string name="leave_review">Laat een review achter</string>
 
-        <string name="dice">Dobbelsteen</string>
+        
+    <string name="dice">Dobbelsteen</string>
 
-        <string name="dice_summary">Gooi de dobbelsteen.</string>
+        
+    <string name="dice_summary">Gooi de dobbelsteen.</string>
 
-        <string name="enable_all_tiles">Schakel alle quicksettings in</string>
+        
+    <string name="enable_all_tiles">Schakel alle quicksettings in</string>
 
         <string name="night_filter_working">Nachtfilter staat aan</string><![CDATA[
 
             ]]>
     <string name="not_supported">Niet ondersteund</string>
 
-        <string name="donation_s">€0.79</string>
+        
+    <string name="donation_s">€0.79</string>
 
-        <string name="donation_s_effective">Ik krijg ongeveer $0.69</string>
+        
+    <string name="donation_s_effective">Ik krijg ongeveer $0.69</string>
 
-        <string name="donation_m">€1.49</string>
+        
+    <string name="donation_m">€1.49</string>
 
-        <string name="donation_m_effective">Ik krijg ongeveer $1.00</string>
+        
+    <string name="donation_m_effective">Ik krijg ongeveer $1.00</string>
 
-        <string name="donation_l">€2.49</string>
+        
+    <string name="donation_l">€2.49</string>
 
-        <string name="donation_l_effective">Ik krijg ongeveer $1.39</string>
+        
+    <string name="donation_l_effective">Ik krijg ongeveer $1.39</string>
 
-        <string name="donation_xl">€4.79</string>
+        
+    <string name="donation_xl">€4.79</string>
 
-        <string name="donation_xl_effective">Ik krijg ongeveer $3.14</string>
+        
+    <string name="donation_xl_effective">Ik krijg ongeveer $3.14</string>
 
-        <string name="donate">Doneer</string>
+        
+    <string name="donate">Doneer</string>
 
-        <string name="order_number">Bestelnummer</string>
+        
+    <string name="order_number">Bestelnummer</string>
 
-        <string name="search_tile">Zoeken</string>
+        
+    <string name="search_tile">Zoeken</string>
 
-        <string name="search_summary">Zoek op Google</string>
+        
+    <string name="search_summary">Zoek op Google</string>
 
-        <string name="search_tile_long_press">Lang ingedrukt houden om spraakopdracht te kunnen geven</string>
+        
+    <string name="search_tile_long_press">Lang ingedrukt houden om spraakopdracht te kunnen geven</string>
 
-        <string name="storage_open_old_screen">Open opslag instellingen in plaats van bestandsmanager</string>
+        
+    <string name="storage_open_old_screen">Open opslag instellingen in plaats van bestandsmanager</string>
 
-        <string name="adb">ADB</string>
+        
+    <string name="adb">ADB</string>
 
-        <string name="play_pause">Speel af / Pauze</string>
+        
+    <string name="play_pause">Speel af / Pauze</string>
 
         <string name="play_pause_summary">Speel of pauze de huidige muziekspelerinstantie</string><![CDATA[
 
@@ -254,23 +363,33 @@
         ]]>
     <string name="never_show">Laat dit niet nog een keer zien</string>
 
-        <string name="weather">Weer</string>
+        
+    <string name="weather">Weer</string>
 
-        <string name="weather_summary">Met dank aan Google Awareness API</string>
+        
+    <string name="weather_summary">Met dank aan Google Awareness API</string>
 
-        <string name="weather_use_imperial">Gebruik imperiale eenheden in plaats van metrische</string>
+        
+    <string name="weather_use_imperial">Gebruik imperiale eenheden in plaats van metrische</string>
 
-        <string name="in_ear_hide_screen">Verberg het scherm als de telefoon dicht bij je hoofd zit</string>
+        
+    <string name="in_ear_hide_screen">Verberg het scherm als de telefoon dicht bij je hoofd zit</string>
 
-        <string name="data_mobile">Mobiele data</string>
+        
+    <string name="data_mobile">Mobiele data</string>
 
-        <string name="vpn">VPN</string>
+        
+    <string name="vpn">VPN</string>
 
-        <string name="data_mobile_summary">Verander de mobiele data status. Root vereist.</string>
+        
+    <string name="data_mobile_summary">Verander de mobiele data status. Root vereist.</string>
 
-        <string name="vpn_summary">Open VPN-instellingen</string><string name="cast">Cast</string>
+        
+    <string name="vpn_summary">Open VPN-instellingen</string>
+    <string name="cast">Cast</string>
 
-        <string name="cast_summary">Open \'Cast\' scherm</string>
+        
+    <string name="cast_summary">Open \'Cast\' scherm</string>
 
 
 </resources>

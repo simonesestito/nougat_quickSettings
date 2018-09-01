@@ -183,7 +183,7 @@
     <string name="request_admin_explanation">此程式使用裝置管理員權限。\n
         此權限僅在「鎖定螢幕」使用，絕不挪作他用。</string>
     <string name="weather_not_available">天氣未知</string>
-    <string name="welcome_home_message">歡迎使用 Nougat/Oreo 快速設定</string>
+    <string name="welcome_home_message">歡迎使用 快速設定</string>
     <string name="home">首頁</string>
     <string name="categories">類別</string>
     <string name="utilities">實用</string>

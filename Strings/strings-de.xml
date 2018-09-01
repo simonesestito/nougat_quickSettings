@@ -184,7 +184,7 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="request_admin_explanation">Diese App nutzt die Geräteverwaltung.\n
         Diese Berechtigung wird benötigt um das Display zu sperren, wenn der Nutzer auf die \'Lock Screen\' Schaltfläche klickt. Diese Berechtigung wird nicht für andere Zwecke genutzt</string>
     <string name="weather_not_available">Wetter nicht verfügbar</string>
-    <string name="welcome_home_message">Willkommen bei Nougat/Oreo Quick Settings</string>
+    <string name="welcome_home_message">Willkommen bei Quick Settings</string>
     <string name="home">Home</string>
     <string name="categories">Kategorien</string>
     <string name="utilities">Werkzeuge</string>

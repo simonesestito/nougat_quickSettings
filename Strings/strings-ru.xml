@@ -178,7 +178,7 @@
     <string name="request_admin_explanation"> Это отдельное приложение предназначено для использования разрешения администратора устройства. \n
         Это разрешение требуется для блокировки экрана, когда пользователь нажимает на плитку \'Lock Screen\' . Оно никогда не будет использоваться для других целей</string>
     <string name="weather_not_available">Прогноз погоды не доступен</string>
-    <string name="welcome_home_message">Добро пожаловать в Nougat/Oreo Quick Settings</string>
+    <string name="welcome_home_message">Добро пожаловать в Quick Settings</string>
     <string name="home">Главный экран</string>
     <string name="categories">Категории</string>
     <string name="utilities">Утилиты</string>

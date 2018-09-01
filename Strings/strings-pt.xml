@@ -183,7 +183,7 @@
     <string name="request_admin_explanation">Este aplicativo usa a permissão de Administrador do dispositivo.\n
         Essa permissão é necessária para bloquear a tela quando o usuário clicar na opção 'Bloqueio de tela'. Essa permissão nunca será usada para outros fins</string>
     <string name="weather_not_available">Clima não disponível</string>
-    <string name="welcome_home_message">Bem-vindo às Configurações rápidas do Nougat/Oreo</string>
+    <string name="welcome_home_message">Bem-vindo às Configurações rápidas</string>
     <string name="home">Início</string>
     <string name="categories">Categorias</string>
     <string name="utilities">Utilitários</string>

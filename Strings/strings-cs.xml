@@ -182,7 +182,7 @@
     <string name="request_admin_explanation">Tato aplikace používá oprávnění administrátora zařízení.\n
         Toto oprávnění je vyžadováno k uzamčení obrazovky, když uživatel klepne na \'Zamknout obrazovku\'. Toto oprávnění se nikdy nepoužije pro jiné účely</string>
     <string name="weather_not_available">Počasí není k dispozici</string>
-    <string name="welcome_home_message">Vítejte v Nougat Quick Settings</string>
+    <string name="welcome_home_message">Vítejte v Quick Settings</string>
     <string name="home">Domů</string>
     <string name="categories">Kategorie</string>
     <string name="utilities">Nástroje</string>

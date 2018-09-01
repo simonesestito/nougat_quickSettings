@@ -183,7 +183,7 @@
     <string name="error">خطأ</string>
     <string name="request_admin_explanation">هذا التطبيق يستخدم إذن المسؤول للهاتف. \nهذا الإذن مطلوب لقفل الشاشة عندما يضغط المستخدم على مربع \"قفل الشاشة\". لن يتم إستخدام هذا الإذن لأي أغراض أخرى</string>
     <string name="weather_not_available">الطقس غير متوفر</string>
-    <string name="welcome_home_message">أهلاً وسهلاً بك إلى تطبيق إعدادات Nougat/Oreo السريعة</string>
+    <string name="welcome_home_message">أهلاً وسهلاً بك إلى تطبيق إعدادات السريعة</string>
     <string name="home">الرئيسية</string>
     <string name="categories">الأقسام</string>
     <string name="utilities">الأدوات</string>

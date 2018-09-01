@@ -182,7 +182,7 @@
     <string name="error">错误</string>
     <string name="request_admin_explanation">此应用程序使用设备管理员权限, \n 此权限绝不用于其他用途。</string>
     <string name="weather_not_available">天气服务不可用</string>
-    <string name="welcome_home_message">欢迎使用Nougat/Oreo Quick Settings</string>
+    <string name="welcome_home_message">欢迎使用Quick Settings</string>
     <string name="home">主页</string>
     <string name="categories">分类</string>
     <string name="utilities">使用工具</string>
