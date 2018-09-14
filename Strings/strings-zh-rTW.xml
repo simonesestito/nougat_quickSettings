@@ -45,7 +45,7 @@
     <string name="delete_last">刪除最後一行</string>
     <string name="hide_from_launcher">不在啟動器內顯示</string>
     <string name="sure">您確定要這麼做嗎？</string>
-    <string name="hide_alert_message">這個 App 將不再於啟動器中顯示。\n如要重新顯示，您需要到「設定」內清除 App 的資料。</string>
+    <string name="hide_alert_message">這個程式將不再於啟動器中顯示。\n如要重新顯示，您需要到「設定」清除程式的資料。</string>
     <string name="cancel">取消</string>
     <string name="todo">選擇下一個步驟</string>
     <string name="restore_launcher">在啟動器中顯示</string>
@@ -266,5 +266,8 @@
     <string name="root_security_settings_short">按此了解更多</string>
     <string name="root_security_settings_long">您的裝置尚未取得 Root 權限，但可以從電腦解鎖功能。\n到您的電腦下載這個程式 https://smarturl.it/qs_enabler </string>
     <string name="more">更多</string>
+    <string name="battery_settings">電池設定</string>
+    <string name="battery_onclick">輕觸磁磚可以開啟設定</string>
+    <string name="screenshot_edit">編輯</string>
 
 </resources>
