@@ -45,7 +45,6 @@
     <string name="delete_last">刪除最後一行</string>
     <string name="hide_from_launcher">不在啟動器內顯示</string>
     <string name="sure">您確定要這麼做嗎？</string>
-    <string name="hide_alert_message">這個程式將不再於啟動器中顯示。\n如要重新顯示，您需要到「設定」清除程式的資料。</string>
     <string name="cancel">取消</string>
     <string name="reboot_to_refresh">您需要重新啟動裝置</string>
     <string name="volume_up">提高音量</string>
