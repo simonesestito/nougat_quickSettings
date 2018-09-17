@@ -44,11 +44,7 @@
     <string name="delete_last">最終行を削除</string>
     <string name="hide_from_launcher">ランチャーに表示しない</string>
     <string name="sure">よろしいですか？</string>
-    <string name="hide_alert_message">このアプリはランチャーで非表示になります。\n再度表示させるには、アプリのデータを消去する必要があります。</string>
     <string name="cancel">キャンセル</string>
-    <string name="todo">次のアクションを選択</string>
-    <string name="restore_launcher">ランチャーに表示</string>
-    <string name="unistall">アンインストール</string>
     <string name="reboot_to_refresh">端末の再起動が必要です</string>
     <string name="volume_up">音量 +</string>
     <string name="volume_down">音量 -</string>
@@ -99,7 +95,6 @@
     <string name="leave_review">レビューを書く</string>
     <string name="dice">ダイス</string>
     <string name="dice_summary">ダイスを振ります</string>
-    <string name="enable_all_tiles">すべてのクイック設定を有効にする</string>
     <string name="night_filter_working">ナイトフィルターは実行中です</string>
     <string name="not_supported">サポートされていません</string>
     <string name="donation_s">0.99ドル</string>
@@ -150,10 +145,7 @@
     <string name="battery">電池</string>
     <string name="battery_level">電池残量を表示します</string>
     <string name="battery_style">バッテリースタイル</string>
-    <string name="need_help">ヘルプと連絡</string>
-    <string name="faq">FAQを読む</string>
     <string name="send_email">メールを送る</string>
-    <string name="join_telegram">Telegramチャンネルに参加</string>
     <string name="notification_ongoing_channel">実行中のサービス</string>
     <string name="add">追加</string>
     <string name="remove">削除</string>
@@ -178,7 +170,6 @@
     <string name="feels_like">体感</string>
     <string name="humidity">湿度</string>
     <string name="dew_point">露点</string>
-    <string name="error">エラー</string>
     <string name="request_admin_explanation">このアプリはデバイス管理者の権限を使用します。\nこの権限は「画面をロック」タイルをタップした時に画面をロックするのに必要です。この権限が他の目的に使用されることはありません。</string>
     <string name="weather_not_available">天気は利用できません</string>
     <string name="welcome_home_message">Quick Settingsへようこそ</string>
@@ -205,9 +196,6 @@
     <string name="adb_summary">ADBを有効または無効にします</string>
     <string name="adb_wifi_summary">WiFiでのADBを有効または無効にします</string>
     <string name="empty" translatable="false"/>
-    <string name="disable_tile">トグルを無効にする</string>
-    <string name="enable_tile">トグルを有効にする</string>
-    <string name="customize">カスタマイズ</string>
     <string name="nothing_to_customize">カスタマイズするものがありません</string>
     <string name="privacy_policy">プライバシーポリシー</string>
     <string name="licenses">ライセンス</string>
@@ -215,7 +203,6 @@
     <string name="empty_search_results">何も見つかりませんでした。</string>
     <string name="save">保存</string>
     <string name="search">検索</string>
-    <string name="watch_video">チュートリアル動画を見る</string>
     <string name="led_tile">通知LED</string>
     <string name="led_tile_summary">通知ライトを有効または無効にします</string>
     <string name="show_weather_info_onclick">タイルをタップして天気情報を表示</string>
@@ -260,7 +247,6 @@
     <string name="battery_ongoing">バッテリーレベルを監視しています</string>
     <string name="screenshot_ongoing">スクリーンショットを処理しています</string>
     <string name="internet_speed">インターネット速度</string>
-    <string name="how_to_use_card_home">使い方</string>
     <string name="root_security_settings_short">ここをタップしてさらに多くの情報を表示</string>
     <string name="root_security_settings_long">お使いの端末はroot化されていませんが、PCでアンロックできる可能性があります。\nhttps://smarturl.it/qs_enabler からソフトウェアをダウンロードしてください</string>
     <string name="more">さらに表示</string>

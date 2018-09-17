@@ -128,24 +128,24 @@
     <string name="hide_from_launcher">Verberg in applicatielijst</string>
 
         
-    <string name="sure">Weet je het zeker?</string>
+    <string name="sure">Weet je het zeker?</string><![CDATA[
 
         
-    <string name="hide_alert_message">De app is verborgen in de applicatielijst.\nOm hem weer in de applicatielijst te krijgen moet je de app data en cache leeg maken.</string>
 
         
-    <string name="cancel">Annuleren</string>
+    ]]>
+    <string name="cancel">Annuleren</string><![CDATA[
 
         
-    <string name="todo">Kies volgende actie</string>
+
 
         
-    <string name="restore_launcher">Laat zien in de applicatielijst</string>
+
 
         
-    <string name="unistall">Deïnstalleer</string>
 
         
+    ]]>
     <string name="reboot_to_refresh">Je moet waarschijnlijk je apparaat opnieuw opstarten.</string>
 
         
@@ -298,12 +298,11 @@
     <string name="dice">Dobbelsteen</string>
 
         
-    <string name="dice_summary">Gooi de dobbelsteen.</string>
+    <string name="dice_summary">Gooi de dobbelsteen.</string><![CDATA[
 
         
-    <string name="enable_all_tiles">Schakel alle quicksettings in</string>
 
-        <string name="night_filter_working">Nachtfilter staat aan</string><![CDATA[
+        ]]><string name="night_filter_working">Nachtfilter staat aan</string><![CDATA[
 
             ]]>
     <string name="not_supported">Niet ondersteund</string>

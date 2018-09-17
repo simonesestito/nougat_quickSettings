@@ -26,7 +26,7 @@
     <string name="gps_wifi">Sieť</string>
     <string name="gps_all">GPS + sieť</string>
     <string name="gps_off">Vypnuté</string>
-    <string name="position">Pozícia</string>
+    <string name="position">Poloha</string>
     <string name="share_screenshot">Zdieľať screenshot s…</string>
     <string name="nfc">NFC</string>
     <string name="wait">Prosím čakajte</string>
@@ -46,11 +46,7 @@
     <string name="delete_last">Odstrániť posledný riadok</string>
     <string name="hide_from_launcher">Skryť z launcheru</string>
     <string name="sure">Si si istý/á?</string>
-    <string name="hide_alert_message">Aplikácia bude skrytá z launcheru.\nPre znovu zobrazenie musíte vymazať dáta aplikácie</string>
     <string name="cancel">Zrušiť</string>
-    <string name="todo">Vyberte ďalšiu akciu</string>
-    <string name="restore_launcher">Zobraziť v launcheru</string>
-    <string name="unistall">Odinštalovať</string>
     <string name="reboot_to_refresh">Možno budete musieť reštartovať zariadenie</string>
     <string name="volume_up">Hlasitosť +</string>
     <string name="volume_down">Hlasitosť -</string>
@@ -101,7 +97,6 @@
     <string name="leave_review">Zanechať recenziu</string>
     <string name="dice">Kocka</string>
     <string name="dice_summary">Hodiť kockou</string>
-    <string name="enable_all_tiles">Zapnúť všetky rýchla nastavenia</string>
     <string name="night_filter_working">Nočný filter je spustený</string>
     <string name="not_supported">Nie je podporované</string>
     <string name="donation_s">$0.99</string>
@@ -135,9 +130,9 @@
     <string name="help_translation">Pomoc s prekladom</string>
     <string name="battery_saver">Šetrič batérie</string>
     <string name="not_supported_in_charging_state">Počas nabíjania telefónu nie je k dispozícii</string>
-    <string name="ambient_display">Ambientný displej</string>
+    <string name="ambient_display">Prispôsobivý displej</string>
     <string name="may_not_be_compatible">Nemusí byť kompatibilný s vaším zariadením</string>
-    <string name="adb_wifi">Adb cez LAN</string>
+    <string name="adb_wifi">ADB cez LAN</string>
     <string name="command_to_execute">Vykonajte tento príkaz na počítači pre pripojenie zariadenia</string>
     <string name="invert_colors">Invertovať farby</string>
     <string name="stop_at_screen_lock">Zastavte, keď bude telefón zamknutý</string>
@@ -152,10 +147,7 @@
     <string name="battery">Batéria</string>
     <string name="battery_level">Zobraziť úroveň nabitia batérie</string>
     <string name="battery_style">Štýl batérie</string>
-    <string name="need_help">Pomoc &amp; kontakty</string>
-    <string name="faq">Prečítať FAQ</string>
     <string name="send_email">Email</string>
-    <string name="join_telegram">Pripojiť sa k Telegramovému kanálu</string>
     <string name="notification_ongoing_channel">Prebiehajúce služby</string>
     <string name="add">Pridať</string>
     <string name="remove">Odstrániť</string>
@@ -180,11 +172,10 @@
     <string name="feels_like">Pocitová teplota</string>
     <string name="humidity">Vlhkosť</string>
     <string name="dew_point">Rosný bod</string>
-    <string name="error">Chyba</string>
     <string name="request_admin_explanation">Táto aplikácia používa povolenie správcu zariadenia.\n
         Toto povolenie je potrebné na uzamknutie obrazovky, keď používateľ klikne na \'Uzamknúť obrazovku\'. Toto povolenie sa nikdy nepoužije na iné účely</string>
     <string name="weather_not_available">Počasie nie je k dispozícii</string>
-    <string name="welcome_home_message">Vitajte v rýchlych nastaveniach</string>
+    <string name="welcome_home_message">Vitajte v Nougat/Oreo rýchlych nastaveniach</string>
     <string name="home">Domov</string>
     <string name="categories">Kategórie</string>
     <string name="utilities">Nástroje</string>
@@ -207,8 +198,8 @@
     <string name="position_summary">Zmeňte režim určovania polohy klepnutím</string>
     <string name="adb_summary">Zapne alebo vypne ADB</string>
     <string name="adb_wifi_summary">Zapne alebo vypne ADB cez WiFi</string>
-    <string name="disable_tile">Zakázať prepnutie</string>
-    <string name="enable_tile">Povoliť prepnutie</string>
+    <string name="disable_tile">Zakázať prepínač</string>
+    <string name="enable_tile">Povoliť prepínač</string>
     <string name="customize">Prispôsobiť</string>
     <string name="nothing_to_customize">Nič tu nie je možné prispôsobiť</string>
     <string name="privacy_policy">Zásady ochrany osobných údajov</string>
@@ -217,7 +208,6 @@
     <string name="empty_search_results">Nič nenájdené.</string>
     <string name="save">Uložiť</string>
     <string name="search">Hľadať</string>
-    <string name="watch_video">Pozrite si video tutoriál</string>
     <string name="led_tile">Notifikačná LED</string>
     <string name="led_tile_summary">Zapne alebo vypne notifikačný blesk</string>
     <string name="show_weather_info_onclick">Zobraziť dialógové okno s informáciami o počasí</string>
@@ -262,7 +252,6 @@
     <string name="battery_ongoing">Sledovanie úrovne batérie</string>
     <string name="screenshot_ongoing">Spracovanie screenshotu</string>
     <string name="internet_speed">Rýchlosť internetu</string>
-    <string name="how_to_use_card_home">Ako sa to používa?</string>
     <string name="root_security_settings_short">Kliknite tu pre viac informácií</string>
     <string name="root_security_settings_long">Nemáte root, ale môžete ho odomknúť pomocou počítača.\nV počítači prejdite na https://smarturl.it/qs_enabler pre stiahnutie softvéru</string>
     <string name="more">Viac</string>

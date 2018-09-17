@@ -45,11 +45,7 @@
     <string name="delete_last">Apaga a última linha</string>
     <string name="hide_from_launcher">Ocultar do iniciador</string>
     <string name="sure">Tem certeza?</string>
-    <string name="hide_alert_message">O aplicativo não será visto no iniciador.\nPara mostrar novamente, você deve excluir os dados do aplicativo</string>
     <string name="cancel">Cancelar</string>
-    <string name="todo">Escolha a próxima ação</string>
-    <string name="restore_launcher">Mostrar no iniciador</string>
-    <string name="unistall">Desinstalar</string>
     <string name="reboot_to_refresh">Talvez seja necessário reiniciar seu dispositivo</string>
     <string name="volume_up">Volume +</string>
     <string name="volume_down">Volume -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Deixe um comentário</string>
     <string name="dice">Dados</string>
     <string name="dice_summary">Lance os dados</string>
-    <string name="enable_all_tiles">Ativa todas as configurações rápidas</string>
     <string name="night_filter_working">Filtro noturno está ativo</string>
     <string name="not_supported">Não suportado</string>
     <string name="donation_s">$ 0.99</string>
@@ -151,10 +146,7 @@
     <string name="battery">Bateria</string>
     <string name="battery_level">Mostra o nível da bateria</string>
     <string name="battery_style">Estilo da bateria</string>
-    <string name="need_help">Ajuda e contatos</string>
-    <string name="faq">Leia FAQs</string>
     <string name="send_email">Mande-me um e-mail</string>
-    <string name="join_telegram">Junte-se ao canal do Telegram</string>
     <string name="notification_ongoing_channel">Serviços contínuos</string>
     <string name="add">Adicionar</string>
     <string name="remove">Remover</string>
@@ -179,9 +171,8 @@
     <string name="feels_like">Sinta-se à vontade</string>
     <string name="humidity">Umidade</string>
     <string name="dew_point">ponto de condensação da água</string>
-    <string name="error">Erro</string>
     <string name="request_admin_explanation">Este aplicativo usa a permissão de Administrador do dispositivo.\n
-        Essa permissão é necessária para bloquear a tela quando o usuário clicar na opção 'Bloqueio de tela'. Essa permissão nunca será usada para outros fins</string>
+        Essa permissão é necessária para bloquear a tela quando o usuário clicar na opção \'Bloqueio de tela\'. Essa permissão nunca será usada para outros fins</string>
     <string name="weather_not_available">Clima não disponível</string>
     <string name="welcome_home_message">Bem-vindo às Configurações rápidas</string>
     <string name="home">Início</string>
@@ -204,9 +195,6 @@
     <string name="position_summary">Altera o modo de localização com um toque</string>
     <string name="adb_summary">Ativa ou desativa o ADB</string>
     <string name="adb_wifi_summary">Ativa ou desativa o ADB pela Wi-Fi</string>
-    <string name="disable_tile">Desativar atalho</string>
-    <string name="enable_tile">Ativar atalho</string>
-    <string name="customize">Personalizar</string>
     <string name="nothing_to_customize">Não há nada para personalizar</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="licenses">Licenças</string>
@@ -214,7 +202,6 @@
     <string name="empty_search_results">Nada foi encontrado.</string>
     <string name="save">Salvar</string>
     <string name="search">Procurar</string>
-    <string name="watch_video">Assista ao tutorial em vídeo</string>
     <string name="led_tile">LED de notificação</string>
     <string name="led_tile_summary">Ativa ou desativa a luz de notificação</string>
     <string name="show_weather_info_onclick">Mostra as informações do clima ao clicar no botão</string>
@@ -260,7 +247,6 @@
     <string name="battery_ongoing">Verificando o nível da bateria</string>
     <string name="screenshot_ongoing">Processando a captura de tela</string>
     <string name="internet_speed">Velocidade da Internet</string>
-    <string name="how_to_use_card_home">Como usá-lo?</string>
     <string name="root_security_settings_short">Clique aqui para obter mais informações</string>
     <string name="root_security_settings_long">Você não está rooteado, mas isto pode ser desbloqueado usando um PC.\\nNo seu computador, vá para https://smarturl.it/qs_enabler para baixar o programa</string>
     <string name="more">Mais</string>

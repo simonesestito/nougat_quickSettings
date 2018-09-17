@@ -46,11 +46,7 @@
     <string name="delete_last">مسح آخر سطر</string>
     <string name="hide_from_launcher">إخفاء من خانة التطبيقات</string>
     <string name="sure">هل أنت متأكد؟</string>
-    <string name="hide_alert_message">هذا التطبيق سوف يتم إخفاءة من خانة التطبيقات.\nلإظهاره مرّة أخرى يجب عليك مسح بيانات التطبيق</string>
     <string name="cancel">إلغاء</string>
-    <string name="todo">إختيار نشاط جديد</string>
-    <string name="restore_launcher">إظهار في خانة التطبيقات</string>
-    <string name="unistall">إلغاء التثبيت</string>
     <string name="reboot_to_refresh">قد تحتاج إلى إعادة تشغيل جهازك</string>
     <string name="volume_up">رفع الصوت</string>
     <string name="volume_down">خفض الصوت</string>
@@ -101,7 +97,6 @@
     <string name="leave_review">تقييم التطبيق</string>
     <string name="dice">الزار</string>
     <string name="dice_summary">دوّر الزار</string>
-    <string name="enable_all_tiles">تفعيل جميع الإعدادات السريعة</string>
     <string name="night_filter_working">التأثير اللّيلي يعمل</string>
     <string name="not_supported">غير مدعوم</string>
     <string name="donation_s">$0.99</string>
@@ -152,10 +147,7 @@
     <string name="battery">البطارية</string>
     <string name="battery_level">إظهار مستوى شحن البطارية</string>
     <string name="battery_style">شكل البطارية</string>
-    <string name="need_help">المساعدة والتواصل</string>
-    <string name="faq">قراءة الأسئلة الشائعة</string>
     <string name="send_email">إرسال إيميل لي</string>
-    <string name="join_telegram">الإنضمام إلى قناة التيليغرام</string>
     <string name="notification_ongoing_channel">الخدمات الجارية</string>
     <string name="add">إضافة</string>
     <string name="remove">إزالة</string>
@@ -180,7 +172,6 @@
     <string name="feels_like">تُحَس كأنها</string>
     <string name="humidity">الرطوبة</string>
     <string name="dew_point">درجة الندى</string>
-    <string name="error">خطأ</string>
     <string name="request_admin_explanation">هذا التطبيق يستخدم إذن المسؤول للهاتف. \nهذا الإذن مطلوب لقفل الشاشة عندما يضغط المستخدم على مربع \"قفل الشاشة\". لن يتم إستخدام هذا الإذن لأي أغراض أخرى</string>
     <string name="weather_not_available">الطقس غير متوفر</string>
     <string name="welcome_home_message">أهلاً وسهلاً بك إلى تطبيق إعدادات السريعة</string>
@@ -206,9 +197,6 @@
     <string name="position_summary">تغيير وضع الموقع بلمسة واحدة</string>
     <string name="adb_summary">تفعيل أو إلغاء تفعيل وضع ADB</string>
     <string name="adb_wifi_summary">تفعيل أو إلغاء تفعيل خاصية ADB عبر الواي فاي</string>
-    <string name="disable_tile">إلغاء تفعيل الخاصيّة</string>
-    <string name="enable_tile">تفعيل الخاصيّة</string>
-    <string name="customize">تخصيص</string>
     <string name="nothing_to_customize">ليس هناك شي يمكن تخصيصه</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="licenses">الرُّخَص</string>
@@ -216,7 +204,6 @@
     <string name="empty_search_results">لم يتم العثور على شيئ</string>
     <string name="save">حفظ</string>
     <string name="search">بحث</string>
-    <string name="watch_video">مشاهدة فيديوهات تعليمية</string>
     <string name="led_tile">ضوء الإشعارات</string>
     <string name="led_tile_summary">تفعيل أو إلغاء تفعيل ضوء الإشعارات</string>
     <string name="show_weather_info_onclick">إظهار قائمة الطقس عند الضغط على مربع الطقس</string>
@@ -261,7 +248,6 @@
     <string name="battery_ongoing">جاري مراقبة مستوى شحن البطارية</string>
     <string name="screenshot_ongoing">جاري معالجة لقطة الشاشة</string>
     <string name="internet_speed">سرعة الإنترنت</string>
-    <string name="how_to_use_card_home">كيفية الإستخدام؟</string>
     <string name="root_security_settings_short">إضغط هنا لمعلومات أكثر</string>
     <string name="root_security_settings_long">جهازك لا يحتوي على روت, لكن يمكنك الحصول على مميّزات هذا التطبيق بدون روت, قم بالذهاب إلى https://smarturl.it/qs_enabler لتنزيل البرنامج اللازم</string>
     <string name="more">المزيد</string>

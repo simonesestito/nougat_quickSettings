@@ -45,11 +45,7 @@
     <string name="delete_last">Usuń ostatnią linię</string>
     <string name="hide_from_launcher">Ukryj z launchera</string>
     <string name="sure">Na pewno?</string>
-    <string name="hide_alert_message">Aplikacja zostanie ukryta na liście aplikacji.\nAby pokazać ją ponownie, musisz wyczyścić dane aplikacji.</string>
     <string name="cancel">Anuluj</string>
-    <string name="todo">Wybierz następną akcję</string>
-    <string name="restore_launcher">Pokaż w launcherze</string>
-    <string name="unistall">Odinstaluj</string>
     <string name="reboot_to_refresh">Być może musisz zrestartować swoje urządzenie</string>
     <string name="volume_up">Podgłoś</string>
     <string name="volume_down">Przycisz</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Oceń aplikację</string>
     <string name="dice">Kostka</string>
     <string name="dice_summary">Rzuć kością</string>
-    <string name="enable_all_tiles">Aktywuj wszystkie kafelki</string>
     <string name="night_filter_working">Filtr nocny jest uruchomiony</string>
     <string name="not_supported">Niedostępne</string>
     <string name="donation_s">$0.99</string>
@@ -151,10 +146,7 @@
     <string name="battery">Bateria</string>
     <string name="battery_level">Pokaż poziom baterii</string>
     <string name="battery_style">Styl baterii</string>
-    <string name="need_help">Pomoc i kontakt</string>
-    <string name="faq">Przeczytaj FAQ</string>
     <string name="send_email">Wyślij email</string>
-    <string name="join_telegram">Dołącz do grupy Telegramu</string>
     <string name="notification_ongoing_channel">Uruchomione usługi</string>
     <string name="add">Dodaj</string>
     <string name="remove">Usuń</string>

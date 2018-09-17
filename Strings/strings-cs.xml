@@ -44,11 +44,7 @@
     <string name="delete_last">Smazat poslední řádek</string>
     <string name="hide_from_launcher">Skrýt z launcheru</string>
     <string name="sure">Jste si jistý/á??</string>
-    <string name="hide_alert_message">Aplikace bude skryta z launcheru.\nPro znovuzobrazení musíte vymazat data aplikace.</string>
     <string name="cancel">Zrušit</string>
-    <string name="todo">Vyberte další akci</string>
-    <string name="restore_launcher">Zobrazit v launcheru</string>
-    <string name="unistall">Odinstalovat</string>
     <string name="reboot_to_refresh">Možná budete muset restartovat zařízení</string>
     <string name="volume_up">Hlasitost +</string>
     <string name="volume_down">Hlasitost -</string>
@@ -99,7 +95,6 @@
     <string name="leave_review">Zanechte recenzi</string>
     <string name="dice">Kostka</string>
     <string name="dice_summary">Hoďte kostkou</string>
-    <string name="enable_all_tiles">Zapne všechna rychlá nastavení</string>
     <string name="night_filter_working">Noční filtr je spuštěn</string>
     <string name="not_supported">Není podporováno</string>
     <string name="donation_s">$0.99</string>
@@ -150,10 +145,7 @@
     <string name="battery">Baterie</string>
     <string name="battery_level">Zobrazí úroveň baterie</string>
     <string name="battery_style">Styl baterie</string>
-    <string name="need_help">Pomoc &amp; kontakty</string>
-    <string name="faq">Přečíst FAQ</string>
     <string name="send_email">Email</string>
-    <string name="join_telegram">Join Telegram channel</string>
     <string name="notification_ongoing_channel">Probíhající služby</string>
     <string name="add">Přidat</string>
     <string name="remove">Odstranit</string>
@@ -178,7 +170,6 @@
     <string name="feels_like">Pocitová teplota</string>
     <string name="humidity">Vlhkost</string>
     <string name="dew_point">Rosný bod</string>
-    <string name="error">Chyba</string>
     <string name="request_admin_explanation">Tato aplikace používá oprávnění administrátora zařízení.\n
         Toto oprávnění je vyžadováno k uzamčení obrazovky, když uživatel klepne na \'Zamknout obrazovku\'. Toto oprávnění se nikdy nepoužije pro jiné účely</string>
     <string name="weather_not_available">Počasí není k dispozici</string>
@@ -203,9 +194,6 @@
     <string name="position_summary">Změňte režim polohy pomocí klepnutí</string>
     <string name="adb_summary">Aktivujte nebo deaktivujte službu ADB</string>
     <string name="adb_wifi_summary">Aktivujte nebo deaktivujte ADB přes WiFi</string>
-    <string name="disable_tile">Zakázat přepnutí</string>
-    <string name="enable_tile">Povolit přepnutí</string>
-    <string name="customize">Přizpůsobit</string>
     <string name="nothing_to_customize">Zde není nic, co byste si mohli přizpůsobit</string>
     <string name="privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="licenses">Licence</string>
@@ -213,7 +201,6 @@
     <string name="empty_search_results">Nic nenalezeno.</string>
     <string name="save">Uložit</string>
     <string name="search">Hledat</string>
-    <string name="watch_video">Sledujte video tutorial</string>
     <string name="led_tile">LED notifikační dioda</string>
     <string name="led_tile_summary">Povolení nebo zakázání LED diody</string>
     <string name="show_weather_info_onclick">Zobrazí se dialogové okno s informacemi o počasí</string>

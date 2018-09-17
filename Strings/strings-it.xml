@@ -45,11 +45,7 @@
     <string name="delete_last">Elimina ultima linea</string>
     <string name="hide_from_launcher">Nascondi dal launcher</string>
     <string name="sure">Sei sicuro?</string>
-    <string name="hide_alert_message">L\'applicazione verrà nascosta dal launcher.\nPer mostrarla nuovamente sarà necessario cancellare i dati dell\'app</string>
     <string name="cancel">Annulla</string>
-    <string name="todo">Selezionare la prossima azione</string>
-    <string name="restore_launcher">Mostra nel launcher</string>
-    <string name="unistall">Disinstalla</string>
     <string name="reboot_to_refresh">Potrebbe essere necessario riavviare il dispositivo</string>
     <string name="volume_up">Volume +</string>
     <string name="volume_down">Volume -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Lascia una recensione</string>
     <string name="dice">Dado</string>
     <string name="dice_summary">Lancia il dado</string>
-    <string name="enable_all_tiles">Attiva tutti i quicksettings</string>
     <string name="night_filter_working">Filtro notte è in funzione</string>
     <string name="not_supported">Non supportato</string>
     <string name="donation_s">€0.79</string>
@@ -151,10 +146,7 @@
     <string name="battery">Batteria</string>
     <string name="battery_level">Mostra livello batteria</string>
     <string name="battery_style">Stile della batteria</string>
-    <string name="need_help">Aiuto e contatti</string>
-    <string name="faq">FAQ</string>
     <string name="send_email">Inviami una mail</string>
-    <string name="join_telegram">Entra nel canale Telegram</string>
     <string name="notification_ongoing_channel">Servizi in corso</string>
     <string name="advise_edit_tiles_from_panel">%s questo tile editando il tuo pannello dei quick settings.\nMaggiori informazioni cliccando il tasto Aiuto in alto</string>
     <string name="vibrate_on_ring">Vibrazione per le telefonate</string>
@@ -175,7 +167,6 @@
     <string name="cm_profiles">Profili LineageOS</string>
     <string name="free_space">Spazio libero:</string>
     <string name="dew_point">Punto di rugiada</string>
-    <string name="error">Errore</string>
     <string name="feels_like">Percepita</string>
     <string name="hotspot">Hotspot</string>
     <string name="humidity">Umidità</string>
@@ -192,10 +183,7 @@
     <string name="battery_saver_summary">Attiva o disattiva il risparmio batteria AOSP</string>
     <string name="categories">Categorie</string>
     <string name="cm_profiles_summary">Cambia il profilo LineageOS velocemente</string>
-    <string name="customize">Personalizza</string>
-    <string name="disable_tile">Disattiva toggle</string>
     <string name="empty_search_results">Nessun risultato</string>
-    <string name="enable_tile">Attiva toggle</string>
     <string name="for_developers">Toggle per sviluppatori</string>
     <string name="home">Home</string>
     <string name="hotspot_summary">Attiva hotspot WiFi</string>
@@ -219,7 +207,6 @@
     <string name="led_tile_summary">Attiva o disattiva il led di notifica</string>
     <string name="search">Cerca</string>
     <string name="show_weather_info_onclick">Mostra info meteo al click</string>
-    <string name="watch_video">Guarda il vide tutorial</string>
     <string name="change_theme">Cambia tema</string>
     <string name="dark_theme">Tema scuro</string>
     <string name="light_theme">Tema chiaro</string>
@@ -253,18 +240,19 @@
     <string name="reboot_erecovery_huawei">Riavvia in Huawei eRecovery</string>
     <string name="huawei_required">Dispositivo Huawei richiesto</string>
     <string name="density_chooser">Imposta densità</string>
-    <string name="color_black">Ner</string>
+    <string name="color_black">Nero</string>
     <string name="color_yellow">Giallo</string>
     <string name="color_red">Rosso</string>
     <string name="battery_ongoing">Osservando il livello di carica</string>
     <string name="screenshot_ongoing">Elaborazione screenshot</string>
     <string name="internet_speed">Velocità Internet</string>
-    <string name="how_to_use_card_home">Come si usa?</string>
     <string name="root_security_settings_short">Premi per maggiori informazioni</string>
     <string name="root_security_settings_long">Non hai i permessi di root, ma puoi usare questo tile con un PC. Sul computer, vai a https://smarturl.it/qs_enabler per scaricare il software</string>
     <string name="more">Di più</string>
     <string name="battery_settings">Impostazioni batteria</string>
     <string name="battery_onclick">Apri le impostazioni al tap del tile</string>
     <string name="screenshot_edit">Modifica</string>
+    <string name="app_splash_subtitle">Confuso sull\'utilizzo? Premi il bottone d\'aiuto in basso per un video dettagliato</string>
+    <string name="app_splash_get_started">Per iniziare, premi l\'icona del drawer in fondo</string>
 
 </resources>

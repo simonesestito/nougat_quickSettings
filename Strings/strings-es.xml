@@ -45,11 +45,7 @@
     <string name="delete_last">Eliminar la última línea</string>
     <string name="hide_from_launcher">Ocultar de cajon de aplicaciones</string>
     <string name="sure">¿Estas seguro?</string>
-    <string name="hide_alert_message">La aplicación se ocultara del cajon de aplicaciones. Para volver a mostrarlo, tienes que eliminar los datos de la aplicación</string>
     <string name="cancel">Cancelar</string>
-    <string name="todo">Elija la siguiente acción</string>
-    <string name="restore_launcher">Mostrar en cajon de aplicaciones</string>
-    <string name="unistall">Desinstalar</string>
     <string name="reboot_to_refresh">Es posible que deba reiniciar el dispositivo</string>
     <string name="volume_up">Volumen +</string>
     <string name="volume_down">Volumen -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Dejar un comentario</string>
     <string name="dice">Dado</string>
     <string name="dice_summary">Tirar los dados</string>
-    <string name="enable_all_tiles">Habilitar todas las configuraciones rápidas</string>
     <string name="night_filter_working">Night Filter ejecutándose</string>
     <string name="not_supported">No es soportado</string>
     <string name="order_number">Número de pedido</string>

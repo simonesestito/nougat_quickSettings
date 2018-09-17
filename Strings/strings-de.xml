@@ -45,11 +45,7 @@
     <string name="delete_last">Letzte Zeile löschen</string>
     <string name="hide_from_launcher">Icon in Launcher ausblenden</string>
     <string name="sure">Sicher?</string>
-    <string name="hide_alert_message">Die App wird im Launcher ausgeblendet. Um sie wieder anzuzeigen musst du die App-Daten löschen!</string>
     <string name="cancel">Abbrechen</string>
-    <string name="todo">Neue Aktion auswählen</string>
-    <string name="restore_launcher">In Launcher anzeigen</string>
-    <string name="unistall">Deinstallieren</string>
     <string name="reboot_to_refresh">Du müssen dein Gerät neustarten.</string>
     <string name="volume_up">Lautstärke +</string>
     <string name="volume_down">Lautstärke -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Schreibe eine Rezension</string>
     <string name="dice">Würfel</string>
     <string name="dice_summary">Würfel rollen lassen</string>
-    <string name="enable_all_tiles">Aktiviere alle Schnelleinstellungen</string>
     <string name="night_filter_working">Nachtfilter läuft</string>
     <string name="not_supported">Nicht unterstützt</string>
     <string name="donation_s">$0.99</string>
@@ -151,10 +146,7 @@
     <string name="battery">Batterie</string>
     <string name="battery_level">Zeige Batterielevel</string>
     <string name="battery_style">Batteriestil</string>
-    <string name="need_help">Hilfe &amp; Kontakte</string>
-    <string name="faq">Lese die FAQs</string>
     <string name="send_email">Maile mir</string>
-    <string name="join_telegram">Tritt dem Telegram Channel bei</string>
     <string name="notification_ongoing_channel">Laufende Dienste</string>
     <string name="add">Hinzufügen</string>
     <string name="remove">Löschen</string>
@@ -180,7 +172,6 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="feels_like">Gefühlt</string>
     <string name="humidity">Luftfeuchtigkeit</string>
     <string name="dew_point">Taupunkt</string>
-    <string name="error">Error</string>
     <string name="request_admin_explanation">Diese App nutzt die Geräteverwaltung.\n
         Diese Berechtigung wird benötigt um das Display zu sperren, wenn der Nutzer auf die \'Lock Screen\' Schaltfläche klickt. Diese Berechtigung wird nicht für andere Zwecke genutzt</string>
     <string name="weather_not_available">Wetter nicht verfügbar</string>
@@ -205,9 +196,6 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="position_summary">Ändert Standortdienst mit einem Tipp</string>
     <string name="adb_summary">Aktiviere oder deaktiviere ADB</string>
     <string name="adb_wifi_summary">Aktiviere oder deaktiviere ADB über WiFi</string>
-    <string name="disable_tile">Deaktiviere Kachel</string>
-    <string name="enable_tile">Aktiviere Kachel</string>
-    <string name="customize">Anpassen</string>
     <string name="nothing_to_customize">Hier gibt es nichts anzupassen</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="licenses">Lizenzen</string>
@@ -215,7 +203,6 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="empty_search_results">Nichts gefunden.</string>
     <string name="save">Sichern</string>
     <string name="search">Suche</string>
-    <string name="watch_video">Schaue das Video-Tutorial an</string>
     <string name="led_tile">Benachrichtigungs-LED</string>
     <string name="led_tile_summary">Aktiviere oder deaktiviere die Benachrichtigungs-LED</string>
     <string name="show_weather_info_onclick">Zeige Wetterdialog beim Tippen der Kachel</string>

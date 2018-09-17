@@ -45,11 +45,7 @@
     <string name="delete_last">Hapus baris terakhir</string>
     <string name="hide_from_launcher">Sembunyikan dari peluncur</string>
     <string name="sure">Apakah kamu yakin?</string>
-    <string name="hide_alert_message">Aplikasi ini akan di sembunyikan dari peluncur. Untuk mengembalikannya kamu harus menghapus data aplikasi</string>
     <string name="cancel">Batal</string>
-    <string name="todo">Pilih aksi selanjutnya</string>
-    <string name="restore_launcher">Tampilkan di peluncur</string>
-    <string name="unistall">Copot pemasangan</string>
     <string name="reboot_to_refresh">Kamu harus memulai ulang perangkat</string>
     <string name="volume_up">Tambah suara</string>
     <string name="volume_down">Kurangi suara</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Tinggalkan ulasan</string>
     <string name="dice">Dadu</string>
     <string name="dice_summary">Putar dadu</string>
-    <string name="enable_all_tiles">Aktifkan semua pengaturan cepat</string>
     <string name="night_filter_working">Mode malam sudah bekerja</string>
     <string name="not_supported">Tidak mendukung</string>
     <string name="donation_s">Rp. 14.000</string>
@@ -151,10 +146,7 @@
     <string name="battery">Baterai</string>
     <string name="battery_level">Tampilkan presentase baterai</string>
     <string name="battery_style">Gaya baterai</string>
-    <string name="need_help">Bantuan &amp; kontak</string>
-    <string name="faq">Baca tanya jawab</string>
     <string name="send_email">Kirim surat elektronik kepada saya</string>
-    <string name="join_telegram">Bergabung dengan saluran telegram</string>
     <string name="notification_ongoing_channel">Saluran layanan</string>
     <string name="add">Tambah</string>
     <string name="remove">Hapus</string>
@@ -179,7 +171,6 @@
     <string name="feels_like">Terasa seperti</string>
     <string name="humidity">Kelembapan</string>
     <string name="dew_point">Titik embun</string>
-    <string name="error">Kesalahan</string>
     <string name="request_admin_explanation">Aplikasi ini membutuhkan perizinan administrasi perangkat.\n
         Izin ini diperlukan untuk mengunci layar ketika pengguna mengklik pada \'Lock Screen\' ubin. Perizinan itu akan di gunakan untuk tujuan ini</string>
     <string name="weather_not_available">Cuaca tidak tersedia</string>
@@ -206,9 +197,6 @@
     <string name="position_summary">Ganti mode lokasi dengan ketukan</string>
     <string name="adb_summary">Aktifkan atau non-aktifkan ADB</string>
     <string name="adb_wifi_summary">Aktifkan atau non-aktifkan ADB Melalui WiFi</string>
-    <string name="disable_tile">Matikan tombol beralih</string>
-    <string name="enable_tile">Aktifkan tombol beralih</string>
-    <string name="customize">Kostumisasi</string>
     <string name="nothing_to_customize">Tidak tersedia kostumisasi di sini</string>
     <string name="privacy_policy">Kebijakan privasi</string>
     <string name="licenses">Lisensi</string>
@@ -216,7 +204,6 @@
     <string name="empty_search_results">Tidak di temukan di sini.</string>
     <string name="save">Simpan</string>
     <string name="search">Pencarian</string>
-    <string name="watch_video">Tonton tutorial video</string>
     <string name="led_tile">Notifikasi LEad</string>
     <string name="led_tile_summary">Aktifkan atau non-aktifkan notifikasi cahaya</string>
     <string name="show_weather_info_onclick">Tampilkan info cuaca ketika ubin di sentuh</string>
@@ -260,7 +247,6 @@
     <string name="battery_ongoing">Mengamati tingkat baterai anda</string>
     <string name="screenshot_ongoing">Memproses tangkapan layar</string>
     <string name="internet_speed">Kecepatan internet</string>
-    <string name="how_to_use_card_home">Bagaimana cara menggunakan?</string>
     <string name="root_security_settings_short">Klik di sini untuk lebih banyak informasi</string>
     <string name="root_security_settings_long">Kamu tidak dalam mode root, tapi masih dapat di gunakan dengan bantuan komputer.\nKunjungi tautan berikut https://smarturl.it/qs_enabler untuk mengunduh berkas tambahan</string>
     <string name="more">Lainnya</string>

@@ -45,11 +45,7 @@
     <string name="delete_last">Удалить предыдущую заметку </string>
     <string name="hide_from_launcher">Скрыть из лаунчера</string>
     <string name="sure">Вы уверены?</string>
-    <string name="hide_alert_message">Все плитки будут включены, и иконка приложения будет скрыта из лаунчера. Чтобы отобразить ее снова, очистите данные приложения.</string>
     <string name="cancel">Отмена</string>
-    <string name="todo">Выберите следующее действие</string>
-    <string name="restore_launcher">Показать в лаунчере</string>
-    <string name="unistall">Удалить</string>
     <string name="reboot_to_refresh">Вам может понадобиться перегрузить устройство</string>
     <string name="volume_up">Звук +</string>
     <string name="volume_down">Звук -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Написать отзыв</string>
     <string name="dice">Кости</string>
     <string name="dice_summary">Бросить кости</string>
-    <string name="enable_all_tiles">Включить все быстрые настройки</string>
     <string name="night_filter_working">Ночной фильтр работает</string>
     <string name="not_supported">Не поддерживается</string>
     <string name="donation_s">0.99$</string>
@@ -118,7 +113,6 @@
     <string name="search_tile_long_press">Попробуйте запустить голосовой поиск</string>
     <string name="storage_open_old_screen">Откройте настройки хранилища вместо файлового менеджера</string>
     <string name="adb">ADB</string>
-    <string name="join_telegram">Канал в Telegram</string>
     <string name="play_pause">Воспроизведение / Пауза</string>
     <string name="play_pause_summary">Воспроизведение или приостановка текущего музыкального трека</string>
     <string name="never_show">Никогда не показывать снова</string>
@@ -151,8 +145,6 @@
     <string name="battery">Батарея</string>
     <string name="battery_level">Показать уровень заряда батареи</string>
     <string name="battery_style">Стиль батареи</string>
-    <string name="need_help">Помощь &amp; контакты</string>
-    <string name="faq">Читать FAQ</string>
     <string name="send_email">Написать мне письмо по электронной почте</string>
     <string name="notification_ongoing_channel">Постоянные сервисы</string>
     <string name="add">Добавить</string>
@@ -174,7 +166,6 @@
     <string name="feels_like">Как будто</string>
     <string name="humidity">Влажность</string>
     <string name="dew_point">Точка росы</string>
-    <string name="error">Ошибка</string>
     <string name="request_admin_explanation"> Это отдельное приложение предназначено для использования разрешения администратора устройства. \n
         Это разрешение требуется для блокировки экрана, когда пользователь нажимает на плитку \'Lock Screen\' . Оно никогда не будет использоваться для других целей</string>
     <string name="weather_not_available">Прогноз погоды не доступен</string>
@@ -201,9 +192,6 @@
     <string name="position_summary">Изменить режим местоположения с помощью тапа</string>
     <string name="adb_summary">Включение или отключение ADB</string>
     <string name="adb_wifi_summary">Включение или отключение ADB по WiFi</string>
-    <string name="disable_tile">Отключить переключение</string>
-    <string name="enable_tile">Включить переключение</string>
-    <string name="customize">Настроить</string>
     <string name="nothing_to_customize">Здесь нечего настраивать</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="licenses">Лицензии</string>
@@ -211,7 +199,6 @@
     <string name="empty_search_results">Здесь ничего не найдено.</string>
     <string name="save">Сохранить</string>
     <string name="search">Поиск</string>
-    <string name="watch_video">Смотреть видео-учебник</string>
     <string name="led_tile">Уведомпления светодиодом</string>
     <string name="led_tile_summary">Включение и отключение индикации уведомлений</string>
     <string name="show_weather_info_onclick">Отображать информацию о погоде по щелчку плитки</string>
@@ -255,7 +242,6 @@
     <string name="color_black">Чёрный</string>
     <string name="screenshot_ongoing">Обработка снимков экрана</string>
     <string name="internet_speed">Скорость интернета</string>
-    <string name="how_to_use_card_home">Как это использовать?</string>
     <string name="root_security_settings_short">Для получения дополнительной информации нажмите здесь</string>
     <string name="more">Больше</string>
     <string name="battery_settings">Настройки батареи</string>

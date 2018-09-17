@@ -45,11 +45,7 @@
     <string name="delete_last">Delete last line</string>
     <string name="hide_from_launcher">Hide from launcher</string>
     <string name="sure">Are you sure?</string>
-    <string name="hide_alert_message">The app will be hidden from launcher.\nTo show it again, you have to delete app data</string>
     <string name="cancel">Cancel</string>
-    <string name="todo">Choose next action</string>
-    <string name="restore_launcher">Show in launcher</string>
-    <string name="unistall">Uninstall</string>
     <string name="reboot_to_refresh">You may need to reboot your device</string>
     <string name="volume_up">Volume +</string>
     <string name="volume_down">Volume -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Leave a review</string>
     <string name="dice">Dice</string>
     <string name="dice_summary">Roll the dice</string>
-    <string name="enable_all_tiles">Enable all quick settings</string>
     <string name="night_filter_working">Night filter is working</string>
     <string name="not_supported">Not supported</string>
     <string name="donation_s">$0.99</string>
@@ -151,10 +146,7 @@
     <string name="battery">Battery</string>
     <string name="battery_level">Show battery level</string>
     <string name="battery_style">Battery style</string>
-    <string name="need_help">Help &amp; contacts</string>
-    <string name="faq">Read FAQs</string>
     <string name="send_email">Email me</string>
-    <string name="join_telegram">Join Telegram channel</string>
     <string name="notification_ongoing_channel">Ongoing services</string>
     <string name="add">Add</string>
     <string name="remove">Remove</string>
@@ -179,7 +171,6 @@
     <string name="feels_like">Feels like</string>
     <string name="humidity">Humidity</string>
     <string name="dew_point">Dew point</string>
-    <string name="error">Error</string>
     <string name="request_admin_explanation">This app uses the Device Administrator permission.\n
         This permission is required to lock the screen when the user clicks on the \'Lock Screen\' tile. This permission will never be used for other purposes</string>
     <string name="weather_not_available">Weather not available</string>
@@ -207,17 +198,13 @@
     <string name="adb_summary">Enable or disable ADB</string>
     <string name="adb_wifi_summary">Enable or disable ADB Over WiFi</string>
     <string name="empty" translatable="false"/>
-    <string name="disable_tile">Disable toggle</string>
-    <string name="enable_tile">Enable toggle</string>
-    <string name="customize">Customize</string>
-    <string name="nothing_to_customize">There\'s nothing to customize here</string>
+    <string name="nothing_to_customize">There\'s nothing to customize here.</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="licenses">Licences</string>
     <string name="search_result_title">Search results for "%s"</string>
     <string name="empty_search_results">Nothing found here.</string>
     <string name="save">Save</string>
     <string name="search">Search</string>
-    <string name="watch_video">Watch video tutorial</string>
     <string name="led_tile">Notification LED</string>
     <string name="led_tile_summary">Enable or disable notification light</string>
     <string name="show_weather_info_onclick">Show weather info dialog on tile click</string>
@@ -262,12 +249,18 @@
     <string name="battery_ongoing">Observing your battery level</string>
     <string name="screenshot_ongoing">Processing screenshot</string>
     <string name="internet_speed">Internet speed</string>
-    <string name="how_to_use_card_home">How to use it?</string>
     <string name="root_security_settings_short">Click here for more information</string>
     <string name="root_security_settings_long">You are not rooted, but this can be unlocked using a PC.\nOn your computer, go to https://smarturl.it/qs_enabler to download the software</string>
     <string name="more">More</string>
     <string name="battery_settings">Battery settings</string>
     <string name="battery_onclick">Open settings on tile click</string>
     <string name="screenshot_edit">Edit</string>
+    <string name="app_splash_subtitle">Confused about the usage? Click the help button below for a detailed video</string>
+    <string name="app_splash_get_started">To get started, press the drawer icon at the bottom</string>
+    <string name="alert_hide_launcher">The app will be hidden from launcher.\nTo continue using it, long press on an applied tile.</string>
+    <string name="show_in_launcher">Show in launcher</string>
+    <string name="disable_tile">Disable toggle</string>
+    <string name="enable_tile">Enable tile</string>
+    <string name="customize">Customize</string>
 
 </resources>

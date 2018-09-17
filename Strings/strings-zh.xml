@@ -45,11 +45,7 @@
     <string name="delete_last">删除最后一行</string>
     <string name="hide_from_launcher">从启动器图标中隐藏</string>
     <string name="sure">确定吗？</string>
-    <string name="hide_alert_message">这个应用将从启动器图标中隐藏。 n 如果要重新显示，您需要清除应用数据。</string>
     <string name="cancel">取消</string>
-    <string name="todo">选择下个动作</string>
-    <string name="restore_launcher">在启动器图标中显示</string>
-    <string name="unistall">卸载</string>
     <string name="reboot_to_refresh">您需要重启您的设备</string>
     <string name="volume_up">音量 +</string>
     <string name="volume_down">音量 -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">给予好评</string>
     <string name="dice">骰子</string>
     <string name="dice_summary">扔骰子</string>
-    <string name="enable_all_tiles">启用所有快速设定</string>
     <string name="night_filter_working">夜间过滤器工作中</string>
     <string name="not_supported">不支持</string>
     <string name="donation_s">$0.99</string>
@@ -151,10 +146,7 @@
     <string name="battery">电池</string>
     <string name="battery_level">显示电池用量</string>
     <string name="battery_style">电池风格</string>
-    <string name="need_help">帮助 &amp; 联系我们</string>
-    <string name="faq">阅读常见问题</string>
     <string name="send_email">发Email给我</string>
-    <string name="join_telegram">加入Telegram群组</string>
     <string name="notification_ongoing_channel">正在运行的服务</string>
     <string name="add">增加</string>
     <string name="remove">移除</string>
@@ -179,7 +171,6 @@
     <string name="feels_like">看起来像</string>
     <string name="humidity">湿度</string>
     <string name="dew_point">露水点</string>
-    <string name="error">错误</string>
     <string name="request_admin_explanation">此应用程序使用设备管理员权限, \n 此权限绝不用于其他用途。</string>
     <string name="weather_not_available">天气服务不可用</string>
     <string name="welcome_home_message">欢迎使用Quick Settings</string>
@@ -203,9 +194,6 @@
     <string name="position_summary">快速改变定位方式</string>
     <string name="adb_summary">启用或禁用ADB</string>
     <string name="adb_wifi_summary">启用或禁用通过WiFi的ADB</string>
-    <string name="disable_tile">禁用切换</string>
-    <string name="enable_tile">启用切换</string>
-    <string name="customize">自定义</string>
     <string name="nothing_to_customize">这里无需自定义内容</string>
     <string name="privacy_policy">隐私政策</string>
     <string name="licenses">许可证</string>
@@ -213,7 +201,6 @@
     <string name="empty_search_results">此处未找到</string>
     <string name="save">保存</string>
     <string name="search">搜索</string>
-    <string name="watch_video">观看视频</string>
     <string name="led_tile">LED提醒 </string>
     <string name="led_tile_summary">启用或禁用通知LED指示</string>
     <string name="show_weather_info_onclick">点击平铺显示天气信息对话框</string>

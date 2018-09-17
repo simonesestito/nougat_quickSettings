@@ -45,11 +45,7 @@
     <string name="delete_last">Utolsó sor törlése</string>
     <string name="hide_from_launcher">Elrejtés az indítóból</string>
     <string name="sure">Biztos vagy benne?</string>
-    <string name="hide_alert_message">Az alkalmazás el lesz rejtve az indítóból.\nAz újbóli mutatáshoz ki kell törölnöd az adatokat</string>
     <string name="cancel">Mégse</string>
-    <string name="todo">Következő teendő</string>
-    <string name="restore_launcher">Mutatás az indítóban</string>
-    <string name="unistall">Eltávolítás</string>
     <string name="reboot_to_refresh">Lehet, hogy újra kell indítanod a készüléked</string>
     <string name="volume_up">Hangerő +</string>
     <string name="volume_down">Hangerő -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Mondd el a véleményed</string>
     <string name="dice">Dobókocka</string>
     <string name="dice_summary">Dobj egy szémot</string>
-    <string name="enable_all_tiles">Összes engedélyezése</string>
     <string name="night_filter_working">Éjszakai filter aktív</string>
     <string name="not_supported">Nem támogatott</string>
     <string name="donation_s">$0,99</string>

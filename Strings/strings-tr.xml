@@ -45,11 +45,7 @@
     <string name="delete_last">Son satırı sil</string>
     <string name="hide_from_launcher">Başlatıcıda gizle</string>
     <string name="sure">Emin misiniz?</string>
-    <string name="hide_alert_message">Uygulama, başlatıcıda gizlendi.\nYeniden göstermek için, uygulamanın verisini silin</string>
     <string name="cancel">İptal</string>
-    <string name="todo">Bir sonraki işlemi seçin</string>
-    <string name="restore_launcher">Başlatıcıda göster</string>
-    <string name="unistall">Kaldır</string>
     <string name="reboot_to_refresh">Cihazını yeniden başlatman gerekiyor</string>
     <string name="volume_up">Ses +</string>
     <string name="volume_down">Ses -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Bir öneri bırak</string>
     <string name="dice">Zar</string>
     <string name="dice_summary">Zarı salla</string>
-    <string name="enable_all_tiles">Tüm hızlı ayarları etkinleştir</string>
     <string name="night_filter_working">Gece filtresi çalışıyor</string>
     <string name="not_supported">Desteklenmiyor</string>
     <string name="donation_s">$0.99</string>
@@ -151,10 +146,7 @@
     <string name="battery">Pil</string>
     <string name="battery_level">Pil seviyesini göster</string>
     <string name="battery_style">Pil stili</string>
-    <string name="need_help">Yardım &amp; iletişim</string>
-    <string name="faq">SSS sayfasını oku</string>
     <string name="send_email">Benimle iletişime geç</string>
-    <string name="join_telegram">Telegram kanalına katıl</string>
     <string name="notification_ongoing_channel">Devam eden hizmetler</string>
     <string name="add">Ekle</string>
     <string name="remove">Kaldır</string>
@@ -179,7 +171,6 @@
     <string name="feels_like">Hissediliyor</string>
     <string name="humidity">Nem</string>
     <string name="dew_point">Çiy noktası</string>
-    <string name="error">Hata</string>
     <string name="request_admin_explanation">Bu uygulama cihaz yöneticisi izni gerektiriyor.\n
         Bu izin, kullanıcı \'Ekranı Kilitle\' karesini kullanması ve ekranı kiltlemesi için gereklidir. Bu izin asla başka amaçlarla kullanılmayacaktır.</string>
     <string name="weather_not_available">Hava durumu mevcut değil</string>
@@ -206,9 +197,6 @@
     <string name="position_summary">Tek dokunuşta konumunuzu değiştirin</string>
     <string name="adb_summary">ADB özelliğini etkinleştir veya devre dışı bırak</string>
     <string name="adb_wifi_summary">WiFi üzerinden ADB özelliğini etkinleştir veya devre dışı bırak</string>
-    <string name="disable_tile">Devre dışı bırak</string>
-    <string name="enable_tile">Etkinleştir</string>
-    <string name="customize">Özelleştir</string>
     <string name="nothing_to_customize">Burada özelleştirecek bir şey yok</string>
     <string name="privacy_policy">Güvenlik politikası</string>
     <string name="licenses">Lisanslar</string>
@@ -216,7 +204,6 @@
     <string name="empty_search_results">Burada bir şey bulunamadı.</string>
     <string name="save">Kaydet</string>
     <string name="search">Ara</string>
-    <string name="watch_video">Rehber videosunu izle</string>
     <string name="led_tile">Bildirim LEDi</string>
     <string name="led_tile_summary">Bildirim ışığını etkinleştir veya devre dışı bırak</string>
     <string name="show_weather_info_onclick">Kareye tıkladığında hava durumu bilgisini göster</string>
@@ -260,7 +247,6 @@
     <string name="battery_ongoing">Pil seviyesi gözlemleniyor</string>
     <string name="screenshot_ongoing">Ekran görüntüsü işleniyor</string>
     <string name="internet_speed">İnternet Hızı</string>
-    <string name="how_to_use_card_home">Nasıl kullanılır?</string>
     <string name="root_security_settings_short">Daha fazla bilgi için tıklayın</string>
     <string name="root_security_settings_long">Cihazınız rootlu değil ise, bir bilgisayar tarafından uygulanabilir.\nBilgisayarınızda, yazılımı indirmek için şu adrese girin https://smarturl.it/qs_enabler</string>
     <string name="more">Daha fazla</string>

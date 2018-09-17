@@ -45,11 +45,7 @@
     <string name="delete_last">刪除最後一行</string>
     <string name="hide_from_launcher">不在啟動器內顯示</string>
     <string name="sure">您確定要這麼做嗎？</string>
-    <string name="hide_alert_message">這個 App 將不再於啟動器中顯示。\n如要重新顯示，您需要到「設定」內清除 App 的資料。</string>
     <string name="cancel">取消</string>
-    <string name="todo">選擇下一個步驟</string>
-    <string name="restore_launcher">在啟動器中顯示</string>
-    <string name="unistall">解除安裝</string>
     <string name="reboot_to_refresh">您需要重新啟動裝置</string>
     <string name="volume_up">提高音量</string>
     <string name="volume_down">降低音量</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">給予評論</string>
     <string name="dice">骰子</string>
     <string name="dice_summary">擲骰子</string>
-    <string name="enable_all_tiles">開啟所有快速設定</string>
     <string name="night_filter_working">「夜間螢幕過濾器」正在運作</string>
     <string name="not_supported">不支援</string>
     <string name="donation_s">$0.99</string>
@@ -151,10 +146,7 @@
     <string name="battery">電池</string>
     <string name="battery_level">顯示電量</string>
     <string name="battery_style">電池樣式</string>
-    <string name="need_help">說明與意見回饋</string>
-    <string name="faq">閱讀常見問題</string>
     <string name="send_email">寄 Email 給我</string>
-    <string name="join_telegram">加入 Telegram 群組</string>
     <string name="notification_ongoing_channel">正在執行的服務</string>
     <string name="add">新增</string>
     <string name="remove">移除</string>
@@ -179,7 +171,6 @@
     <string name="feels_like">體感</string>
     <string name="humidity">濕度</string>
     <string name="dew_point">露點</string>
-    <string name="error">錯誤</string>
     <string name="request_admin_explanation">此程式使用裝置管理員權限。\n
         此權限僅在「鎖定螢幕」使用，絕不挪作他用。</string>
     <string name="weather_not_available">天氣未知</string>
@@ -207,9 +198,6 @@
     <string name="adb_summary">開啟或關閉 ADB</string>
     <string name="adb_wifi_summary">開啟或關閉 網路ADB</string>
 
-    <string name="disable_tile">關閉功能</string>
-    <string name="enable_tile">開啟功能</string>
-    <string name="customize">自訂功能</string>
     <string name="nothing_to_customize">這裡沒有什麼可以自訂的</string>
     <string name="privacy_policy">隱私政策</string>
     <string name="licenses">開放原始碼授權</string>
@@ -217,7 +205,6 @@
     <string name="empty_search_results">查無結果</string>
     <string name="save">儲存</string>
     <string name="search">搜尋</string>
-    <string name="watch_video">觀看影片教學</string>
     <string name="led_tile">LED 通知</string>
     <string name="led_tile_summary">開啟或關閉通知燈光</string>
     <string name="show_weather_info_onclick">按下後顯示天氣資訊</string>
@@ -262,7 +249,6 @@
     <string name="battery_ongoing">檢測電池電量</string>
     <string name="screenshot_ongoing">處理螢幕截圖</string>
     <string name="internet_speed">網路速度</string>
-    <string name="how_to_use_card_home">如何使用？</string>
     <string name="root_security_settings_short">按此了解更多</string>
     <string name="root_security_settings_long">您的裝置尚未取得 Root 權限，但可以從電腦解鎖功能。\n到您的電腦下載這個程式 https://smarturl.it/qs_enabler </string>
     <string name="more">更多</string>

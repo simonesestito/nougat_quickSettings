@@ -45,11 +45,7 @@
     <string name="delete_last">Effacer la dernière ligne</string>
     <string name="hide_from_launcher">Masquer l’application</string>
     <string name="sure">Êtes-vous sûr?</string>
-    <string name="hide_alert_message">L’application sera masquée.\nPour l’afficher de nouveau, il faut effacer les données de l’application</string>
     <string name="cancel">Annuler</string>
-    <string name="todo">Choisir la prochaine action</string>
-    <string name="restore_launcher">Afficher dans le launcher</string>
-    <string name="unistall">Désinstaller</string>
     <string name="reboot_to_refresh">Vous devrez peut être redémarrer votre appareil</string>
     <string name="volume_up">Volume +</string>
     <string name="volume_down">Volume -</string>
@@ -100,7 +96,6 @@
     <string name="leave_review">Notez l’application</string>
     <string name="dice">Dé</string>
     <string name="dice_summary">Lance un dé</string>
-    <string name="enable_all_tiles">Activer tous les réglages rapides</string>
     <string name="night_filter_working">Le mode nuit est activé</string>
     <string name="not_supported">Non supporté</string>
     <string name="donation_s">0.99€</string>
