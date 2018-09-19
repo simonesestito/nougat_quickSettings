@@ -255,5 +255,12 @@
     <string name="battery_settings">電池設定</string>
     <string name="battery_onclick">輕觸磁磚可以開啟設定</string>
     <string name="screenshot_edit">編輯</string>
+    <string name="app_splash_subtitle">不曉得如何使用？按下方幫助按鈕觀看教學影片</string>
+    <string name="app_splash_get_started">要開始使用，請按底部的抽屜圖示</string>
+    <string name="alert_hide_launcher">應用程式將從啟動器中隱藏。\n要繼續使用它，請長按已套用的磁磚。</string>
+    <string name="show_in_launcher">在啟動器顯示</string>
+    <string name="disable_tile">按此停用</string>
+    <string name="enable_tile">開啟磁磚</string>
+    <string name="customize">自訂</string>
 
 </resources>
