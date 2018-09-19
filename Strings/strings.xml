@@ -259,7 +259,7 @@
     <string name="app_splash_get_started">To get started, press the drawer icon at the bottom</string>
     <string name="alert_hide_launcher">The app will be hidden from launcher.\nTo continue using it, long press on an applied tile.</string>
     <string name="show_in_launcher">Show in launcher</string>
-    <string name="disable_tile">Disable toggle</string>
+    <string name="disable_tile">Disable tile</string>
     <string name="enable_tile">Enable tile</string>
     <string name="customize">Customize</string>
 

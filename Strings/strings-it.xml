@@ -254,5 +254,10 @@
     <string name="screenshot_edit">Modifica</string>
     <string name="app_splash_subtitle">Confuso sull\'utilizzo? Premi il bottone d\'aiuto in basso per un video dettagliato</string>
     <string name="app_splash_get_started">Per iniziare, premi l\'icona del drawer in fondo</string>
+    <string name="alert_hide_launcher">L\'app verrà nascosta dal launcher. Per continuare ad aprirla, tieni premuto su un tile applicato.</string>
+    <string name="show_in_launcher">Mostra nel launcher</string>
+    <string name="disable_tile">Disattiva tile</string>
+    <string name="enable_tile">Attiva tile</string>
+    <string name="customize">Personalizza</string>
 
 </resources>
