@@ -146,7 +146,6 @@
     <string name="battery">Batterie</string>
     <string name="battery_level">Zeige Batterielevel</string>
     <string name="battery_style">Batteriestil</string>
-    <string name="send_email">Maile mir</string>
     <string name="notification_ongoing_channel">Laufende Dienste</string>
     <string name="add">Hinzufügen</string>
     <string name="remove">Löschen</string>

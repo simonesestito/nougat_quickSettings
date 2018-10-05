@@ -147,7 +147,6 @@
     <string name="battery">Batéria</string>
     <string name="battery_level">Zobraziť úroveň nabitia batérie</string>
     <string name="battery_style">Štýl batérie</string>
-    <string name="send_email">Email</string>
     <string name="notification_ongoing_channel">Prebiehajúce služby</string>
     <string name="add">Pridať</string>
     <string name="remove">Odstrániť</string>

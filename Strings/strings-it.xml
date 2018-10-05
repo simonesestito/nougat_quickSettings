@@ -146,7 +146,6 @@
     <string name="battery">Batteria</string>
     <string name="battery_level">Mostra livello batteria</string>
     <string name="battery_style">Stile della batteria</string>
-    <string name="send_email">Inviami una mail</string>
     <string name="notification_ongoing_channel">Servizi in corso</string>
     <string name="advise_edit_tiles_from_panel">%s questo tile editando il tuo pannello dei quick settings.\nMaggiori informazioni cliccando il tasto Aiuto in alto</string>
     <string name="vibrate_on_ring">Vibrazione per le telefonate</string>
@@ -259,5 +258,6 @@
     <string name="disable_tile">Disattiva tile</string>
     <string name="enable_tile">Attiva tile</string>
     <string name="customize">Personalizza</string>
+    <string name="watch_help_video">Guarda il video d\'aiuto</string>
 
 </resources>

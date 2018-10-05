@@ -27,7 +27,7 @@
     <string name="gps_all">نظام تحديد المواقع \"GPS\" + الشبكة</string>
     <string name="gps_off">غير مفعّل</string>
     <string name="position">الموقع</string>
-    <string name="share_screenshot">مشاركة لقطة الشاشة مع...</string>
+    <string name="share_screenshot">مشاركة لقطة الشاشة مع…</string>
     <string name="nfc">تقنية التواصل القريب \"NFC\"</string>
     <string name="wait">يرجى الإنتظار</string>
     <string name="status">إخفاء شريط الحالة</string>
@@ -39,7 +39,7 @@
     <string name="dismiss">مسح الكل</string>
     <string name="reminder_empty_note">أضف نص جديد من خلال الضغط على الزر الذي في الاسفل</string>
     <string name="reminder">التنبيه الذكي</string>
-    <string name="reply_label">كتابة سطر جديد...</string>
+    <string name="reply_label">كتابة سطر جديد…</string>
     <string name="add_new_note_reminder">إضافة سطر جديد</string>
     <string name="reminder_copy">نسخ النص</string>
     <string name="copied">تم النسخ إلى الحافظة</string>
@@ -147,7 +147,6 @@
     <string name="battery">البطارية</string>
     <string name="battery_level">إظهار مستوى شحن البطارية</string>
     <string name="battery_style">شكل البطارية</string>
-    <string name="send_email">إرسال إيميل لي</string>
     <string name="notification_ongoing_channel">الخدمات الجارية</string>
     <string name="add">إضافة</string>
     <string name="remove">إزالة</string>

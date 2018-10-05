@@ -145,7 +145,6 @@
     <string name="battery">Батарея</string>
     <string name="battery_level">Показать уровень заряда батареи</string>
     <string name="battery_style">Стиль батареи</string>
-    <string name="send_email">Написать мне письмо по электронной почте</string>
     <string name="notification_ongoing_channel">Постоянные сервисы</string>
     <string name="add">Добавить</string>
     <string name="remove">Удалить</string>

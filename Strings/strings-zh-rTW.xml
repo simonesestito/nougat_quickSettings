@@ -146,7 +146,6 @@
     <string name="battery">電池</string>
     <string name="battery_level">顯示電量</string>
     <string name="battery_style">電池樣式</string>
-    <string name="send_email">寄 Email 給我</string>
     <string name="notification_ongoing_channel">正在執行的服務</string>
     <string name="add">新增</string>
     <string name="remove">移除</string>

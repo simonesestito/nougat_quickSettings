@@ -146,7 +146,6 @@
     <string name="battery">Battery</string>
     <string name="battery_level">Show battery level</string>
     <string name="battery_style">Battery style</string>
-    <string name="send_email">Email me</string>
     <string name="notification_ongoing_channel">Ongoing services</string>
     <string name="add">Add</string>
     <string name="remove">Remove</string>
@@ -262,5 +261,6 @@
     <string name="disable_tile">Disable tile</string>
     <string name="enable_tile">Enable tile</string>
     <string name="customize">Customize</string>
+    <string name="watch_help_video">Watch help video</string>
 
 </resources>

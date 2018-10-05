@@ -145,7 +145,6 @@
     <string name="battery">電池</string>
     <string name="battery_level">電池残量を表示します</string>
     <string name="battery_style">バッテリースタイル</string>
-    <string name="send_email">メールを送る</string>
     <string name="notification_ongoing_channel">実行中のサービス</string>
     <string name="add">追加</string>
     <string name="remove">削除</string>

@@ -146,7 +146,6 @@
     <string name="battery">Pil</string>
     <string name="battery_level">Pil seviyesini göster</string>
     <string name="battery_style">Pil stili</string>
-    <string name="send_email">Benimle iletişime geç</string>
     <string name="notification_ongoing_channel">Devam eden hizmetler</string>
     <string name="add">Ekle</string>
     <string name="remove">Kaldır</string>
