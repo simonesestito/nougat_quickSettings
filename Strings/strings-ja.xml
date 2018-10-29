@@ -45,7 +45,7 @@
     <string name="hide_from_launcher">ランチャーに表示しない</string>
     <string name="sure">よろしいですか？</string>
     <string name="cancel">キャンセル</string>
-    <string name="reboot_to_refresh">端末の再起動が必要です</string>
+    <string name="reboot_to_refresh">端末の再起動が必要な場合があります</string>
     <string name="volume_up">音量 +</string>
     <string name="volume_down">音量 -</string>
     <string name="store_screenshots">スクリーンショットを共有する代わりに保存</string>
@@ -171,7 +171,7 @@
     <string name="dew_point">露点</string>
     <string name="request_admin_explanation">このアプリはデバイス管理者の権限を使用します。\nこの権限は「画面をロック」タイルをタップした時に画面をロックするのに必要です。この権限が他の目的に使用されることはありません。</string>
     <string name="weather_not_available">天気は利用できません</string>
-    <string name="welcome_home_message">Quick Settingsへようこそ</string>
+    <string name="welcome_home_message">Nougat/Oreo Quick Settingsへようこそ</string>
     <string name="home">ホーム</string>
     <string name="categories">カテゴリー</string>
     <string name="utilities">ユーティリティー</string>
@@ -194,7 +194,6 @@
     <string name="position_summary">位置情報モードをタップで変更します</string>
     <string name="adb_summary">ADBを有効または無効にします</string>
     <string name="adb_wifi_summary">WiFiでのADBを有効または無効にします</string>
-    <string name="empty" translatable="false"/>
     <string name="nothing_to_customize">カスタマイズするものがありません</string>
     <string name="privacy_policy">プライバシーポリシー</string>
     <string name="licenses">ライセンス</string>
@@ -209,7 +208,6 @@
     <string name="change_theme">テーマを変更</string>
     <string name="dark_theme">ダークテーマ</string>
     <string name="light_theme">ライトテーマ</string>
-    <string name="cm_live_display_tile" translatable="false">LiveDisplay</string>
     <string name="cm_live_display_tile_summary">LiveDisplayを有効または無効にします</string>
     <string name="sound_panel_preference_summary">お気に入りの音量の種類を選択します</string>
     <string name="activity_crash_title">エラーが発生しました</string>
@@ -251,5 +249,14 @@
     <string name="more">さらに表示</string>
     <string name="battery_settings">バッテリー設定</string>
     <string name="battery_onclick">タイルをタップして設定を開く</string>
+    <string name="screenshot_edit">編集</string>
+    <string name="app_splash_subtitle">使い方に困っていますか？下のヘルプボタンをタップして詳細なビデオを確認してください</string>
+    <string name="app_splash_get_started">初めに、下部のドロワーアイコンを押してください</string>
+    <string name="alert_hide_launcher">アプリはランチャーから非表示になります。\n続行するには、適用されたタイルを長押ししてください。</string>
+    <string name="show_in_launcher">ランチャーに表示</string>
+    <string name="disable_tile">タイルを無効化</string>
+    <string name="enable_tile">タイルを有効化</string>
+    <string name="customize">カスタマイズ</string>
+    <string name="watch_help_video">ヘルプビデオを視聴</string>
 
 </resources>
