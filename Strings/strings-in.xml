@@ -251,4 +251,16 @@
     <string name="more">Lainnya</string>
     <string name="battery_settings">Pengaturan baterai</string>
     <string name="battery_onclick">Buka pengaturan di mode ubin</string>
+    <string name="screenshot_edit">Sunting</string>
+    <string name="app_splash_subtitle">Bingung tentang penggunaannya? Klik tombol bantuan dibawah untuk video yang terperinci</string>
+    <string name="app_splash_get_started">Untuk memulai, tekan ikon laci dibawah</string>
+    <string name="alert_hide_launcher">Aplikasi ini akan disembunyikan dari peluncur.\nUntuk kembali menggunakan, tekan pada ubin yang diterapkan.</string>
+    <string name="show_in_launcher">Tampilkan di peluncur</string>
+    <string name="disable_tile">Matikan ubin</string>
+    <string name="enable_tile">Aktifkan ubin</string>
+    <string name="customize">Kostumisasi</string>
+    <string name="watch_help_video">Tonton tutorial video</string>
+    <string name="sound_search_tile" translatable="false">Pencarian suara</string>
+    <string name="sound_search_description">Luncurkan cepat dengan perintah suara Google</string>
+
 </resources>
