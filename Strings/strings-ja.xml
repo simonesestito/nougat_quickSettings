@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Quick Settings</string>
     <string name="lock">ロック画面</string>
     <string name="sync">同期</string>
     <string name="caffeina">カフェイン</string>
