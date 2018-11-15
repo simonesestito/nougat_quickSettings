@@ -171,7 +171,7 @@
     <string name="humidity">Humedad</string>
     <string name="dew_point">Punto de rocío</string>
     <string name="request_admin_explanation">Esta aplicación utiliza el permiso del administrador del dispositivo.\n
-        Tse requiere su permiso para bloquear la pantalla cuando el usuario hace clic en el tile 'Bloquear pantalla'. Este permiso nunca será utilizado para otros fines.</string>
+        Tse requiere su permiso para bloquear la pantalla cuando el usuario hace clic en el tile \'Bloquear pantalla\'. Este permiso nunca será utilizado para otros fines.</string>
     <string name="weather_not_available">Clima no disponible</string>
     <string name="welcome_home_message">Bienvenido a Quick Settings</string>
     <string name="home">Inicio</string>
