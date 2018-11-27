@@ -203,7 +203,7 @@
     <string name="empty_search_results">Tidak di temukan di sini.</string>
     <string name="save">Simpan</string>
     <string name="search">Pencarian</string>
-    <string name="led_tile">Notifikasi LEad</string>
+    <string name="led_tile">Lampu Notifikasi</string>
     <string name="led_tile_summary">Aktifkan atau non-aktifkan notifikasi cahaya</string>
     <string name="show_weather_info_onclick">Tampilkan info cuaca ketika ubin di sentuh</string>
     <string name="enable_location">Mohon aktifkan layanan lokasi</string>
@@ -238,7 +238,7 @@
     <string name="ringer_mode_all">Sertakan Mode Prioritas dan Diam Sama-sekali dalam daftar pilihan</string>
     <string name="show_touches">Tampilkan ketukan</string>
     <string name="reboot_erecovery_huawei">Mulai ulang Huawei eRecovery</string>
-    <string name="huawei_required">Huawei device required</string>
+    <string name="huawei_required">Perangkat Huawei diperlukan</string>
     <string name="density_chooser">Atur kepadatan layar</string>
     <string name="color_black">Hitam</string>
     <string name="color_yellow">Kuning</string>
@@ -252,7 +252,7 @@
     <string name="battery_settings">Pengaturan baterai</string>
     <string name="battery_onclick">Buka pengaturan di mode ubin</string>
     <string name="screenshot_edit">Sunting</string>
-    <string name="app_splash_subtitle">Bingung tentang penggunaannya? Klik tombol bantuan dibawah untuk video yang terperinci</string>
+    <string name="app_splash_subtitle">Bingung tentang penggunaannya? Klik tombol bantuan dibawah untuk tutorial video</string>
     <string name="app_splash_get_started">Untuk memulai, tekan ikon laci dibawah</string>
     <string name="alert_hide_launcher">Aplikasi ini akan disembunyikan dari peluncur.\nUntuk kembali menggunakan, tekan lama pada ubin yang diterapkan.</string>
     <string name="show_in_launcher">Tampilkan di peluncur</string>
