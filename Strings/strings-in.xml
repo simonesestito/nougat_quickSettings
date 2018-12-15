@@ -173,7 +173,7 @@
     <string name="request_admin_explanation">Aplikasi ini membutuhkan perizinan administrasi perangkat.\n
         Izin ini diperlukan untuk mengunci layar ketika pengguna mengklik pada \'Lock Screen\' ubin. Perizinan itu akan di gunakan untuk tujuan ini</string>
     <string name="weather_not_available">Cuaca tidak tersedia</string>
-    <string name="welcome_home_message">Selamat datang ke Pengaturan Cepat</string>
+    <string name="welcome_home_message">Selamat datang di Pengaturan Cepat</string>
     <string name="home">Rumah</string>
     <string name="categories">Kategori</string>
     <string name="utilities">Utilitas</string>
