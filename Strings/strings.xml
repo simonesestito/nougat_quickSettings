@@ -262,7 +262,7 @@
     <string name="enable_tile">Enable tile</string>
     <string name="customize">Customize</string>
     <string name="watch_help_video">Watch help video</string>
-    <string name="sound_search_tile" translatable="false">Sound Search</string>
+    <string name="sound_search_tile">Sound Search</string>
     <string name="sound_search_description">Quick launch Google Sound Search</string>
 
 </resources>
