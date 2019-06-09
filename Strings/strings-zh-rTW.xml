@@ -153,7 +153,7 @@
     <string name="vibrate_on_ring">接到來電時震動</string>
     <string name="use_letter_as_app_icon">使用第一個字元作為 App 圖示</string>
     <string name="accessibility_mono_audio">單聲道</string>
-    <string name="accessibility_mono_audio_summary">它相當於 設定 > 協助工具 > 使用單聲道</string>
+    <string name="accessibility_mono_audio_summary">它相當於 設定 &gt; 協助工具 &gt; 使用單聲道</string>
     <string name="mobile_data_type">行動數據類型</string>
     <string name="mobile_data_type_summary">開啟行動數據設定</string>
     <string name="monochrome">閱讀模式</string>
@@ -171,7 +171,7 @@
     <string name="humidity">濕度</string>
     <string name="dew_point">露點</string>
     <string name="request_admin_explanation">此程式使用裝置管理員權限。\n
-        此權限僅在「鎖定螢幕」使用，絕不挪作他用。</string>
+                此權限僅在「鎖定螢幕」使用，絕不挪作他用。</string>
     <string name="weather_not_available">天氣未知</string>
     <string name="welcome_home_message">歡迎使用 快速設定</string>
     <string name="home">首頁</string>
@@ -195,8 +195,7 @@
     <string name="battery_saver_summary">開啟或關閉 AOSP 省電模式</string>
     <string name="position_summary">一鍵變更定位模式</string>
     <string name="adb_summary">開啟或關閉 ADB</string>
-    <string name="adb_wifi_summary">開啟或關閉 網路ADB</string>
-
+    <string name="adb_wifi_summary">開啟或關閉 網路ADB</string>    
     <string name="nothing_to_customize">這裡沒有什麼可以自訂的</string>
     <string name="privacy_policy">隱私政策</string>
     <string name="licenses">開放原始碼授權</string>
@@ -210,8 +209,7 @@
     <string name="enable_location">請開啟定位服務</string>
     <string name="change_theme">變更主題</string>
     <string name="dark_theme">黑夜</string>
-    <string name="light_theme">明亮</string>
-
+    <string name="light_theme">明亮</string>    
     <string name="cm_live_display_tile_summary">開啟或關閉 LiveDisplay</string>
     <string name="sound_panel_preference_summary">選擇最愛的音量類型</string>
     <string name="activity_crash_title">發生錯誤</string>
@@ -261,5 +259,7 @@
     <string name="disable_tile">按此停用</string>
     <string name="enable_tile">開啟磁磚</string>
     <string name="customize">自訂</string>
-
+    <string name="watch_help_video">查看教學影片</string>
+    <string name="sound_search_tile">語音搜尋</string>
+    <string name="sound_search_description">快速開啟 Google 語音搜尋</string>
 </resources>
