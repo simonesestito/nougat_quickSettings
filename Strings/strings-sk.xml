@@ -58,7 +58,6 @@
     <string name="ringer">Režim zvonenia</string>
     <string name="permission_required">Potrebné povolenie</string>
     <string name="in_ear_summary">Počúvajte hudbu reproduktorom pre hovory. Užitočné ak nemáte slúchadlá</string>
-    <string name="lock_summary">Pre odomknutie odtlačkom musí byť zariadenie rootnuté</string>
     <string name="root_required">Vyžaduje root povolenie</string>
     <string name="caffeina_summary">Udržuje obrazovku zapnutú</string>
     <string name="app_summary">Vyberte aplikáciu pre spustenie</string>
@@ -117,9 +116,6 @@
     <string name="play_pause">Prehrať / Pozastaviť</string>
     <string name="play_pause_summary">Prehrať alebo pozastaviť aktuálnu inštanciu hudobného prehrávača</string>
     <string name="never_show">Znovu nezobrazovať</string>
-    <string name="weather">Počasie</string>
-    <string name="weather_summary">Poskytuje Google Awareness API</string>
-    <string name="weather_use_imperial">Použiť imperiálne jednotky namiesto metrických</string>
     <string name="in_ear_hide_screen">Skryť obrazovku, keď je telefón blízko vašej hlavy</string>
     <string name="data_mobile">Mobilné dáta</string>
     <string name="vpn">VPN</string>
@@ -164,16 +160,9 @@
     <string name="immersive_preference">Vyberte si svoj obľúbený imerzivný režim</string>
     <string name="immersive_pref_generic">Zvoliť zakaždým</string>
     <string name="free_space">Voľné miesto:</string>
-    <string name="cm_not_detected">Nepoužívate LineageOS</string>
-    <string name="cm_profiles">LineageOS profily</string>
     <string name="hotspot">Hotspot</string>
-    <string name="temperature">Teplota</string>
-    <string name="feels_like">Pocitová teplota</string>
-    <string name="humidity">Vlhkosť</string>
-    <string name="dew_point">Rosný bod</string>
     <string name="request_admin_explanation">Táto aplikácia používa povolenie správcu zariadenia.\n
         Toto povolenie je potrebné na uzamknutie obrazovky, keď používateľ klikne na \'Uzamknúť obrazovku\'. Toto povolenie sa nikdy nepoužije na iné účely</string>
-    <string name="weather_not_available">Počasie nie je k dispozícii</string>
     <string name="welcome_home_message">Vitajte v Nougat/Oreo rýchlych nastaveniach</string>
     <string name="home">Domov</string>
     <string name="categories">Kategórie</string>
@@ -191,7 +180,6 @@
     <string name="app_5">App &amp; Skratky #5</string>
     <string name="orientation_summary">Manuálne zmení orientáciu obrazovky (180° zahrnuté)</string>
     <string name="input_method_picker_summary">Rýchlo zmeniť metódu vstupu</string>
-    <string name="cm_profiles_summary">Rýchlo zmeniť CyanogenMod / LineageOS profil</string>
     <string name="hotspot_summary">Zapnúť WiFi hotspot</string>
     <string name="battery_saver_summary">Zapne alebo vypne AOSP šetrič batérie</string>
     <string name="position_summary">Zmeňte režim určovania polohy klepnutím</string>
@@ -209,20 +197,15 @@
     <string name="search">Hľadať</string>
     <string name="led_tile">Notifikačná LED</string>
     <string name="led_tile_summary">Zapne alebo vypne notifikačný blesk</string>
-    <string name="show_weather_info_onclick">Zobraziť dialógové okno s informáciami o počasí</string>
-    <string name="enable_location">Aktivujte službu určovania polohy</string>
     <string name="change_theme">Zmeniť tému</string>
     <string name="dark_theme">Tmavá téma</string>
     <string name="light_theme">Svetlá téma</string>
-    <string name="cm_live_display_tile" translatable="false">LiveDisplay</string>
-    <string name="cm_live_display_tile_summary">Zapne alebo vypne LiveDisplay</string>
     <string name="sound_panel_preference_summary">Vyberte si svoj obľúbený typ hlasitosti</string>
     <string name="activity_crash_title">Došlo k chybe</string>
     <string name="activity_crash_subtitle">Je nám úplne ľúto, že došlo k tejto chybe… :(</string>
     <string name="restart_app">Reštartovať aplikáciu</string>
     <string name="show_logcat">Zobraziť logcat (len ladenie)</string>
     <string name="all">Zoznam všetkých</string>
-    <string name="last_added">Naposledy pridané</string>
     <string name="sound_panel_type_auto">Aktuálny typ streamu</string>
     <string name="sound_panel_type_ring">Zvoniť</string>
     <string name="sound_panel_type_media">Hlasitosť médií</string>

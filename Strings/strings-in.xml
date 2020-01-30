@@ -57,7 +57,6 @@
     <string name="ringer">Mode dering</string>
     <string name="permission_required">Perizinan di butuhkan</string>
     <string name="in_ear_summary">Dengarkan musik melalui kapsul headset panggilan. Berguna jika tidak punya headset apa pun</string>
-    <string name="lock_summary">Untuk membuka dengan sidik jari, kamu membutuhkan root</string>
     <string name="root_required">Perizinan root di butuhkan</string>
     <string name="caffeina_summary">Menjaga layar tetap hidup</string>
     <string name="app_summary">Pilih sebuah aplikasi untuk di jalankan</string>
@@ -116,9 +115,6 @@
     <string name="play_pause">Main / Jeda</string>
     <string name="play_pause_summary">Putar atau jeda pemutar musik saat ini</string>
     <string name="never_show">Tidak pernah di tampilkan lagi</string>
-    <string name="weather">Cuaca</string>
-    <string name="weather_summary">Di tampilkan dengan Google Awareness API</string>
-    <string name="weather_use_imperial">Gunakan unit imperial dari pada yang metrik</string>
     <string name="in_ear_hide_screen">Sembunyikan layar saat ponsel berada di dekat kepala anda</string>
     <string name="data_mobile">Data seluler</string>
     <string name="vpn">VPN</string>
@@ -163,16 +159,9 @@
     <string name="immersive_preference">Pilih mode perluasan favoritmu</string>
     <string name="immersive_pref_generic">Pilih setiap waktu</string>
     <string name="free_space">Ruang bebas:</string>
-    <string name="cm_not_detected">Kamu tidak menjalankan LineageOS</string>
-    <string name="cm_profiles">LineageOS Profil</string>
     <string name="hotspot">Hotspot</string>
-    <string name="temperature">Temperatur</string>
-    <string name="feels_like">Terasa seperti</string>
-    <string name="humidity">Kelembapan</string>
-    <string name="dew_point">Titik embun</string>
     <string name="request_admin_explanation">Aplikasi ini membutuhkan perizinan administrasi perangkat.\n
         Izin ini diperlukan untuk mengunci layar ketika pengguna mengklik pada \'Lock Screen\' ubin. Perizinan itu akan di gunakan untuk tujuan ini</string>
-    <string name="weather_not_available">Cuaca tidak tersedia</string>
     <string name="welcome_home_message">Selamat datang ke Pengaturan Cepat</string>
     <string name="home">Rumah</string>
     <string name="categories">Kategori</string>
@@ -190,7 +179,6 @@
     <string name="app_5">Aplikasi &amp; Jalan pintas #5</string>
     <string name="orientation_summary">Ganti orientasi layar manual (180° termasuk)</string>
     <string name="input_method_picker_summary">Ganti mode masukan cepat</string>
-    <string name="cm_profiles_summary">Ganti CyanogenMod / LineageOS profil cepat</string>
     <string name="hotspot_summary">Aktifkan WiFi hotspot</string>
     <string name="battery_saver_summary">Aktifkan atau non-aktifkan AOSP hemat daya baterai</string>
     <string name="position_summary">Ganti mode lokasi dengan ketukan</string>
@@ -205,19 +193,15 @@
     <string name="search">Pencarian</string>
     <string name="led_tile">Notifikasi LEad</string>
     <string name="led_tile_summary">Aktifkan atau non-aktifkan notifikasi cahaya</string>
-    <string name="show_weather_info_onclick">Tampilkan info cuaca ketika ubin di sentuh</string>
-    <string name="enable_location">Mohon aktifkan layanan lokasi</string>
     <string name="change_theme">Ganti tema</string>
     <string name="dark_theme">Tema gelap</string>
     <string name="light_theme">Tema cerah</string>
-    <string name="cm_live_display_tile_summary">Aktifkan atau non-aktifkan LiveDisplay</string>
     <string name="sound_panel_preference_summary">Pilih suara favoritmu</string>
     <string name="activity_crash_title">Sebuah kesalahan telah terjadi</string>
     <string name="activity_crash_subtitle">Kami sangat meminta maaf atas masalah ini… :(</string>
     <string name="restart_app">Mulai ulang aplikasi</string>
     <string name="show_logcat">Tampilkan logcat (hanya mode debug)</string>
     <string name="all">Semua daftar</string>
-    <string name="last_added">Terakhir di tambahkan</string>
     <string name="sound_panel_type_auto">Tipe aliran saat ini</string>
     <string name="sound_panel_type_ring">Dering</string>
     <string name="sound_panel_type_media">Suara media</string>

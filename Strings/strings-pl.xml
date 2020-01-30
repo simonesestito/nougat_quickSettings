@@ -57,7 +57,6 @@
     <string name="ringer">Tryb dźwięku</string>
     <string name="permission_required">Potrzebne uprawnienie</string>
     <string name="in_ear_summary">Słuchaj muzyki z głośnika do obsługi połączeń. Przydatne, jeśli nie masz zestawu słuchawkowego</string>
-    <string name="lock_summary">Aby odblokować poprzez odcisk palca, potrzebujesz roota</string>
     <string name="root_required">Wymagany root</string>
     <string name="caffeina_summary">Utrzymuj ekran włączony</string>
     <string name="app_summary">Wybierz aplikację do uruchamiania</string>
@@ -116,9 +115,6 @@
     <string name="play_pause">Muzyka</string>
     <string name="play_pause_summary">Odtwórz lub zatrzymaj obecnie grającą muzykę</string>
     <string name="never_show">Nie pokazuj ponownie</string>
-    <string name="weather">Pogoda</string>
-    <string name="weather_summary">Dostarczana przez Google Awareness API</string>
-    <string name="weather_use_imperial">Użyj stopni Farenheita zamiast Celsjusza</string>
     <string name="in_ear_hide_screen">Wygaś ekran po podniesieniu go do głowy</string>
     <string name="data_mobile">Transmisja danych</string>
     <string name="vpn">VPN</string>
@@ -163,16 +159,9 @@
     <string name="immersive_preference">Wybierz tryb rozszerzonego pulpitu</string>
     <string name="immersive_pref_generic">Wybieraj za każdym razem</string>
     <string name="free_space">Wolne miejsce:</string>
-    <string name="cm_not_detected">Wymagany LineageOS</string>
-    <string name="cm_profiles">Profile LineageOS</string>
     <string name="hotspot">Punkt dostępu</string>
-    <string name="temperature">Temperatura</string>
-    <string name="feels_like">Odczuwalne</string>
-    <string name="humidity">Wilgotność</string>
-    <string name="dew_point">Punkt rosy</string>
     <string name="request_admin_explanation">Aplikacja używa uprawnień administratora.\n
         Jest to wymagane, aby zablokować ekran po kliknięciu na kafelek \'Zablokuj ekran\'. Uprawnienie nie jest używane w żadnych innych celach.</string>
-    <string name="weather_not_available">Pogoda niedostępna</string>
     <string name="welcome_home_message">Witaj w Quick Settings</string>
     <string name="home">Strona główna</string>
     <string name="categories">Kategorie</string>
@@ -190,7 +179,6 @@
     <string name="app_5">Aplikacja lub skrót #5</string>
     <string name="orientation_summary">Zmień orientację ekranu ręcznie (także o 180°)</string>
     <string name="input_method_picker_summary">Zmień metodę wprowadzania</string>
-    <string name="cm_profiles_summary">Przełącz profil CyanogenMod / LineageOS</string>
     <string name="hotspot_summary">Włącz punkt dostępu Wi-Fi</string>
     <string name="battery_saver_summary">Włącz systemowe oszczędzanie baterii</string>
     <string name="position_summary">Zmień tryb lokalizacji</string>
@@ -208,19 +196,15 @@
     <string name="search">Szukaj</string>
     <string name="led_tile">Dioda powiadomień</string>
     <string name="led_tile_summary">Włącz lub wyłącz diodę powiadomień</string>
-    <string name="show_weather_info_onclick">Pokaż pełne informacje pogodowe po kliknięciu</string>
-    <string name="enable_location">Włącz usługi lokalizacji</string>
     <string name="change_theme">Zmień motyw</string>
     <string name="dark_theme">Ciemny motyw</string>
     <string name="light_theme">Jasny motyw</string>
-    <string name="cm_live_display_tile_summary">Włącz lub wyłącz LiveDisplay</string>
     <string name="sound_panel_preference_summary">Wybierz panel głośności</string>
     <string name="activity_crash_title">Wystąpił błąd</string>
     <string name="activity_crash_subtitle">Serdecznie przepraszamy za awarię… :(</string>
     <string name="restart_app">Uruchom aplikację ponownie</string>
     <string name="show_logcat">Pokaż logi (tylko debugowanie)</string>
     <string name="all">Lista wszystkich</string>
-    <string name="last_added">Ostatnio dodane</string>
     <string name="sound_panel_type_auto">Aktualnie używany</string>
     <string name="sound_panel_type_ring">Dzwonek</string>
     <string name="sound_panel_type_media">Multimedia</string>

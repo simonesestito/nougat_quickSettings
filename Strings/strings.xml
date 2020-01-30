@@ -57,7 +57,6 @@
     <string name="ringer">Ringer mode</string>
     <string name="permission_required">Permission required</string>
     <string name="in_ear_summary">Listen to the music via the headset capsule of calls. Useful if you haven\'t got any headset</string>
-    <string name="lock_summary">To unlock with fingerprint scanner you have to be rooted</string>
     <string name="root_required">Root permission required</string>
     <string name="caffeina_summary">Keep the screen awake</string>
     <string name="app_summary">Choose an app to launch</string>
@@ -111,14 +110,13 @@
     <string name="search_tile">Search</string>
     <string name="search_summary">Search on the Internet</string>
     <string name="search_tile_long_press">Try to launch vocal search</string>
+    <string name="accessibility_explanation">This app uses Accessibility services.  This permission is required to help users to perform some actions using quick settings.  It helps people with disabilities to do actions (eg: hardware button click) using quick settings.  Of course the app will always do the actions chosen by the user</string>
+    <string name="accessibility_toast_message">You need to enable Accessibility Service to perform this action</string>
     <string name="storage_open_old_screen">Open storage settings instead of file manager</string>
     <string name="adb">ADB</string>
     <string name="play_pause">Play / Pause</string>
     <string name="play_pause_summary">Play or pause the current music player instance</string>
     <string name="never_show">Never show again</string>
-    <string name="weather">Weather</string>
-    <string name="weather_summary">Provided by Google Awareness API</string>
-    <string name="weather_use_imperial">Use imperial units instead of metric ones</string>
     <string name="in_ear_hide_screen">Hide screen when the phone is near your head</string>
     <string name="data_mobile">Mobile data</string>
     <string name="vpn">VPN</string>
@@ -163,16 +161,9 @@
     <string name="immersive_preference">Choose your favourite immersive mode</string>
     <string name="immersive_pref_generic">Choose every time</string>
     <string name="free_space">Free space:</string>
-    <string name="cm_not_detected">You\'re not running LineageOS</string>
-    <string name="cm_profiles">LineageOS Profiles</string>
     <string name="hotspot">Hotspot</string>
-    <string name="temperature">Temperature</string>
-    <string name="feels_like">Feels like</string>
-    <string name="humidity">Humidity</string>
-    <string name="dew_point">Dew point</string>
     <string name="request_admin_explanation">This app uses the Device Administrator permission.\n
         This permission is required to lock the screen when the user clicks on the \'Lock Screen\' tile. This permission will never be used for other purposes</string>
-    <string name="weather_not_available">Weather not available</string>
     <string name="welcome_home_message">Welcome to Quick Settings</string>
     <string name="home">Home</string>
     <string name="categories">Categories</string>
@@ -190,7 +181,6 @@
     <string name="app_5">App &amp; Shortcuts #5</string>
     <string name="orientation_summary">Change screen orientation manually (180° included)</string>
     <string name="input_method_picker_summary">Change input method quickly</string>
-    <string name="cm_profiles_summary">Change CyanogenMod / LineageOS profile quickly</string>
     <string name="hotspot_summary">Enable WiFi hotspot</string>
     <string name="battery_saver_summary">Enable or disable AOSP battery saver</string>
     <string name="position_summary">Change location mode with a tap</string>
@@ -206,20 +196,15 @@
     <string name="search">Search</string>
     <string name="led_tile">Notification LED</string>
     <string name="led_tile_summary">Enable or disable notification light</string>
-    <string name="show_weather_info_onclick">Show weather info dialog on tile click</string>
-    <string name="enable_location">Please enable a location service</string>
     <string name="change_theme">Change theme</string>
     <string name="dark_theme">Dark theme</string>
     <string name="light_theme">Light theme</string>
-    <string name="cm_live_display_tile" translatable="false">LiveDisplay</string>
-    <string name="cm_live_display_tile_summary">Enable or disable LiveDisplay</string>
     <string name="sound_panel_preference_summary">Choose your favourite volume type</string>
     <string name="activity_crash_title">An error has occurred</string>
     <string name="activity_crash_subtitle">We are really sorry for this crash… :(</string>
     <string name="restart_app">Restart the app</string>
     <string name="show_logcat">Show logcat (debug only)</string>
     <string name="all">List all</string>
-    <string name="last_added">Latest additions</string>
     <string name="sound_panel_type_auto">Current stream type</string>
     <string name="sound_panel_type_ring">Ring</string>
     <string name="sound_panel_type_media">Media volume</string>
@@ -264,5 +249,12 @@
     <string name="watch_help_video">Watch help video</string>
     <string name="sound_search_tile" translatable="false">Sound Search</string>
     <string name="sound_search_description">Quick launch Google Sound Search</string>
-
+    <string name="notification_log_tile">Notifications history</string>
+    <string name="notification_log_description">Show system notifications history</string>
+    <string name="not_allowed">Operation not allowed for permission reasons</string>
+    <string name="accessibility_short">It helps people with disabilities to do actions (eg: hardware button click) using quick settings.</string>
+    <string name="power_dialog_tile">Power dialog</string>
+    <string name="split_screen_tile">Split Screen</string>
+    <string name="split_screen_summary">Enable Split Screen</string>
+    <string name="autocomplete_search_hint">Search</string>
 </resources>

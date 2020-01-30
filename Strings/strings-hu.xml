@@ -57,7 +57,6 @@
     <string name="ringer">Üzemmód</string>
     <string name="permission_required">Engedély szügséges</string>
     <string name="in_ear_summary">Halgass zenét a híváshangszóró segítségével. Hasznos, ha nincs nálad fülhallgató</string>
-    <string name="lock_summary">Az ujjlenyomat-olvasó használatához root szügséges</string>
     <string name="root_required">Root szügséges</string>
     <string name="caffeina_summary">Képernyő ébren tartása</string>
     <string name="app_summary">Válassz egy indítandó alkalmazást</string>
@@ -116,9 +115,6 @@
     <string name="play_pause">Indtás / Szünet</string>
     <string name="play_pause_summary">Aktív zene kezelése</string>
     <string name="never_show">Többet ne mutasd</string>
-    <string name="weather">Időjárás</string>
-    <string name="weather_summary">Forrás: Google Awareness API</string>
-    <string name="weather_use_imperial">Ne használja a metrikus mértékegységeket</string>
     <string name="in_ear_hide_screen">Képernyő lekapcsolása, ha a fejed közel van</string>
     <string name="data_mobile">Mobilinternet</string>
     <string name="vpn">VPN</string>
@@ -126,5 +122,4 @@
     <string name="vpn_summary">VPN-beállítások megnyitása</string>
     <string name="cast">Képernyőmegosztás</string>
     <string name="cast_summary">Képernyőmegosztási képernyő megnyitása</string>
-    <string name="accessibility_mono_audio"></string>
 </resources>

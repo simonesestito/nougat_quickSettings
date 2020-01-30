@@ -57,7 +57,6 @@
     <string name="ringer">Zil sesi modu</string>
     <string name="permission_required">İzin gerekli</string>
     <string name="in_ear_summary">Kulaklık kapsülü yoluyla müzik dinleyin. Herhangi bir kulaklığa sahip değilseniz kullanışlıdır</string>
-    <string name="lock_summary">Parmak izi okuyucusu ile kilidi açmak için cihazınız rootlu olmalıdır.</string>
     <string name="root_required">Root izni gerekli</string>
     <string name="caffeina_summary">Ekranı açık tut</string>
     <string name="app_summary">Çalıştırmak için bir uygulama seçin</string>
@@ -116,9 +115,6 @@
     <string name="play_pause">Oynat / Duraklat</string>
     <string name="play_pause_summary">Şu an bulunan müzik oynatıcıyı oynat / duraklat</string>
     <string name="never_show">Bir daha gösterme</string>
-    <string name="weather">Hava Durumu</string>
-    <string name="weather_summary">Google Awareness API tarafından sağlanmaktadır</string>
-    <string name="weather_use_imperial">Metrik olanlar yerine emperyal birimleri kullanın</string>
     <string name="in_ear_hide_screen">Telefon kafanıza yakın iken ekranı gizleyin</string>
     <string name="data_mobile">Mobil veri</string>
     <string name="vpn">VPN</string>
@@ -163,16 +159,9 @@
     <string name="immersive_preference">Favori Tam Ekran modunuzu seçin</string>
     <string name="immersive_pref_generic">Her zaman seç</string>
     <string name="free_space">Boş alan:</string>
-    <string name="cm_not_detected">LineageOS kullanmıyorsunuz</string>
-    <string name="cm_profiles">LineageOS Profilleri</string>
     <string name="hotspot">Taşınabilir WiFi</string>
-    <string name="temperature">Sıcaklık</string>
-    <string name="feels_like">Hissediliyor</string>
-    <string name="humidity">Nem</string>
-    <string name="dew_point">Çiy noktası</string>
     <string name="request_admin_explanation">Bu uygulama cihaz yöneticisi izni gerektiriyor.\n
         Bu izin, kullanıcı \'Ekranı Kilitle\' karesini kullanması ve ekranı kiltlemesi için gereklidir. Bu izin asla başka amaçlarla kullanılmayacaktır.</string>
-    <string name="weather_not_available">Hava durumu mevcut değil</string>
     <string name="welcome_home_message">Nougat/Oreo Hızlı Ayarlarına Hoş Geldiniz</string>
     <string name="home">Ana Ekran</string>
     <string name="categories">Kategoriler</string>
@@ -190,7 +179,6 @@
     <string name="app_5">Uygulama &amp; Kısayollar #5</string>
     <string name="orientation_summary">Manuel olarak ekran yönünü değiştirin (180° dahil)</string>
     <string name="input_method_picker_summary">Hızlıca giriş yöntemini değiştirin</string>
-    <string name="cm_profiles_summary">CyanogenMod / LineageOS profilini hızlıca değiştir</string>
     <string name="hotspot_summary">Taşınabilir WiFi özelliğini etkinleştir</string>
     <string name="battery_saver_summary">AOSP pil tasarrufu özelliğini etkinleştir veya devre dışı bırak</string>
     <string name="position_summary">Tek dokunuşta konumunuzu değiştirin</string>
@@ -205,19 +193,15 @@
     <string name="search">Ara</string>
     <string name="led_tile">Bildirim LEDi</string>
     <string name="led_tile_summary">Bildirim ışığını etkinleştir veya devre dışı bırak</string>
-    <string name="show_weather_info_onclick">Kareye tıkladığında hava durumu bilgisini göster</string>
-    <string name="enable_location">Lütfen konum servisini etkinleştirin</string>
     <string name="change_theme">Temayı değiştir</string>
     <string name="dark_theme">Kara tema</string>
     <string name="light_theme">Açık tema</string>
-    <string name="cm_live_display_tile_summary">LiveDisplay özelliğini etkinleştir veya devre dışı bırak</string>
     <string name="sound_panel_preference_summary">Favori ses tipini seç</string>
     <string name="activity_crash_title">Bir hata oluştu</string>
     <string name="activity_crash_subtitle">Bu hata için gerçekten üzgünüz… :(</string>
     <string name="restart_app">Uygulamayı yeniden başlat</string>
     <string name="show_logcat">Logcat kayıtını göster (sadece ayıklama)</string>
     <string name="all">Hepsini listele</string>
-    <string name="last_added">Son eklenenler</string>
     <string name="sound_panel_type_auto">Mevcut yayın tipi</string>
     <string name="sound_panel_type_ring">Zil</string>
     <string name="sound_panel_type_media">Medya sesi</string>

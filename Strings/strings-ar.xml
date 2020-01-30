@@ -58,7 +58,6 @@
     <string name="ringer">وضع الرنين</string>
     <string name="permission_required">الإذن مطلوب</string>
     <string name="in_ear_summary">الإستماع إلى الموسيقى من خلال سماعة الإتصالات. مفيد اذا لم تتوفّر لديك سماعة إذن</string>
-    <string name="lock_summary">لفتح القفل بواسطة البصمة يجب أن يتوفّر لديك رووت</string>
     <string name="root_required">يجب أن يتوفّر لديك رووت</string>
     <string name="caffeina_summary">إبقاء الشاشة تعمل</string>
     <string name="app_summary">إختيار تطبيق لتشغيله</string>
@@ -117,9 +116,6 @@
     <string name="play_pause">تشغيل / إيقاف مؤقّت</string>
     <string name="play_pause_summary">تشغيل أو إيقاف مؤقّت لمشغّل الموسيقى الحالي</string>
     <string name="never_show">عدم الإظهار مجدداً</string>
-    <string name="weather">الطقس</string>
-    <string name="weather_summary">مقدم من قِبَل \"Google Awareness API\"</string>
-    <string name="weather_use_imperial">إستخدام نظام القياس \"imperial\" بدلاً من \"metric\"</string>
     <string name="in_ear_hide_screen">إطفاء الشاشة عندما يكون الهاتف قريب من رأسك</string>
     <string name="data_mobile">بيانات الهاتف</string>
     <string name="vpn">VPN</string>
@@ -164,15 +160,8 @@
     <string name="immersive_preference">أختر وضع الغمر المفضل لديك</string>
     <string name="immersive_pref_generic">الإختيار كل مرّة</string>
     <string name="free_space">المساحة الفارغة:</string>
-    <string name="cm_not_detected">نظامك ليس \"LineageOS\"</string>
-    <string name="cm_profiles">أوضاع نظام \"LineageOS\"</string>
     <string name="hotspot">نقطة البث النقّالة</string>
-    <string name="temperature">درجة الحرارة</string>
-    <string name="feels_like">تُحَس كأنها</string>
-    <string name="humidity">الرطوبة</string>
-    <string name="dew_point">درجة الندى</string>
     <string name="request_admin_explanation">هذا التطبيق يستخدم إذن المسؤول للهاتف. \nهذا الإذن مطلوب لقفل الشاشة عندما يضغط المستخدم على مربع \"قفل الشاشة\". لن يتم إستخدام هذا الإذن لأي أغراض أخرى</string>
-    <string name="weather_not_available">الطقس غير متوفر</string>
     <string name="welcome_home_message">أهلاً وسهلاً بك إلى تطبيق إعدادات السريعة</string>
     <string name="home">الرئيسية</string>
     <string name="categories">الأقسام</string>
@@ -190,7 +179,6 @@
     <string name="app_5">التطبيق والإختصارات #5</string>
     <string name="orientation_summary">تغيير دوران الشاشة يدوياً (180 درجة موجودة)</string>
     <string name="input_method_picker_summary">تغيير إسلوب الإدخال بسرعة</string>
-    <string name="cm_profiles_summary">تغيير أوضاع أنظمة CyanogenMod / LineageOS بسرعة</string>
     <string name="hotspot_summary">تشغيل نقطة واي فاي المتنقّلة</string>
     <string name="battery_saver_summary">تفعيل أو إلغاء تفعيل وضع توفير الطاقة AOSP</string>
     <string name="position_summary">تغيير وضع الموقع بلمسة واحدة</string>
@@ -205,20 +193,15 @@
     <string name="search">بحث</string>
     <string name="led_tile">ضوء الإشعارات</string>
     <string name="led_tile_summary">تفعيل أو إلغاء تفعيل ضوء الإشعارات</string>
-    <string name="show_weather_info_onclick">إظهار قائمة الطقس عند الضغط على مربع الطقس</string>
-    <string name="enable_location">يُرجى تفعيل الموقع</string>
     <string name="change_theme">تغيير المظهر</string>
     <string name="dark_theme">ألوان داكنة</string>
     <string name="light_theme">ألوان فاتحة</string>
-    <string name="cm_live_display_tile" translatable="false">الشاشة الحيّة</string>
-    <string name="cm_live_display_tile_summary">تفعيل أو إلغاء تفعيل الشاشة الحيّة</string>
     <string name="sound_panel_preference_summary">إختر وضع الصوت المفضّل لديك</string>
     <string name="activity_crash_title">حَدث خطأ</string>
     <string name="activity_crash_subtitle">نحن آسفون جدّاً لهذا الخطأ :(</string>
     <string name="restart_app">إعادة تشغيل التطبيق</string>
     <string name="show_logcat">إظهار logcat (وضع الكشف عن الاخطاء فقط)</string>
     <string name="all">إظهار الكل</string>
-    <string name="last_added">آخر الإضافات</string>
     <string name="sound_panel_type_auto">وضع البث الحالي</string>
     <string name="sound_panel_type_ring">رنين</string>
     <string name="sound_panel_type_media">مستوى صوت الوسائط</string>

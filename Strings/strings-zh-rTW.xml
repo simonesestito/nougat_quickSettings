@@ -57,7 +57,6 @@
     <string name="ringer">鈴聲模式</string>
     <string name="permission_required">需要權限</string>
     <string name="in_ear_summary">從話筒喇叭收聽音樂。這在手邊沒有耳機時很有用。</string>
-    <string name="lock_summary">要使用指紋辨識來解鎖，您必須先 Root 裝置。</string>
     <string name="root_required">需要 Root 權限</string>
     <string name="caffeina_summary">保持喚醒螢幕</string>
     <string name="app_summary">選擇 App 來開啟</string>
@@ -116,9 +115,6 @@
     <string name="play_pause">播放 / 暫停</string>
     <string name="play_pause_summary">立刻播放或停止目前使用的音樂播放器</string>
     <string name="never_show">不要再顯示</string>
-    <string name="weather">天氣</string>
-    <string name="weather_summary">由 Google Awareness API 提供數據</string>
-    <string name="weather_use_imperial">不使用公制單位，而是使用英制單位。</string>
     <string name="in_ear_hide_screen">當裝置在頭旁邊時，關閉螢幕</string>
     <string name="data_mobile">行動數據</string>
     <string name="vpn">VPN</string>
@@ -163,16 +159,9 @@
     <string name="immersive_preference">請選擇你喜歡的沉浸模式</string>
     <string name="immersive_pref_generic">每次提示</string>
     <string name="free_space">剩餘空間：</string>
-    <string name="cm_not_detected">你目前不是 LineageOS</string>
-    <string name="cm_profiles">LineageOS 設定</string>
     <string name="hotspot">網路分享</string>
-    <string name="temperature">溫度</string>
-    <string name="feels_like">體感</string>
-    <string name="humidity">濕度</string>
-    <string name="dew_point">露點</string>
     <string name="request_admin_explanation">此程式使用裝置管理員權限。\n
         此權限僅在「鎖定螢幕」使用，絕不挪作他用。</string>
-    <string name="weather_not_available">天氣未知</string>
     <string name="welcome_home_message">歡迎使用 快速設定</string>
     <string name="home">首頁</string>
     <string name="categories">類別</string>
@@ -190,7 +179,6 @@
     <string name="app_5">程式 &amp; 捷徑 #5</string>
     <string name="orientation_summary">手動更改旋轉方向 (包括 180°)</string>
     <string name="input_method_picker_summary">快速更改輸入法</string>
-    <string name="cm_profiles_summary">快速更改 CyanogenMod / LineageOS 設定</string>
     <string name="hotspot_summary">開啟 WiFi 分享</string>
     <string name="battery_saver_summary">開啟或關閉 AOSP 省電模式</string>
     <string name="position_summary">一鍵變更定位模式</string>
@@ -206,20 +194,16 @@
     <string name="search">搜尋</string>
     <string name="led_tile">LED 通知</string>
     <string name="led_tile_summary">開啟或關閉通知燈光</string>
-    <string name="show_weather_info_onclick">按下後顯示天氣資訊</string>
-    <string name="enable_location">請開啟定位服務</string>
     <string name="change_theme">變更主題</string>
     <string name="dark_theme">黑夜</string>
     <string name="light_theme">明亮</string>
 
-    <string name="cm_live_display_tile_summary">開啟或關閉 LiveDisplay</string>
     <string name="sound_panel_preference_summary">選擇最愛的音量類型</string>
     <string name="activity_crash_title">發生錯誤</string>
     <string name="activity_crash_subtitle">我們很抱歉發生了錯誤… QAQ</string>
     <string name="restart_app">重開程式</string>
     <string name="show_logcat">顯示日誌 (僅限 debug)</string>
     <string name="all">全部</string>
-    <string name="last_added">最新</string>
     <string name="sound_panel_type_auto">目前類型</string>
     <string name="sound_panel_type_ring">鈴聲</string>
     <string name="sound_panel_type_media">媒體</string>

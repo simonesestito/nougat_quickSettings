@@ -57,7 +57,6 @@
     <string name="ringer">Modo Tocar</string>
     <string name="permission_required">Permissão necessária</string>
     <string name="in_ear_summary">Ouça a música através do fone de ouvido para chamadas. Útil quando não tiver fone de ouvido externo</string>
-    <string name="lock_summary">Para desbloquear com impressões digitais, precisa ser rooteado</string>
     <string name="root_required">Requer permissão de superusuário</string>
     <string name="caffeina_summary">Mantenha a tela ligada</string>
     <string name="app_summary">Escolha um aplicativo para abrir</string>
@@ -116,9 +115,6 @@
     <string name="play_pause">Reproduzir / Pausar</string>
     <string name="play_pause_summary">Reproduz ou pausa a música atual do player de áudio</string>
     <string name="never_show">Não mostrar novamente</string>
-    <string name="weather">Clima</string>
-    <string name="weather_summary">Fornecido pela Google Awareness API</string>
-    <string name="weather_use_imperial">Use unidades imperiais ao invés de métricas</string>
     <string name="in_ear_hide_screen">Desliga a tela quando o telefone estiver próximo à sua cabeça</string>
     <string name="data_mobile">Dados móveis</string>
     <string name="vpn">VPN</string>
@@ -163,16 +159,9 @@
     <string name="immersive_preference">Escolha seu modo imersivo favorito</string>
     <string name="immersive_pref_generic">Escolher sempre</string>
     <string name="free_space">Espaço livre:</string>
-    <string name="cm_not_detected">Você não está executando o LineageOS</string>
-    <string name="cm_profiles">Perfis LineageOS</string>
     <string name="hotspot">Ponto de acesso</string>
-    <string name="temperature">Temperatura</string>
-    <string name="feels_like">Sinta-se à vontade</string>
-    <string name="humidity">Umidade</string>
-    <string name="dew_point">ponto de condensação da água</string>
     <string name="request_admin_explanation">Este aplicativo usa a permissão de Administrador do dispositivo.\n
         Essa permissão é necessária para bloquear a tela quando o usuário clicar na opção \'Bloqueio de tela\'. Essa permissão nunca será usada para outros fins</string>
-    <string name="weather_not_available">Clima não disponível</string>
     <string name="welcome_home_message">Bem-vindo às Configurações rápidas</string>
     <string name="home">Início</string>
     <string name="categories">Categorias</string>
@@ -188,7 +177,6 @@
     <string name="app_3">Aplicativo e Atalhos #3</string>
     <string name="orientation_summary">Altera a orientação da tela manualmente (180° incluso)</string>
     <string name="input_method_picker_summary">Altere o método de entrada rapidamente</string>
-    <string name="cm_profiles_summary">Mude o perfil CyanogenMod / LineageOS rapidamente</string>
     <string name="hotspot_summary">Ativa ponto de acesso Wi-Fi</string>
     <string name="battery_saver_summary">Ativa ou desativa a economia de bateria AOSP</string>
     <string name="position_summary">Altera o modo de localização com um toque</string>
@@ -203,19 +191,15 @@
     <string name="search">Procurar</string>
     <string name="led_tile">LED de notificação</string>
     <string name="led_tile_summary">Ativa ou desativa a luz de notificação</string>
-    <string name="show_weather_info_onclick">Mostra as informações do clima ao clicar no botão</string>
-    <string name="enable_location">Ativa um serviço de localização</string>
     <string name="change_theme">Muda o tema</string>
     <string name="dark_theme">Tema escuro</string>
     <string name="light_theme">Tema claro</string>
-    <string name="cm_live_display_tile_summary">Ativa ou desativa o LiveDisplay</string>
     <string name="sound_panel_preference_summary">Escolha seu tipo de volume favorito</string>
     <string name="activity_crash_title">Ocorreu um erro</string>
     <string name="activity_crash_subtitle">Sentimos muito por este travamento… :(</string>
     <string name="restart_app">Reinicia o aplicativo</string>
     <string name="show_logcat">Mostra logcat (somente debug)</string>
     <string name="all">Listar tudo</string>
-    <string name="last_added">Últimas adições</string>
     <string name="sound_panel_type_auto">Tipo de transmissão atual</string>
     <string name="sound_panel_type_ring">Toque</string>
     <string name="sound_panel_type_media">Volume de mídia</string>

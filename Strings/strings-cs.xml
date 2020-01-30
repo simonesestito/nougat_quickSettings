@@ -56,7 +56,6 @@
     <string name="ringer">Hlasitost vyzvánění</string>
     <string name="permission_required">Vyžadováno povolení</string>
     <string name="in_ear_summary">Poslouchejte hudbu reproduktorem pro hovory. Užitečné pokud nemáte sluchátka</string>
-    <string name="lock_summary">Pro odemčení otiskem musí být zařízení rootováno</string>
     <string name="root_required">Vyžádováno povolení root</string>
     <string name="caffeina_summary">Udržuje obrazovku zapnutou</string>
     <string name="app_summary">Vyberte aplikaci pro spuštění</string>
@@ -115,9 +114,6 @@
     <string name="play_pause">Přehrát / Pozastavit</string>
     <string name="play_pause_summary">Přehrát nebo pozastavit aktuální instanci přehrávače</string>
     <string name="never_show">Znovu nezobrazovat</string>
-    <string name="weather">Počasí</string>
-    <string name="weather_summary">Poskytuje rozhraní Google Awareness API</string>
-    <string name="weather_use_imperial">Používejte imperiální jednotky namísto metrické</string>
     <string name="in_ear_hide_screen">Skryjte obrazovku, když je telefon blízko vaší hlavy</string>
     <string name="data_mobile">Mobilní data</string>
     <string name="vpn">VPN</string>
@@ -162,16 +158,9 @@
     <string name="immersive_preference">Vyberte si svůj oblíbený imersivní režim</string>
     <string name="immersive_pref_generic">Zvolit pokaždé</string>
     <string name="free_space">Volné místo:</string>
-    <string name="cm_not_detected">Nepoužíváte LineageOS</string>
-    <string name="cm_profiles">LineageOS profily</string>
     <string name="hotspot">Hotspot</string>
-    <string name="temperature">Teplota</string>
-    <string name="feels_like">Pocitová teplota</string>
-    <string name="humidity">Vlhkost</string>
-    <string name="dew_point">Rosný bod</string>
     <string name="request_admin_explanation">Tato aplikace používá oprávnění administrátora zařízení.\n
         Toto oprávnění je vyžadováno k uzamčení obrazovky, když uživatel klepne na \'Zamknout obrazovku\'. Toto oprávnění se nikdy nepoužije pro jiné účely</string>
-    <string name="weather_not_available">Počasí není k dispozici</string>
     <string name="welcome_home_message">Vítejte v Quick Settings</string>
     <string name="home">Domů</string>
     <string name="categories">Kategorie</string>
@@ -187,7 +176,6 @@
     <string name="app_3">App &amp; Shortcuts #3</string>
     <string name="orientation_summary">Nastavit orientaci obrazovky manuálně (180° zahrnuto)</string>
     <string name="input_method_picker_summary">Rychle změnit metodu zadávání</string>
-    <string name="cm_profiles_summary">Změňte profil CyanogenMod / LineageOS rychle</string>
     <string name="hotspot_summary">Povolit hotspot WiFi</string>
     <string name="battery_saver_summary">Aktivujte nebo deaktivujte AOSP úsporu baterie</string>
     <string name="position_summary">Změňte režim polohy pomocí klepnutí</string>
@@ -202,10 +190,7 @@
     <string name="search">Hledat</string>
     <string name="led_tile">LED notifikační dioda</string>
     <string name="led_tile_summary">Povolení nebo zakázání LED diody</string>
-    <string name="show_weather_info_onclick">Zobrazí se dialogové okno s informacemi o počasí</string>
-    <string name="enable_location">Aktivujte službu určování polohy</string>
     <string name="change_theme">Změnit styl</string>
     <string name="dark_theme">Tmavý styl</string>
     <string name="light_theme">Světlý styl</string>
-    <string name="cm_live_display_tile_summary">Povolení nebo zakázání funkce LiveDisplay</string>
 </resources>

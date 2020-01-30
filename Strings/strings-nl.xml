@@ -183,11 +183,12 @@
 
         ]]>
     <string name="in_ear_summary">Luister naar muziek via de gespreksspeaker​ van je telefoon, handig wanneer je geen oortjes hebt.</string>
+    <![CDATA[
 
         
-    <string name="lock_summary">Je telefoon moet geroot zijn om te kunnen ontgrendelen met vingerafdruk.</string>
 
         
+    ]]>
     <string name="root_required">Root toestemming vereist</string>
 
         
@@ -360,18 +361,17 @@
         
 
         ]]>
-    <string name="never_show">Laat dit niet nog een keer zien</string>
+    <string name="never_show">Laat dit niet nog een keer zien</string><![CDATA[
 
         
-    <string name="weather">Weer</string>
 
         
-    <string name="weather_summary">Met dank aan Google Awareness API</string>
+
 
         
-    <string name="weather_use_imperial">Gebruik imperiale eenheden in plaats van metrische</string>
 
         
+    ]]>
     <string name="in_ear_hide_screen">Verberg het scherm als de telefoon dicht bij je hoofd zit</string>
 
         

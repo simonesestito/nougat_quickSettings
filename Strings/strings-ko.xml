@@ -56,7 +56,6 @@
     <string name="ringer">벨소리 모드</string>
     <string name="permission_required">권한이 필요합니다</string>
     <string name="in_ear_summary">전면의 전화 리시버를 통해 음악을 듣습니다. 헤드셋이 없다면 유용한 기능입니다</string>
-    <string name="lock_summary">지문으로 잠금을 해제하기 위해선 루팅이 필요합니다</string>
     <string name="root_required">루트 권한 필요</string>
     <string name="caffeina_summary">화면을 켜진 상태로 유지합니다</string>
     <string name="app_summary">실행할 앱을 선택하세요</string>

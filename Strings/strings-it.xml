@@ -57,7 +57,6 @@
     <string name="ringer">Suoneria</string>
     <string name="permission_required">Permesso richiesto</string>
     <string name="in_ear_summary">Ascolta la musica tramite la capsula auricolare delle telefonate. Utile se sei senza cuffie</string>
-    <string name="lock_summary">Per sbloccare con l\'impronta digitale è necessario il root</string>
     <string name="root_required">Root richiesto</string>
     <string name="caffeina_summary">Tiene sveglio lo schermo</string>
     <string name="app_summary">Scegli un\'app da avviare</string>
@@ -117,9 +116,6 @@
     <string name="storage_open_old_screen">Apri \"archiviazione\" anzichè il file manager di sistema</string>
     <string name="in_ear_hide_screen">Nascondi la schermata quando hai il dispositivo vicino l\'orecchio</string>
     <string name="never_show">Non mostrare più</string>
-    <string name="weather">Meteo</string>
-    <string name="weather_summary">Fornito da Google Awareness API</string>
-    <string name="weather_use_imperial">Usa °F anzichè °C</string>
     <string name="vpn">VPN</string>
     <string name="data_mobile">Dati mobili</string>
     <string name="data_mobile_summary">Attiva o disattiva i dati mobili.</string>
@@ -162,16 +158,9 @@
     <string name="immersive_pref_generic">Scegli ogni volta</string>
     <string name="input_method_picker">Selettore metodo di inserimento</string>
     <string name="reboot_system_ui">Riavvia System UI</string>
-    <string name="cm_not_detected">LineageOS non presente</string>
-    <string name="cm_profiles">Profili LineageOS</string>
     <string name="free_space">Spazio libero:</string>
-    <string name="dew_point">Punto di rugiada</string>
-    <string name="feels_like">Percepita</string>
     <string name="hotspot">Hotspot</string>
-    <string name="humidity">Umidità</string>
-    <string name="temperature">Temperatura</string>
     <string name="request_admin_explanation">Questa app usa il permesso Amministratore Dispositivo. Tale permesso è richiesto solo per bloccare lo schermo quando l\'utente preme sul tile \'Blocca schermo\'. Questo permesso non verrà mai utilizzato per altri scopi</string>
-    <string name="weather_not_available">Informazioni meteo non disponibili</string>
     <string name="adb_summary">Attiva o disattiva ADB</string>
     <string name="adb_wifi_summary">Attiva o disattiva Adb Over WiFi</string>
     <string name="app_1">App &amp; scorciatoie #1</string>
@@ -181,7 +170,6 @@
     <string name="app_5">App &amp; scorciatoie #5</string>
     <string name="battery_saver_summary">Attiva o disattiva il risparmio batteria AOSP</string>
     <string name="categories">Categorie</string>
-    <string name="cm_profiles_summary">Cambia il profilo LineageOS velocemente</string>
     <string name="empty_search_results">Nessun risultato</string>
     <string name="for_developers">Toggle per sviluppatori</string>
     <string name="home">Home</string>
@@ -201,19 +189,15 @@
     <string name="system_secure_adb">Sistema (secure)</string>
     <string name="utilities">Utilità</string>
     <string name="welcome_home_message">Benvenuto in Quick Settings</string>
-    <string name="enable_location">Per favore attiva la localizzazione</string>
     <string name="led_tile">LED di notifica</string>
     <string name="led_tile_summary">Attiva o disattiva il led di notifica</string>
     <string name="search">Cerca</string>
-    <string name="show_weather_info_onclick">Mostra info meteo al click</string>
     <string name="change_theme">Cambia tema</string>
     <string name="dark_theme">Tema scuro</string>
     <string name="light_theme">Tema chiaro</string>
-    <string name="cm_live_display_tile_summary">Attiva o disattiva LiveDisplay</string>
     <string name="activity_crash_subtitle">Ci scusiamo per il crash… :(</string>
     <string name="activity_crash_title">Si è verificato un errore</string>
     <string name="all">Mostra tutto</string>
-    <string name="last_added">Ultime aggiunte</string>
     <string name="restart_app">Riavvia l\'app</string>
     <string name="show_logcat">Mostra logcat (debug)</string>
     <string name="sound_panel_preference_summary">Scegli il tipo di audio da mostrare</string>
@@ -259,5 +243,16 @@
     <string name="enable_tile">Attiva tile</string>
     <string name="customize">Personalizza</string>
     <string name="watch_help_video">Guarda il video d\'aiuto</string>
+    <string name="sound_search_description">Apri Google Sound Search rapidamente</string>
+    <string name="notification_log_tile">Cronologia notifiche</string>
+    <string name="notification_log_description">Mostra la cronologia di sistema delle notifiche</string>
+    <string name="accessibility_explanation">Questa app usa i servizi di accessibilità. Questo permesso è richiesto per aiutare utenti a fare certe azioni dai Quick Settings. Aiuta anche le persone con disabilità a fare queste azioni.</string>
+    <string name="accessibility_short">Aiuta anche le persone con disabilità a fare queste azioni.</string>
+    <string name="accessibility_toast_message">Devi attivare il servizio Accessibilità per eseguire questa azione</string>
+    <string name="autocomplete_search_hint">Cerca</string>
+    <string name="not_allowed">Operazione negata per permessi insufficienti</string>
+    <string name="power_dialog_tile">Menu accensione</string>
+    <string name="split_screen_summary">Attiva Split Screen</string>
+    <string name="split_screen_tile">Split Screen</string>
 
 </resources>

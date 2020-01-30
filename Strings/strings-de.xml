@@ -57,7 +57,6 @@
     <string name="ringer">Tonprofil</string>
     <string name="permission_required">Berechtigung benötigt</string>
     <string name="in_ear_summary">Musikhören mittels der Hörmuschel. Nützlich wenn Sie kein Headset haben</string>
-    <string name="lock_summary">Zur Entsperrung mittels Fingerabdruck muss das Gerät gerooted sein</string>
     <string name="root_required">Root Berechtigung benötigt</string>
     <string name="caffeina_summary">Display wach halten</string>
     <string name="app_summary">App zum Starten auswählen</string>
@@ -116,9 +115,6 @@
     <string name="play_pause">Wiedergabe / Pause</string>
     <string name="play_pause_summary">Wiedergabe oder Pause der aktuellen Musik</string>
     <string name="never_show">Nicht wieder anzeigen</string>
-    <string name="weather">Wetter</string>
-    <string name="weather_summary">Bereitgestellt von Google Awareness API</string>
-    <string name="weather_use_imperial">Empirische Einheiten anstatt metrischer nutzen</string>
     <string name="in_ear_hide_screen">Display abschalten wenn sie das Gerät ans Ohr halten</string>
     <string name="data_mobile">Mobile Daten</string>
     <string name="vpn">VPN</string>
@@ -164,16 +160,9 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="immersive_preference">Wähle deinen bevorzugten Immersiv-Modus</string>
     <string name="immersive_pref_generic">Wähle jede Zeit</string>
     <string name="free_space">Freier Platz:</string>
-    <string name="cm_not_detected">Sie verwenden nicht LineageOS</string>
-    <string name="cm_profiles">LineageOS Profile</string>
     <string name="hotspot">Hotspot</string>
-    <string name="temperature">Temperatur</string>
-    <string name="feels_like">Gefühlt</string>
-    <string name="humidity">Luftfeuchtigkeit</string>
-    <string name="dew_point">Taupunkt</string>
     <string name="request_admin_explanation">Diese App nutzt die Geräteverwaltung.\n
         Diese Berechtigung wird benötigt um das Display zu sperren, wenn der Nutzer auf die \'Lock Screen\' Schaltfläche klickt. Diese Berechtigung wird nicht für andere Zwecke genutzt</string>
-    <string name="weather_not_available">Wetter nicht verfügbar</string>
     <string name="welcome_home_message">Willkommen bei Quick Settings</string>
     <string name="home">Home</string>
     <string name="categories">Kategorien</string>
@@ -189,7 +178,6 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="app_3">Apps &amp; Shortcuts #3</string>
     <string name="orientation_summary">Ändert Bildschirmorientierung manuell (180° inkludiert)</string>
     <string name="input_method_picker_summary">Ändert Eingabemethode</string>
-    <string name="cm_profiles_summary">Ändert CyanogenMod / LineageOS Profil</string>
     <string name="hotspot_summary">Aktiviert WiFi-Hotspot</string>
     <string name="battery_saver_summary">Aktiviere oder deaktiviere AOSP Energiesparmodus</string>
     <string name="position_summary">Ändert Standortdienst mit einem Tipp</string>
@@ -204,19 +192,15 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="search">Suche</string>
     <string name="led_tile">Benachrichtigungs-LED</string>
     <string name="led_tile_summary">Aktiviere oder deaktiviere die Benachrichtigungs-LED</string>
-    <string name="show_weather_info_onclick">Zeige Wetterdialog beim Tippen der Kachel</string>
-    <string name="enable_location">Bitte aktiviere einen Standortdienst</string>
     <string name="change_theme">Ändere Design</string>
     <string name="dark_theme">Dunkles Design</string>
     <string name="light_theme">Helles Design</string>
-    <string name="cm_live_display_tile_summary">Aktiviere oder deaktiviere das LiveDisplay</string>
     <string name="sound_panel_preference_summary">Wähle deinen bevorzugten Lautstärkemodus</string>
     <string name="activity_crash_title">Ein Fehler ist aufgetreten</string>
     <string name="activity_crash_subtitle">Uns tut dieser Fehler sehr leid… :(</string>
     <string name="restart_app">App-Neustart</string>
     <string name="show_logcat">Zeige logcat (debug only)</string>
     <string name="all">Alle</string>
-    <string name="last_added">Neueste Kacheln</string>
     <string name="sound_panel_type_auto">Current stream type</string>
     <string name="sound_panel_type_ring">Klingelton</string>
     <string name="sound_panel_type_media">Medien</string>
