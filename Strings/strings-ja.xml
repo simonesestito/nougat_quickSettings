@@ -66,7 +66,7 @@
     <string name="contact">連絡先</string>
     <string name="contact_summary">連絡先を素早く開きます</string>
     <string name="sound_summary">音量パネルを開きます</string>
-    <string name="brightness_auto_summary">明るさの自動調整を有効または無効にします</string>
+    <string name="brightness_auto_summary">明るさの自動調節を有効または無効にします</string>
     <string name="thanks">ありがとうございます</string>
     <string name="calculator">計算機</string>
     <string name="calc_summary">システムの電卓を起動します</string>
@@ -90,20 +90,20 @@
     <string name="bluefilter_color">フィルターの色を選択</string>
     <string name="bluefilter_summary">カラーフィルターを画面に適用します</string>
     <string name="brightness">明るさ</string>
-    <string name="brightness_summary">明るさを調整します</string>
+    <string name="brightness_summary">明るさを調節します</string>
     <string name="leave_review">レビューを書く</string>
     <string name="dice">ダイス</string>
     <string name="dice_summary">ダイスを振ります</string>
     <string name="night_filter_working">ナイトフィルターは実行中です</string>
     <string name="not_supported">サポートされていません</string>
     <string name="donation_s">0.99ドル</string>
-    <string name="donation_s_effective">作者の分け前はおよそ0.69ドルです</string>
+    <string name="donation_s_effective">作者の受取金額はおよそ0.69ドルです</string>
     <string name="donation_m">1.49ドル</string>
-    <string name="donation_m_effective">作者の分け前はおよそ1.00ドルです</string>
+    <string name="donation_m_effective">作者の受取金額はおよそ1.00ドルです</string>
     <string name="donation_l">1.99ドル</string>
-    <string name="donation_l_effective">作者の分け前はおよそ1.39ドルです</string>
+    <string name="donation_l_effective">作者の受取金額はおよそ1.39ドルです</string>
     <string name="donation_xl">4.49ドル</string>
-    <string name="donation_xl_effective">作者の分け前はおよそ3.14ドルです</string>
+    <string name="donation_xl_effective">作者の受取金額はおよそ3.14ドルです</string>
     <string name="donate">寄付する</string>
     <string name="order_number">受注番号</string>
     <string name="search_tile">検索</string>
@@ -160,7 +160,7 @@
     <string name="free_space">フリースペース:</string>
     <string name="hotspot">ホットスポット</string>
     <string name="request_admin_explanation">このアプリはデバイス管理者の権限を使用します。\nこの権限は「画面をロック」タイルをタップした時に画面をロックするのに必要です。この権限が他の目的に使用されることはありません。</string>
-    <string name="welcome_home_message">Nougat/Oreo Quick Settingsへようこそ</string>
+    <string name="welcome_home_message">Quick Settingsへようこそ</string>
     <string name="home">ホーム</string>
     <string name="categories">カテゴリー</string>
     <string name="utilities">ユーティリティー</string>
@@ -228,7 +228,7 @@
     <string name="battery_ongoing">バッテリーレベルを監視しています</string>
     <string name="screenshot_ongoing">スクリーンショットを処理しています</string>
     <string name="internet_speed">インターネット速度</string>
-    <string name="root_security_settings_short">ここをタップしてさらに多くの情報を表示</string>
+    <string name="root_security_settings_short">タップしてさらに多くの情報を表示する</string>
     <string name="root_security_settings_long">お使いの端末はroot化されていませんが、PCでアンロックできる可能性があります。\nhttps://smarturl.it/qs_enabler からソフトウェアをダウンロードしてください</string>
     <string name="more">さらに表示</string>
     <string name="battery_settings">バッテリー設定</string>
@@ -242,5 +242,14 @@
     <string name="enable_tile">タイルを有効化</string>
     <string name="customize">カスタマイズ</string>
     <string name="watch_help_video">ヘルプビデオを視聴</string>
-
+    <string name="sound_search_tile" translatable="false">Sound Search</string>
+    <string name="sound_search_description">Google Sound Searchを素早く起動します</string>
+    <string name="notification_log_tile">通知ログ</string>
+    <string name="notification_log_description">システムに保存されている通知ログを表示します</string>
+    <string name="not_allowed">権限の設定によりこの操作は許可されていません</string>
+    <string name="accessibility_short">Quick Settingsを利用して、障がい者がアクション(例:ハードウェアボタンを押す)を行う手助けをします。</string>
+    <string name="power_dialog_tile">電源メニュー</string>
+    <string name="split_screen_tile">画面分割</string>
+    <string name="split_screen_summary">画面分割を有効にします</string>
+    <string name="autocomplete_search_hint">検索</string>
 </resources>
