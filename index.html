@@ -1,9 +1,100 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Test page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>FAQ | Quick Settings</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
   </head>
   <body>
-    <h1>Test page</h1>
-    <p>This is a test page</p>
+    <header>
+      <img src="res/logo.png" alt="Quick Settings logo">
+      <h1>Quick Settings</h1>
+    </header>
+    <div class="container">
+      <h2>Frequently Asked Questions</h2>
+      <ul class="faqs">
+        <a name="how-to-use"></a>
+        <li class="faq-item">
+          <a href="#how-to-use" class="faq-link">
+          <img src="res/link.svg">
+          </a>
+          <h3>How can I use the app?</h3>
+          <p>In the first place, you need to ensure your device is properly supported 
+            (check out <a href="#supported-device">"Is the app supported on my device?"</a>).
+          </p>
+          <p>Then, open the app and click on a category you may be interested in.
+            Find a feature (or "tile") you want to enable, click on it and select <b>"Enable tile".</b>
+          </p>
+          <p>Finally, follow <a href="#after-enabling-features">"Where can I find the features I've enabled?"</a></p>
+        </li>
+        <a name="supported-devices"></a>
+        <li class="faq-item">
+          <a href="#supported-devices" class="faq-link">
+          <img src="res/link.svg">
+          </a>
+          <h3>Is the app supported on my device?</h3>
+          <p>The app requires at least Android 7.0 to work.</p>
+          <p>It may not work on some unpopular brands, but it's worth to give a try.
+            In case your smartphone or its brand is quite popular, 99% of the cases,
+            the app works just fine.
+          </p>
+          <p>If you're still having issues on a device of a popular brand, 
+            see <a href="#tiles-not-responding">"When I click on the tiles they don't respond."</a>
+          </p>
+        </li>
+        <a name="after-enabling-features"></a>
+        <li class="faq-item">
+          <a href="#after-enabling-features" class="faq-link">
+          <img src="res/link.svg">
+          </a>
+          <h3>Where can I find the features I've enabled?</h3>
+          <p>I understand this is the most difficult part of the app to understand, trust me.</p>
+          <p>Scroll down the notification panel twice, until it's fully expanded. Then, you may find a pencil icon or an "Edit" button (try scrolling horizontally or opening menus). Once you've found any of these, click it.</p>
+          <p>Here you can find some examples of those icons you need to click.</p>
+          <b>{ SCREENSHOTS }</b>
+          <p>Scroll down to the bottom: here you should see all the features you've enabled. Drag and drop them at the top of the screen, then close this menu.</p>
+          <p>All done, you're ready to go! Enjoy the app.</p>
+        </li>
+        <a name="tiles-not-responding"></a>
+        <li class="faq-item">
+          <a href="#tiles-not-responding" class="faq-link">
+          <img src="res/link.svg">
+          </a>
+          <h3>When I click on the tiles, they don't respond</h3>
+          <p>This is an issue which occurs on some brand's smartphones.</p>
+          <p>Go to <a href="https://dontkillmyapp.com/">dontkillmyapp.com</a> and click on the name of the brand of your smartphone. Finally, follow the steps under <b>"Solution for users"</b>.</p>
+          <p>In case the issue is still there, please send me an email.</p>
+        </li>
+        <a name="secure-adb-tiles"></a>
+        <li class="faq-item">
+          <a href="#secure-adb-tiles" class="faq-link">
+          <img src="res/link.svg">
+          </a>
+          <h3>How can I use the tiles in the "System secure" category?</h3>
+          <p>You need to use a tool on your computer. Detailed instructions are available at <a href="/qs-enabler.html">this page (QS Enabler)</a></p>
+        </li>
+        <a name="root-tiles"></a>
+        <li class="faq-item">
+          <a href="#root-tiles" class="faq-link">
+          <img src="res/link.svg">
+          </a>
+          <h3>How can I use the tiles which require root permission?</h3>
+          <p>Since you're looking at that message, it looks like you haven't root permission on your phone.</p>
+          <p>Don't you know what root permission is? Read <a href="https://www.androidauthority.com/root-android-277350/">this page on Android Authority</a>, it explains everything in detail. Anyway, in case you decide to go ahead and root your device, <u>I'm not responsible for anything that may happen.</u></p>
+          <p>In case you're actually using a rooted device, disable any system which hides root or send me an email.</p>
+        </li>
+        <a name="translation"></a>
+        <li class="faq-item">
+          <a href="#translation" class="faq-link">
+          <img src="res/link.svg">
+          </a>
+          <h3>How can I translate the app into my language?</h3>
+          <p>Detailed instructions about the procedure are available at <a href="https://github.com/simonesestito/nougat_quickSettings">this GitHub page</a></p>
+        </li>
+      </ul>
+    </div>
   </body>
 </html>
