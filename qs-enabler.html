@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>QS Enabler | Quick Settings</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+  </head>
+  <body>
+    <header>
+      <img src="res/logo.png" alt="Quick Settings logo">
+      <h1>Quick Settings</h1>
+    </header>
+
+    <div class="container">
+      <h2>QS Enabler</h2>
+      <p>Haven't you got root on your phone but you want to use most of features? No problem! QS Enabler is here for that.</p>
+
+      <h3>Note</h3>
+      <p>Only Windows is supported at the moment</p>
+      <p>If you run a Linux distro, it's supposed that you are able to use a command-line utility. You can jump to the <a href="#linux">instructions for Linux users</a></p>
+
+      <a name="windows"></a>
+      <h3>Instructions for Windows users</h3>
+
+      <ol>
+        <li>
+          <h4>Download the ZIP file</h4>
+          <p>Download the ZIP file <a href="https://drive.google.com/file/d/1irlIOm9yIqfwhwhB0jsOqX1lEWSf_9aF/view?usp=drivesdk">here</a></p>
+          <p>Unzip the file you've just downloaded in a folder on your PC.</p>
+        </li>
+        <li>
+          <h4>Enable USB Debugging</h4>
+          <p>Enable <b>Developer Options</b>. To do that you have to go to system settings, open the device info screen (where there is the Android version too), then tap <b>7 times</b> on <b>Build Number</b>.</p>
+          <p>On your phone, go in <b>Developer Options</b> and enable <b>USB Debugging</b>.
+          <p>Connect your phone to the computer via USB cable. If a popup is displayed on your device, click <b>Allow</b>.</p>
+        </li>
+        <li>
+          <h4>Run it</h4>
+          <p>Once you've connected your phone to the PC, open the folder where you have unzipped the .zip, execute the run file</p>
+          <p>On Windows: double click on <i>run.bat</i></p>
+        </li>
+        <li>
+          <h4>Enjoy!</h4>
+          <p>Now you have unlocked all features available without root.</p>
+          <p>Issues using the app? Check out the <a href="index.html">FAQ page</a></p>
+        </li>
+      </ol>
+
+      <a name="linux"></a>
+      <h3>Instructions for Linux users</h3>
+      <p>You can download ADB <a href="https://developer.android.com/studio/releases/platform-tools.html">here</a>, open terminal in the unzipped folder,
+      connect your phone, then type
+      <code>./adb shell pm grant it.simonesestito.ntiles android.permission.WRITE_SECURE_SETTINGS</code>.
+      Finally, restart the app.</p>
+    </div>
+  </body>
+</html>
