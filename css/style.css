@@ -45,14 +45,45 @@ h2 {
   list-style: none;
 }
 
-.faq-item > h3 {
+.faqs li {
+  margin-bottom: 16px;
+}
+
+.faqs li a[href] * {
+  vertical-align: middle;
+}
+
+.faqs h3 {
   display: inline;
   margin-left: 6px;
 }
 
-.faq-link {
-  display: inline;
-  cursor: pointer;
+.faqs a[name] {
+  display: block;
+  margin-top: -25vh;
+  height: 25vh;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.faqs li img {
+  transform: rotate(-90deg);
+}
+
+.faqs li p {
+  display: none;
+}
+
+.faqs li.active img {
+  transform: none;
+}
+
+.faqs li.active p {
+  display: block;
+}
+
+.faqs > li > a {
+  color: black;
   text-decoration: none;
   outline: none;
 }
