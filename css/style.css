@@ -57,6 +57,11 @@ h1 {
   font-size: 1.8em;
 }
 
+.app-logo {
+  width: 64px;
+  height: 64px;
+}
+
 .container {
   max-width: 800px;
   min-height: calc(100vh - 1.8em - 146px);
