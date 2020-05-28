@@ -162,9 +162,6 @@
     <string name="hotspot">Taşınabilir WiFi</string>
     <string name="request_admin_explanation">Bu uygulama cihaz yöneticisi izni gerektiriyor.\n
         Bu izin, kullanıcı \'Ekranı Kilitle\' karesini kullanması ve ekranı kiltlemesi için gereklidir. Bu izin asla başka amaçlarla kullanılmayacaktır.</string>
-    <string name="welcome_home_message">Nougat/Oreo Hızlı Ayarlarına Hoş Geldiniz</string>
-    <string name="home">Ana Ekran</string>
-    <string name="categories">Kategoriler</string>
     <string name="utilities">Araçlar</string>
     <string name="multimedia">Multimedya</string>
     <string name="shortcuts">Kısayollar</string>
@@ -193,15 +190,11 @@
     <string name="search">Ara</string>
     <string name="led_tile">Bildirim LEDi</string>
     <string name="led_tile_summary">Bildirim ışığını etkinleştir veya devre dışı bırak</string>
-    <string name="change_theme">Temayı değiştir</string>
-    <string name="dark_theme">Kara tema</string>
-    <string name="light_theme">Açık tema</string>
     <string name="sound_panel_preference_summary">Favori ses tipini seç</string>
     <string name="activity_crash_title">Bir hata oluştu</string>
     <string name="activity_crash_subtitle">Bu hata için gerçekten üzgünüz… :(</string>
     <string name="restart_app">Uygulamayı yeniden başlat</string>
     <string name="show_logcat">Logcat kayıtını göster (sadece ayıklama)</string>
-    <string name="all">Hepsini listele</string>
     <string name="sound_panel_type_auto">Mevcut yayın tipi</string>
     <string name="sound_panel_type_ring">Zil</string>
     <string name="sound_panel_type_media">Medya sesi</string>
@@ -231,6 +224,4 @@
     <string name="screenshot_ongoing">Ekran görüntüsü işleniyor</string>
     <string name="internet_speed">İnternet Hızı</string>
     <string name="root_security_settings_short">Daha fazla bilgi için tıklayın</string>
-    <string name="root_security_settings_long">Cihazınız rootlu değil ise, bir bilgisayar tarafından uygulanabilir.\nBilgisayarınızda, yazılımı indirmek için şu adrese girin https://smarturl.it/qs_enabler</string>
-    <string name="more">Daha fazla</string>
 </resources>

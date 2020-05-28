@@ -161,9 +161,6 @@
     <string name="free_space">剩余空间：</string>
     <string name="hotspot">无线热点</string>
     <string name="request_admin_explanation">此应用程序使用设备管理员权限, \n 此权限绝不用于其他用途。</string>
-    <string name="welcome_home_message">欢迎使用Quick Settings</string>
-    <string name="home">主页</string>
-    <string name="categories">分类</string>
     <string name="utilities">使用工具</string>
     <string name="multimedia">多媒体</string>
     <string name="shortcuts">快捷方式</string>
@@ -190,14 +187,10 @@
     <string name="search">搜索</string>
     <string name="led_tile">LED提醒 </string>
     <string name="led_tile_summary">启用或禁用通知LED指示</string>
-    <string name="change_theme">改变主题</string>
-    <string name="dark_theme">夜间主题</string>
-    <string name="light_theme">日间主题</string>
     <string name="sound_panel_preference_summary">选择你喜欢的音量类型</string>
     <string name="activity_crash_title">出现了一个错误</string>
     <string name="restart_app">重新启动应用</string>
     <string name="show_logcat">显示日志（仅用于调试）</string>
-    <string name="all">显示所有的</string>
     <string name="sound_panel_type_auto">流式传输类型</string>
     <string name="sound_panel_type_ring">铃声</string>
     <string name="sound_panel_type_media">媒体音量</string>

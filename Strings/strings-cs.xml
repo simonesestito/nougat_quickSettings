@@ -161,9 +161,6 @@
     <string name="hotspot">Hotspot</string>
     <string name="request_admin_explanation">Tato aplikace používá oprávnění administrátora zařízení.\n
         Toto oprávnění je vyžadováno k uzamčení obrazovky, když uživatel klepne na \'Zamknout obrazovku\'. Toto oprávnění se nikdy nepoužije pro jiné účely</string>
-    <string name="welcome_home_message">Vítejte v Quick Settings</string>
-    <string name="home">Domů</string>
-    <string name="categories">Kategorie</string>
     <string name="utilities">Nástroje</string>
     <string name="multimedia">Multimédia</string>
     <string name="shortcuts">Zkratky</string>
@@ -190,7 +187,4 @@
     <string name="search">Hledat</string>
     <string name="led_tile">LED notifikační dioda</string>
     <string name="led_tile_summary">Povolení nebo zakázání LED diody</string>
-    <string name="change_theme">Změnit styl</string>
-    <string name="dark_theme">Tmavý styl</string>
-    <string name="light_theme">Světlý styl</string>
 </resources>

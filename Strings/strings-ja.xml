@@ -160,9 +160,6 @@
     <string name="free_space">フリースペース:</string>
     <string name="hotspot">ホットスポット</string>
     <string name="request_admin_explanation">このアプリはデバイス管理者の権限を使用します。\nこの権限は「画面をロック」タイルをタップした時に画面をロックするのに必要です。この権限が他の目的に使用されることはありません。</string>
-    <string name="welcome_home_message">Quick Settingsへようこそ</string>
-    <string name="home">ホーム</string>
-    <string name="categories">カテゴリー</string>
     <string name="utilities">ユーティリティー</string>
     <string name="multimedia">マルチメディア</string>
     <string name="shortcuts">ショートカット</string>
@@ -191,15 +188,11 @@
     <string name="search">検索</string>
     <string name="led_tile">通知LED</string>
     <string name="led_tile_summary">通知ライトを有効または無効にします</string>
-    <string name="change_theme">テーマを変更</string>
-    <string name="dark_theme">ダークテーマ</string>
-    <string name="light_theme">ライトテーマ</string>
     <string name="sound_panel_preference_summary">お気に入りの音量の種類を選択します</string>
     <string name="activity_crash_title">エラーが発生しました</string>
     <string name="activity_crash_subtitle">クラッシュしてしまい申し訳ありません…(´・ω・｀)</string>
     <string name="restart_app">アプリを再起動</string>
     <string name="show_logcat">logcatを表示(デバッグのみ)</string>
-    <string name="all">すべて表示</string>
     <string name="sound_panel_type_auto">現在のストリームの種類</string>
     <string name="sound_panel_type_ring">着信</string>
     <string name="sound_panel_type_media">メディアのボリューム</string>
@@ -229,19 +222,14 @@
     <string name="screenshot_ongoing">スクリーンショットを処理しています</string>
     <string name="internet_speed">インターネット速度</string>
     <string name="root_security_settings_short">タップしてさらに多くの情報を表示する</string>
-    <string name="root_security_settings_long">お使いの端末はroot化されていませんが、PCでアンロックできる可能性があります。\nhttps://smarturl.it/qs_enabler からソフトウェアをダウンロードしてください</string>
-    <string name="more">さらに表示</string>
     <string name="battery_settings">バッテリー設定</string>
     <string name="battery_onclick">タイルをタップして設定を開く</string>
     <string name="screenshot_edit">編集</string>
-    <string name="app_splash_subtitle">使い方に困っていますか？下のヘルプボタンをタップして詳細なビデオを確認してください</string>
-    <string name="app_splash_get_started">初めに、下部のドロワーアイコンを押してください</string>
     <string name="alert_hide_launcher">アプリはランチャーから非表示になります。\n続行するには、適用されたタイルを長押ししてください。</string>
     <string name="show_in_launcher">ランチャーに表示</string>
     <string name="disable_tile">タイルを無効化</string>
     <string name="enable_tile">タイルを有効化</string>
     <string name="customize">カスタマイズ</string>
-    <string name="watch_help_video">ヘルプビデオを視聴</string>
     <string name="sound_search_tile" translatable="false">Sound Search</string>
     <string name="sound_search_description">Google Sound Searchを素早く起動します</string>
     <string name="notification_log_tile">通知ログ</string>

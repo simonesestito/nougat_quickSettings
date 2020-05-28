@@ -158,9 +158,6 @@
     <string name="hotspot">Точка доступа</string>
     <string name="request_admin_explanation"> Это отдельное приложение предназначено для использования разрешения администратора устройства. \n
         Это разрешение требуется для блокировки экрана, когда пользователь нажимает на плитку \'Lock Screen\' . Оно никогда не будет использоваться для других целей</string>
-    <string name="welcome_home_message">Добро пожаловать в Quick Settings</string>
-    <string name="home">Главный экран</string>
-    <string name="categories">Категории</string>
     <string name="utilities">Утилиты</string>
     <string name="multimedia">Мультимедиа</string>
     <string name="shortcuts">Ярлыки</string>
@@ -189,15 +186,11 @@
     <string name="search">Поиск</string>
     <string name="led_tile">Уведомпления светодиодом</string>
     <string name="led_tile_summary">Включение и отключение индикации уведомлений</string>
-    <string name="change_theme">Изменить тему</string>
-    <string name="dark_theme">Тёмная тема</string>
-    <string name="light_theme">Светлая тема</string>
     <string name="sound_panel_preference_summary">Выберите свой любимый уровень</string>
     <string name="activity_crash_title">Произошла ошибка</string>
     <string name="activity_crash_subtitle">Нам очень жаль жаль, что произошла такая ошибка… :(</string>
     <string name="restart_app">Перезагрузить приложение</string>
     <string name="show_logcat">Показать журнал (режим отладки)</string>
-    <string name="all">Показать всё</string>
     <string name="sound_panel_type_auto">Тип текущего потока</string>
     <string name="sound_panel_type_ring">Круг</string>
     <string name="sound_panel_type_media">Громкость мультимедиа</string>
@@ -226,7 +219,6 @@
     <string name="screenshot_ongoing">Обработка снимков экрана</string>
     <string name="internet_speed">Скорость интернета</string>
     <string name="root_security_settings_short">Для получения дополнительной информации нажмите здесь</string>
-    <string name="more">Больше</string>
     <string name="battery_settings">Настройки батареи</string>
     <string name="battery_onclick">Открыть настройки на плитке</string>
 </resources>

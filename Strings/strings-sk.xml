@@ -163,9 +163,6 @@
     <string name="hotspot">Hotspot</string>
     <string name="request_admin_explanation">Táto aplikácia používa povolenie správcu zariadenia.\n
         Toto povolenie je potrebné na uzamknutie obrazovky, keď používateľ klikne na \'Uzamknúť obrazovku\'. Toto povolenie sa nikdy nepoužije na iné účely</string>
-    <string name="welcome_home_message">Vitajte v Nougat/Oreo rýchlych nastaveniach</string>
-    <string name="home">Domov</string>
-    <string name="categories">Kategórie</string>
     <string name="utilities">Nástroje</string>
     <string name="multimedia">Multimédia</string>
     <string name="shortcuts">Skratky</string>
@@ -197,15 +194,11 @@
     <string name="search">Hľadať</string>
     <string name="led_tile">Notifikačná LED</string>
     <string name="led_tile_summary">Zapne alebo vypne notifikačný blesk</string>
-    <string name="change_theme">Zmeniť tému</string>
-    <string name="dark_theme">Tmavá téma</string>
-    <string name="light_theme">Svetlá téma</string>
     <string name="sound_panel_preference_summary">Vyberte si svoj obľúbený typ hlasitosti</string>
     <string name="activity_crash_title">Došlo k chybe</string>
     <string name="activity_crash_subtitle">Je nám úplne ľúto, že došlo k tejto chybe… :(</string>
     <string name="restart_app">Reštartovať aplikáciu</string>
     <string name="show_logcat">Zobraziť logcat (len ladenie)</string>
-    <string name="all">Zoznam všetkých</string>
     <string name="sound_panel_type_auto">Aktuálny typ streamu</string>
     <string name="sound_panel_type_ring">Zvoniť</string>
     <string name="sound_panel_type_media">Hlasitosť médií</string>
@@ -235,8 +228,6 @@
     <string name="screenshot_ongoing">Spracovanie screenshotu</string>
     <string name="internet_speed">Rýchlosť internetu</string>
     <string name="root_security_settings_short">Kliknite tu pre viac informácií</string>
-    <string name="root_security_settings_long">Nemáte root, ale môžete ho odomknúť pomocou počítača.\nV počítači prejdite na https://smarturl.it/qs_enabler pre stiahnutie softvéru</string>
-    <string name="more">Viac</string>
     <string name="battery_settings">Nastavenia batérie</string>
     <string name="battery_onclick">Otvoriť nastavenia</string>
 </resources>

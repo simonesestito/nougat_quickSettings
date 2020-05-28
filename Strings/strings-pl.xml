@@ -162,9 +162,6 @@
     <string name="hotspot">Punkt dostępu</string>
     <string name="request_admin_explanation">Aplikacja używa uprawnień administratora.\n
         Jest to wymagane, aby zablokować ekran po kliknięciu na kafelek \'Zablokuj ekran\'. Uprawnienie nie jest używane w żadnych innych celach.</string>
-    <string name="welcome_home_message">Witaj w Quick Settings</string>
-    <string name="home">Strona główna</string>
-    <string name="categories">Kategorie</string>
     <string name="utilities">Narzędzia</string>
     <string name="multimedia">Multimedia</string>
     <string name="shortcuts">Skróty</string>
@@ -196,15 +193,11 @@
     <string name="search">Szukaj</string>
     <string name="led_tile">Dioda powiadomień</string>
     <string name="led_tile_summary">Włącz lub wyłącz diodę powiadomień</string>
-    <string name="change_theme">Zmień motyw</string>
-    <string name="dark_theme">Ciemny motyw</string>
-    <string name="light_theme">Jasny motyw</string>
     <string name="sound_panel_preference_summary">Wybierz panel głośności</string>
     <string name="activity_crash_title">Wystąpił błąd</string>
     <string name="activity_crash_subtitle">Serdecznie przepraszamy za awarię… :(</string>
     <string name="restart_app">Uruchom aplikację ponownie</string>
     <string name="show_logcat">Pokaż logi (tylko debugowanie)</string>
-    <string name="all">Lista wszystkich</string>
     <string name="sound_panel_type_auto">Aktualnie używany</string>
     <string name="sound_panel_type_ring">Dzwonek</string>
     <string name="sound_panel_type_media">Multimedia</string>
@@ -234,8 +227,6 @@
     <string name="screenshot_ongoing">Przetwarzanie zrzutu ekranu</string>
     <string name="internet_speed">Prędkość internetu</string>
     <string name="root_security_settings_short">Naciśnij po więcej informacji</string>
-    <string name="root_security_settings_long">Nie masz roota, ale możesz to odblokwać za pomocą komputera.\nNa komputerze przejdź na https://smarturl.it/qs_enabler, aby pobrać odpowiedni program</string>
-    <string name="more">Więcej</string>
     <string name="battery_settings">Ustawienia baterii</string>
     <string name="battery_onclick">Otwórz ustawienia po kliknięciu</string>
     <string name="screenshot_edit">Edytuj</string>

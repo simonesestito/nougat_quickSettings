@@ -162,9 +162,6 @@
     <string name="hotspot">Ponto de acesso</string>
     <string name="request_admin_explanation">Este aplicativo usa a permissão de Administrador do dispositivo.\n
         Essa permissão é necessária para bloquear a tela quando o usuário clicar na opção \'Bloqueio de tela\'. Essa permissão nunca será usada para outros fins</string>
-    <string name="welcome_home_message">Bem-vindo às Configurações rápidas</string>
-    <string name="home">Início</string>
-    <string name="categories">Categorias</string>
     <string name="utilities">Utilitários</string>
     <string name="multimedia">Multimídia</string>
     <string name="shortcuts">Atalhos</string>
@@ -191,15 +188,11 @@
     <string name="search">Procurar</string>
     <string name="led_tile">LED de notificação</string>
     <string name="led_tile_summary">Ativa ou desativa a luz de notificação</string>
-    <string name="change_theme">Muda o tema</string>
-    <string name="dark_theme">Tema escuro</string>
-    <string name="light_theme">Tema claro</string>
     <string name="sound_panel_preference_summary">Escolha seu tipo de volume favorito</string>
     <string name="activity_crash_title">Ocorreu um erro</string>
     <string name="activity_crash_subtitle">Sentimos muito por este travamento… :(</string>
     <string name="restart_app">Reinicia o aplicativo</string>
     <string name="show_logcat">Mostra logcat (somente debug)</string>
-    <string name="all">Listar tudo</string>
     <string name="sound_panel_type_auto">Tipo de transmissão atual</string>
     <string name="sound_panel_type_ring">Toque</string>
     <string name="sound_panel_type_media">Volume de mídia</string>
@@ -231,8 +224,6 @@
     <string name="screenshot_ongoing">Processando a captura de tela</string>
     <string name="internet_speed">Velocidade da Internet</string>
     <string name="root_security_settings_short">Clique aqui para obter mais informações</string>
-    <string name="root_security_settings_long">Você não está rooteado, mas isto pode ser desbloqueado usando um PC.\\nNo seu computador, vá para https://smarturl.it/qs_enabler para baixar o programa</string>
-    <string name="more">Mais</string>
     <string name="battery_settings">Configurações de bateria</string>
 
 </resources>

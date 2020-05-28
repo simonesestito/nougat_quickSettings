@@ -162,9 +162,6 @@
     <string name="free_space">المساحة الفارغة:</string>
     <string name="hotspot">نقطة البث النقّالة</string>
     <string name="request_admin_explanation">هذا التطبيق يستخدم إذن المسؤول للهاتف. \nهذا الإذن مطلوب لقفل الشاشة عندما يضغط المستخدم على مربع \"قفل الشاشة\". لن يتم إستخدام هذا الإذن لأي أغراض أخرى</string>
-    <string name="welcome_home_message">أهلاً وسهلاً بك إلى تطبيق إعدادات السريعة</string>
-    <string name="home">الرئيسية</string>
-    <string name="categories">الأقسام</string>
     <string name="utilities">الأدوات</string>
     <string name="multimedia">الوسائط المتعددة</string>
     <string name="shortcuts">الإختصارات</string>
@@ -193,15 +190,11 @@
     <string name="search">بحث</string>
     <string name="led_tile">ضوء الإشعارات</string>
     <string name="led_tile_summary">تفعيل أو إلغاء تفعيل ضوء الإشعارات</string>
-    <string name="change_theme">تغيير المظهر</string>
-    <string name="dark_theme">ألوان داكنة</string>
-    <string name="light_theme">ألوان فاتحة</string>
     <string name="sound_panel_preference_summary">إختر وضع الصوت المفضّل لديك</string>
     <string name="activity_crash_title">حَدث خطأ</string>
     <string name="activity_crash_subtitle">نحن آسفون جدّاً لهذا الخطأ :(</string>
     <string name="restart_app">إعادة تشغيل التطبيق</string>
     <string name="show_logcat">إظهار logcat (وضع الكشف عن الاخطاء فقط)</string>
-    <string name="all">إظهار الكل</string>
     <string name="sound_panel_type_auto">وضع البث الحالي</string>
     <string name="sound_panel_type_ring">رنين</string>
     <string name="sound_panel_type_media">مستوى صوت الوسائط</string>
@@ -231,8 +224,6 @@
     <string name="screenshot_ongoing">جاري معالجة لقطة الشاشة</string>
     <string name="internet_speed">سرعة الإنترنت</string>
     <string name="root_security_settings_short">إضغط هنا لمعلومات أكثر</string>
-    <string name="root_security_settings_long">جهازك لا يحتوي على روت, لكن يمكنك الحصول على مميّزات هذا التطبيق بدون روت, قم بالذهاب إلى https://smarturl.it/qs_enabler لتنزيل البرنامج اللازم</string>
-    <string name="more">المزيد</string>
     <string name="battery_settings">إعدادات البطارية</string>
     <string name="battery_onclick">فتح الإعدادات عند الضغط على المربع</string>
 

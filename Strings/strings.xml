@@ -164,9 +164,6 @@
     <string name="hotspot">Hotspot</string>
     <string name="request_admin_explanation">This app uses the Device Administrator permission.\n
         This permission is required to lock the screen when the user clicks on the \'Lock Screen\' tile. This permission will never be used for other purposes</string>
-    <string name="welcome_home_message">Welcome to Quick Settings</string>
-    <string name="home">Home</string>
-    <string name="categories">Categories</string>
     <string name="utilities">Utilities</string>
     <string name="multimedia">Multimedia</string>
     <string name="shortcuts">Shortcuts</string>
@@ -196,15 +193,11 @@
     <string name="search">Search</string>
     <string name="led_tile">Notification LED</string>
     <string name="led_tile_summary">Enable or disable notification light</string>
-    <string name="change_theme">Change theme</string>
-    <string name="dark_theme">Dark theme</string>
-    <string name="light_theme">Light theme</string>
     <string name="sound_panel_preference_summary">Choose your favourite volume type</string>
     <string name="activity_crash_title">An error has occurred</string>
     <string name="activity_crash_subtitle">We are really sorry for this crash… :(</string>
     <string name="restart_app">Restart the app</string>
     <string name="show_logcat">Show logcat (debug only)</string>
-    <string name="all">List all</string>
     <string name="sound_panel_type_auto">Current stream type</string>
     <string name="sound_panel_type_ring">Ring</string>
     <string name="sound_panel_type_media">Media volume</string>
@@ -234,19 +227,14 @@
     <string name="screenshot_ongoing">Processing screenshot</string>
     <string name="internet_speed">Internet speed</string>
     <string name="root_security_settings_short">Click here for more information</string>
-    <string name="root_security_settings_long">You are not rooted, but this can be unlocked using a PC.\nOn your computer, go to https://smarturl.it/qs_enabler to download the software</string>
-    <string name="more">More</string>
     <string name="battery_settings">Battery settings</string>
     <string name="battery_onclick">Open settings on tile click</string>
     <string name="screenshot_edit">Edit</string>
-    <string name="app_splash_subtitle">Confused about the usage? Click the help button below for a detailed video</string>
-    <string name="app_splash_get_started">To get started, press the drawer icon at the bottom</string>
     <string name="alert_hide_launcher">The app will be hidden from launcher.\nTo continue using it, long press on an applied tile.</string>
     <string name="show_in_launcher">Show in launcher</string>
     <string name="disable_tile">Disable tile</string>
     <string name="enable_tile">Enable tile</string>
     <string name="customize">Customize</string>
-    <string name="watch_help_video">Watch help video</string>
     <string name="sound_search_tile" translatable="false">Sound Search</string>
     <string name="sound_search_description">Quick launch Google Sound Search</string>
     <string name="notification_log_tile">Notifications history</string>
@@ -257,4 +245,7 @@
     <string name="split_screen_tile">Split Screen</string>
     <string name="split_screen_summary">Enable Split Screen</string>
     <string name="autocomplete_search_hint">Search</string>
+    <string name="join_telegram_channel">Join Telegram channel</string>
+    <string name="help_faq_page">Issues? Visit our FAQ page</string>
+    <string name="support_app_review_donation">Support the app development</string>
 </resources>

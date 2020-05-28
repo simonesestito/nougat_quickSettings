@@ -162,9 +162,6 @@
     <string name="hotspot">網路分享</string>
     <string name="request_admin_explanation">此程式使用裝置管理員權限。\n
         此權限僅在「鎖定螢幕」使用，絕不挪作他用。</string>
-    <string name="welcome_home_message">歡迎使用 快速設定</string>
-    <string name="home">首頁</string>
-    <string name="categories">類別</string>
     <string name="utilities">實用</string>
     <string name="multimedia">媒體</string>
     <string name="shortcuts">捷徑</string>
@@ -194,16 +191,12 @@
     <string name="search">搜尋</string>
     <string name="led_tile">LED 通知</string>
     <string name="led_tile_summary">開啟或關閉通知燈光</string>
-    <string name="change_theme">變更主題</string>
-    <string name="dark_theme">黑夜</string>
-    <string name="light_theme">明亮</string>
 
     <string name="sound_panel_preference_summary">選擇最愛的音量類型</string>
     <string name="activity_crash_title">發生錯誤</string>
     <string name="activity_crash_subtitle">我們很抱歉發生了錯誤… QAQ</string>
     <string name="restart_app">重開程式</string>
     <string name="show_logcat">顯示日誌 (僅限 debug)</string>
-    <string name="all">全部</string>
     <string name="sound_panel_type_auto">目前類型</string>
     <string name="sound_panel_type_ring">鈴聲</string>
     <string name="sound_panel_type_media">媒體</string>
@@ -233,13 +226,9 @@
     <string name="screenshot_ongoing">處理螢幕截圖</string>
     <string name="internet_speed">網路速度</string>
     <string name="root_security_settings_short">按此了解更多</string>
-    <string name="root_security_settings_long">您的裝置尚未取得 Root 權限，但可以從電腦解鎖功能。\n到您的電腦下載這個程式 https://smarturl.it/qs_enabler </string>
-    <string name="more">更多</string>
     <string name="battery_settings">電池設定</string>
     <string name="battery_onclick">輕觸磁磚可以開啟設定</string>
     <string name="screenshot_edit">編輯</string>
-    <string name="app_splash_subtitle">不曉得如何使用？按下方幫助按鈕觀看教學影片</string>
-    <string name="app_splash_get_started">要開始使用，請按底部的抽屜圖示</string>
     <string name="alert_hide_launcher">應用程式將從啟動器中隱藏。\n要繼續使用它，請長按已套用的磁磚。</string>
     <string name="show_in_launcher">在啟動器顯示</string>
     <string name="disable_tile">按此停用</string>

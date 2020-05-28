@@ -162,9 +162,6 @@
     <string name="hotspot">Hotspot</string>
     <string name="request_admin_explanation">Aplikasi ini membutuhkan perizinan administrasi perangkat.\n
         Izin ini diperlukan untuk mengunci layar ketika pengguna mengklik pada \'Lock Screen\' ubin. Perizinan itu akan di gunakan untuk tujuan ini</string>
-    <string name="welcome_home_message">Selamat datang ke Pengaturan Cepat</string>
-    <string name="home">Rumah</string>
-    <string name="categories">Kategori</string>
     <string name="utilities">Utilitas</string>
     <string name="multimedia">Multimedia</string>
     <string name="shortcuts">Jalan pintas</string>
@@ -193,15 +190,11 @@
     <string name="search">Pencarian</string>
     <string name="led_tile">Notifikasi LEad</string>
     <string name="led_tile_summary">Aktifkan atau non-aktifkan notifikasi cahaya</string>
-    <string name="change_theme">Ganti tema</string>
-    <string name="dark_theme">Tema gelap</string>
-    <string name="light_theme">Tema cerah</string>
     <string name="sound_panel_preference_summary">Pilih suara favoritmu</string>
     <string name="activity_crash_title">Sebuah kesalahan telah terjadi</string>
     <string name="activity_crash_subtitle">Kami sangat meminta maaf atas masalah ini… :(</string>
     <string name="restart_app">Mulai ulang aplikasi</string>
     <string name="show_logcat">Tampilkan logcat (hanya mode debug)</string>
-    <string name="all">Semua daftar</string>
     <string name="sound_panel_type_auto">Tipe aliran saat ini</string>
     <string name="sound_panel_type_ring">Dering</string>
     <string name="sound_panel_type_media">Suara media</string>
@@ -231,19 +224,14 @@
     <string name="screenshot_ongoing">Memproses tangkapan layar</string>
     <string name="internet_speed">Kecepatan internet</string>
     <string name="root_security_settings_short">Klik di sini untuk lebih banyak informasi</string>
-    <string name="root_security_settings_long">Kamu tidak dalam mode root, tapi masih dapat di gunakan dengan bantuan komputer.\nKunjungi tautan berikut https://smarturl.it/qs_enabler untuk mengunduh berkas tambahan</string>
-    <string name="more">Lainnya</string>
     <string name="battery_settings">Pengaturan baterai</string>
     <string name="battery_onclick">Buka pengaturan di mode ubin</string>
     <string name="screenshot_edit">Sunting</string>
-    <string name="app_splash_subtitle">Bingung tentang penggunaannya? Klik tombol bantuan dibawah untuk video yang terperinci</string>
-    <string name="app_splash_get_started">Untuk memulai, tekan ikon laci dibawah</string>
     <string name="alert_hide_launcher">Aplikasi ini akan disembunyikan dari peluncur.\nUntuk kembali menggunakan, tekan lama pada ubin yang diterapkan.</string>
     <string name="show_in_launcher">Tampilkan di peluncur</string>
     <string name="disable_tile">Matikan ubin</string>
     <string name="enable_tile">Aktifkan ubin</string>
     <string name="customize">Kostumisasi</string>
-    <string name="watch_help_video">Tonton tutorial video</string>
     <string name="sound_search_tile" translatable="false">Pencarian suara</string>
     <string name="sound_search_description">Luncurkan cepat dengan perintah suara Google</string>
 

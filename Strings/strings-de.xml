@@ -163,9 +163,6 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="hotspot">Hotspot</string>
     <string name="request_admin_explanation">Diese App nutzt die Geräteverwaltung.\n
         Diese Berechtigung wird benötigt um das Display zu sperren, wenn der Nutzer auf die \'Lock Screen\' Schaltfläche klickt. Diese Berechtigung wird nicht für andere Zwecke genutzt</string>
-    <string name="welcome_home_message">Willkommen bei Quick Settings</string>
-    <string name="home">Home</string>
-    <string name="categories">Kategorien</string>
     <string name="utilities">Werkzeuge</string>
     <string name="multimedia">Multimedia</string>
     <string name="shortcuts">Shortcuts</string>
@@ -192,15 +189,11 @@ Diese Kachel bearbeitet Deine Schnelleinstellungen. Für mehr Informationen klic
     <string name="search">Suche</string>
     <string name="led_tile">Benachrichtigungs-LED</string>
     <string name="led_tile_summary">Aktiviere oder deaktiviere die Benachrichtigungs-LED</string>
-    <string name="change_theme">Ändere Design</string>
-    <string name="dark_theme">Dunkles Design</string>
-    <string name="light_theme">Helles Design</string>
     <string name="sound_panel_preference_summary">Wähle deinen bevorzugten Lautstärkemodus</string>
     <string name="activity_crash_title">Ein Fehler ist aufgetreten</string>
     <string name="activity_crash_subtitle">Uns tut dieser Fehler sehr leid… :(</string>
     <string name="restart_app">App-Neustart</string>
     <string name="show_logcat">Zeige logcat (debug only)</string>
-    <string name="all">Alle</string>
     <string name="sound_panel_type_auto">Current stream type</string>
     <string name="sound_panel_type_ring">Klingelton</string>
     <string name="sound_panel_type_media">Medien</string>

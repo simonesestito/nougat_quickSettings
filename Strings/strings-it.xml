@@ -169,10 +169,8 @@
     <string name="app_4">App &amp; scorciatoie #4</string>
     <string name="app_5">App &amp; scorciatoie #5</string>
     <string name="battery_saver_summary">Attiva o disattiva il risparmio batteria AOSP</string>
-    <string name="categories">Categorie</string>
     <string name="empty_search_results">Nessun risultato</string>
     <string name="for_developers">Toggle per sviluppatori</string>
-    <string name="home">Home</string>
     <string name="hotspot_summary">Attiva hotspot WiFi</string>
     <string name="input_method_picker_summary">Mostra un dialog per cambiare metodo di input</string>
     <string name="licenses">Licenze</string>
@@ -188,16 +186,11 @@
     <string name="system_root_only">Sistema (root)</string>
     <string name="system_secure_adb">Sistema (secure)</string>
     <string name="utilities">Utilità</string>
-    <string name="welcome_home_message">Benvenuto in Quick Settings</string>
     <string name="led_tile">LED di notifica</string>
     <string name="led_tile_summary">Attiva o disattiva il led di notifica</string>
     <string name="search">Cerca</string>
-    <string name="change_theme">Cambia tema</string>
-    <string name="dark_theme">Tema scuro</string>
-    <string name="light_theme">Tema chiaro</string>
     <string name="activity_crash_subtitle">Ci scusiamo per il crash… :(</string>
     <string name="activity_crash_title">Si è verificato un errore</string>
-    <string name="all">Mostra tutto</string>
     <string name="restart_app">Riavvia l\'app</string>
     <string name="show_logcat">Mostra logcat (debug)</string>
     <string name="sound_panel_preference_summary">Scegli il tipo di audio da mostrare</string>
@@ -230,19 +223,14 @@
     <string name="screenshot_ongoing">Elaborazione screenshot</string>
     <string name="internet_speed">Velocità Internet</string>
     <string name="root_security_settings_short">Premi per maggiori informazioni</string>
-    <string name="root_security_settings_long">Non hai i permessi di root, ma puoi usare questo tile con un PC. Sul computer, vai a https://smarturl.it/qs_enabler per scaricare il software</string>
-    <string name="more">Di più</string>
     <string name="battery_settings">Impostazioni batteria</string>
     <string name="battery_onclick">Apri le impostazioni al tap del tile</string>
     <string name="screenshot_edit">Modifica</string>
-    <string name="app_splash_subtitle">Confuso sull\'utilizzo? Premi il bottone d\'aiuto in basso per un video dettagliato</string>
-    <string name="app_splash_get_started">Per iniziare, premi l\'icona del drawer in fondo</string>
     <string name="alert_hide_launcher">L\'app verrà nascosta dal launcher. Per continuare ad aprirla, tieni premuto su un tile applicato.</string>
     <string name="show_in_launcher">Mostra nel launcher</string>
     <string name="disable_tile">Disattiva tile</string>
     <string name="enable_tile">Attiva tile</string>
     <string name="customize">Personalizza</string>
-    <string name="watch_help_video">Guarda il video d\'aiuto</string>
     <string name="sound_search_description">Apri Google Sound Search rapidamente</string>
     <string name="notification_log_tile">Cronologia notifiche</string>
     <string name="notification_log_description">Mostra la cronologia di sistema delle notifiche</string>
@@ -254,5 +242,7 @@
     <string name="power_dialog_tile">Menu accensione</string>
     <string name="split_screen_summary">Attiva Split Screen</string>
     <string name="split_screen_tile">Split Screen</string>
-
+    <string name="join_telegram_channel">Entra nel canale Telegram</string>
+    <string name="help_faq_page">Problemi? Visita la pagina FAQ</string>
+    <string name="support_app_review_donation">Supporta lo sviluppo dell\'app</string>
 </resources>

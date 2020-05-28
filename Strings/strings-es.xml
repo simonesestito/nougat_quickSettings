@@ -162,9 +162,6 @@
     <string name="hotspot">Punto de acceso</string>
     <string name="request_admin_explanation">Esta aplicación utiliza el permiso del administrador del dispositivo.\n
         Tse requiere su permiso para bloquear la pantalla cuando el usuario hace clic en el tile \'Bloquear pantalla\'. Este permiso nunca será utilizado para otros fines.</string>
-    <string name="welcome_home_message">Bienvenido a Quick Settings</string>
-    <string name="home">Inicio</string>
-    <string name="categories">Categorías</string>
     <string name="utilities">Utilidades</string>
     <string name="multimedia">Multimedia</string>
     <string name="shortcuts">Accesos directos</string>
@@ -193,15 +190,11 @@
     <string name="search">Buscar</string>
     <string name="led_tile">Notificación LED</string>
     <string name="led_tile_summary">Habilitar o deshabilitar la luz de notificación</string>
-    <string name="change_theme">Cambiar tema</string>
-    <string name="dark_theme">Tema oscuro</string>
-    <string name="light_theme">Tema claro</string>
     <string name="sound_panel_preference_summary">Elija su tipo de volumen favorito</string>
     <string name="activity_crash_title">Se ha producido un error</string>
     <string name="activity_crash_subtitle">Lamentamos mucho este accidente… :(</string>
     <string name="restart_app">Reinicia la aplicación</string>
     <string name="show_logcat">Mostrar logcat (solo depuración)</string>
-    <string name="all">Listar todo</string>
     <string name="sound_panel_type_auto">Tipo de flujo actual</string>
     <string name="sound_panel_type_ring">Timbre</string>
     <string name="sound_panel_type_media">Volumen de música</string>
@@ -231,19 +224,14 @@
     <string name="screenshot_ongoing">Procesando captura de pantalla</string>
     <string name="internet_speed">Velocidad de Internet</string>
     <string name="root_security_settings_short">Haga clic aquí para mas información</string>
-    <string name="root_security_settings_long"> No estás rooteado, pero esto puede ser desbloqueado usando una PC.\nEn tu PC, ve a https://smarturl.it/qs_enabler para descargar el software</string>
-    <string name="more">Más</string>
     <string name="battery_settings">Ajustes de la batería</string>
     <string name="battery_onclick">Abrir configuración desde el tile</string>
     <string name="screenshot_edit">Editar</string>
-    <string name="app_splash_subtitle">¿Confundido? Haga click en el botón de ayuda (?) a continuación</string>
-    <string name="app_splash_get_started">Para empezar, presiona el icono del cajón en la parte inferior</string>
     <string name="alert_hide_launcher">La app se ocultará del lanzador.\nPara continuar usándola, mantener pulsado en el tile.</string>
     <string name="show_in_launcher">Mostrar en lanzador</string>
     <string name="disable_tile">Deshabilitar tile</string>
     <string name="enable_tile">Habilitar tile</string>
     <string name="customize">Personalizar</string>
-    <string name="watch_help_video">Mirar video tutorial</string>
     <string name="sound_search_description">Acceso rápido a búsqueda por voz de Google</string>
 
 </resources>
