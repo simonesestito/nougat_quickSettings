@@ -5,6 +5,38 @@ body {
   margin: 0;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #263238;
+    color: white;
+  }
+
+  a {
+    color: #81D4FA !important;
+  }
+
+  .container {
+    background: #37474F !important;
+    color: white;
+  }
+  
+  .faqs h3 {
+    color: white;
+  }
+
+  .faqs > li > a {
+    color: white;
+  }
+
+  .faqs > li > a > img {
+    filter: invert(100%);
+  }
+}
+
+a {
+   color: #1976D2;
+}
+
 header {
   display: flex;
   position: absolute;
@@ -13,7 +45,7 @@ header {
   width: 100%;
   height: 35vh;
   padding-top: 18px;
-  background: #344045;
+  background: #263238;
   color: white;
   justify-content: start;
   align-items: center;
