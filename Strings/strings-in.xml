@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all">Semua daftar</string>
     <string name="lock">Layar Kunci</string>
     <string name="sync">Sinkronasi</string>
     <string name="caffeina">Kafein</string>

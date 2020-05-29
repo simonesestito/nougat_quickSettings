@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all">Mostra tutto</string>
     <string name="app">App e scorciatoie</string>
     <string name="brightness_auto">Luminosità automatica</string>
     <string name="caffeina">Caffeina</string>

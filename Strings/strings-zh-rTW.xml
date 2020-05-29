@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all">全部</string>
     <string name="lock">鎖定畫面</string>
     <string name="sync">同步</string>
     <string name="caffeina">Caffeine</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all">Hepsini listele</string>
     <string name="lock">Ekranı Kilitle</string>
     <string name="sync">Senkronizasyon</string>
     <string name="caffeina">Kafein</string>

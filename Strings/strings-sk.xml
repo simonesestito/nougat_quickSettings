@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Rýchle nastavenia</string>
+    <string name="all">Zoznam všetkých</string>
     <string name="lock">Uzamknutá obrazovka</string>
     <string name="sync">Sync</string>
     <string name="caffeina">Kofeín</string>

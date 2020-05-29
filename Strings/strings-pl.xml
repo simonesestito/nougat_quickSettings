@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
+    <string name="all">Lista wszystkich</string>
     <string name="lock">Zablokuj ekran</string>
     <string name="sync">Synchronizacja</string>
     <string name="caffeina">Kofeina</string>

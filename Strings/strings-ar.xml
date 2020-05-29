@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">الإعدادات السريعة</string>
+    <string name="all">إظهار الكل</string>
     <string name="lock">شاشة القفل</string>
     <string name="sync">مزامنة</string>
     <string name="caffeina">كافين</string>

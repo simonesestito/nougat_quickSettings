@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all">Показать всё</string>
     <string name="lock">Заблокировать экран</string>
     <string name="sync">Синхронизация</string>
     <string name="caffeina">Кофеин</string>

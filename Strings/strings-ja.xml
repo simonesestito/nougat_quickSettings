@@ -1,4 +1,5 @@
 <resources>
+    <string name="all">すべて表示</string>
     <string name="lock">ロック画面</string>
     <string name="sync">同期</string>
     <string name="caffeina">カフェイン</string>
