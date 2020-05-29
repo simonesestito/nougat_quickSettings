@@ -247,5 +247,6 @@
     <string name="autocomplete_search_hint">Search</string>
     <string name="join_telegram_channel">Join Telegram channel</string>
     <string name="help_faq_page">Issues? Visit our FAQ page</string>
+    <string name="help_menu_item">Help</string>
     <string name="support_app_review_donation">Support the app development</string>
 </resources>

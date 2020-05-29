@@ -244,5 +244,6 @@
     <string name="split_screen_tile">Split Screen</string>
     <string name="join_telegram_channel">Entra nel canale Telegram</string>
     <string name="help_faq_page">Problemi? Visita la pagina FAQ</string>
+    <string name="help_menu_item">Aiuto</string>
     <string name="support_app_review_donation">Supporta lo sviluppo dell\'app</string>
 </resources>
