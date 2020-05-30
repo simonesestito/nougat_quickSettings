@@ -93,6 +93,7 @@ h2 {
 .faqs h3 {
   display: inline;
   margin-left: 6px;
+  font-weight: normal;
 }
 
 .faqs a[name] {
@@ -117,6 +118,10 @@ h2 {
 
 .faqs li.active p {
   display: block;
+}
+
+.faqs li.active h3 {
+  font-weight: bold;
 }
 
 .faqs > li > a {
