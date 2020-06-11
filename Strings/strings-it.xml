@@ -245,6 +245,10 @@
     <string name="split_screen_tile">Split Screen</string>
     <string name="join_telegram_channel">Entra nel canale Telegram</string>
     <string name="help_faq_page">Problemi? Visita la pagina FAQ</string>
-    <string name="help_menu_item">Aiuto</string>
     <string name="support_app_review_donation">Supporta lo sviluppo dell\'app</string>
+    <string name="help_menu_item">Aiuto</string>
+    <string name="inapp_item_already_owned">C\'è già un pagamento in corso per questo elemento</string>
+    <string name="app_splash_hello_title">Ciao!</string>
+    <string name="app_splash_welcome_subtitle">Benvenuto su Quick Settings</string>
+    <string name="app_splash_accept_privacy_policy">Accetta e continua</string>
 </resources>
