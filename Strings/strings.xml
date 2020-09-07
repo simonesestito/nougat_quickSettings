@@ -248,8 +248,8 @@
     <string name="autocomplete_search_hint">Search</string>
     <string name="join_telegram_channel">Join Telegram channel</string>
     <string name="help_faq_page">Issues? Visit our FAQ page</string>
-    <string name="support_app_review_donation">Support the app development</string>
     <string name="help_menu_item">Help</string>
+    <string name="support_app_review_donation">Support the app development</string>
     <string name="inapp_item_already_owned">There\'s already a pending purchase for this item</string>
     <string name="app_splash_hello_title">Hello!</string>
     <string name="app_splash_welcome_subtitle">Welcome to Quick Settings</string>
