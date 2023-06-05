@@ -85,7 +85,7 @@
     <string name="storage_summary">Abrir el explorador de archivos del sistema</string>
     <string name="tally_counter">Contador</string>
     <string name="tally_counter_summary">Un contador rápido en ajustes rápidos.</string>
-    <string name="timer_summary">Establezer un nuevo temporizador</string>
+    <string name="timer_summary">Establecer un nuevo temporizador</string>
     <string name="alarm">Alarma</string>
     <string name="alarm_summary">Establecer alarma nueva</string>
     <string name="bluefilter">Fitro de pantalla de noche</string>
@@ -162,7 +162,7 @@
     <string name="free_space">Espacio libre:</string>
     <string name="hotspot">Punto de acceso</string>
     <string name="request_admin_explanation">Esta aplicación utiliza el permiso del administrador del dispositivo.\n
-        Tse requiere su permiso para bloquear la pantalla cuando el usuario hace clic en el tile \'Bloquear pantalla\'. Este permiso nunca será utilizado para otros fines.</string>
+        Se requiere su permiso para bloquear la pantalla cuando el usuario hace clic en el tile \'Bloquear pantalla\'. Este permiso nunca será utilizado para otros fines.</string>
     <string name="utilities">Utilidades</string>
     <string name="multimedia">Multimedia</string>
     <string name="shortcuts">Accesos directos</string>
@@ -175,7 +175,7 @@
     <string name="app_3">App &amp; Shortcuts #3</string>
     <string name="app_4">App &amp; Shortcuts #4</string>
     <string name="app_5">App &amp; Shortcuts #5</string>
-    <string name="orientation_summary">Cambiar la orientación de la pantalla manualmente. (180° uncluído)</string>
+    <string name="orientation_summary">Cambiar la orientación de la pantalla manualmente. (180° incluído)</string>
     <string name="input_method_picker_summary">Cambia el método de entrada rápidamente</string>
     <string name="hotspot_summary">Habilitar punto de acceso WiFi</string>
     <string name="battery_saver_summary">Habilitar o deshabilitar el ahorro de batería AOSP</string>
@@ -233,6 +233,24 @@
     <string name="disable_tile">Deshabilitar tile</string>
     <string name="enable_tile">Habilitar tile</string>
     <string name="customize">Personalizar</string>
-    <string name="sound_search_description">Acceso rápido a búsqueda por voz de Google</string>
+    <string name="sound_search_tile" translatable="false">Sound Search</string>
+    <string name="sound_search_description">Acceso rápido al identificador de música de Google</string>
+    <string name="notification_log_tile">Historial de notificaciones</string>
+    <string name="notification_log_description">Muestra el historial de notificaciones del sistema</string>
+    <string name="not_allowed">Operación no permitida a causa de los permisos</string>
+    <string name="accessibility_short">Ayuda a las personas con problemas de accesibilidad a realizar acciones (por ejemplo, pulsar un botón del hardware) mediante los ajustes rápidos..</string>
+    <string name="power_dialog_tile">Menú de apagado</string>
+    <string name="split_screen_tile">Pantalla dividida</string>
+    <string name="split_screen_summary">Activa la pantalla dividida</string>
+    <string name="autocomplete_search_hint">Buscar</string>
+    <string name="join_telegram_channel">Unirse al canal de Telegram</string>
+    <string name="help_faq_page">¿Problemas? Visita nuestra página de Preguntas Frecuentes</string>
+    <string name="help_menu_item">Ayuda</string>
+    <string name="support_app_review_donation">Apoya el desarrollo de la app</string>
+    <string name="inapp_item_already_owned">Ya hay una compra pendiente para este artículo</string>
+    <string name="app_splash_hello_title">¡Hola!</string>
+    <string name="app_splash_welcome_subtitle">Bienvenido a Quick Settings</string>
+    <string name="app_splash_accept_privacy_policy">Aceptar y continuar</string>
+</resources>
 
 </resources>
