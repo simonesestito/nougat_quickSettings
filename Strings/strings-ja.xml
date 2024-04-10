@@ -37,7 +37,7 @@
     <string name="full">すべてのシステムバーを隠す</string>
     <string name="none">すべてのシステムバーを表示</string>
     <string name="immersive">没入モード</string>
-    <string name="reminder_public_text">リマインダーは実行中です</string>
+    <string name="reminder_public_text">リマインダーが実行中です</string>
     <string name="dismiss">すべて削除</string>
     <string name="reminder_empty_note">下のボタンをタップして新しいテキストを追加</string>
     <string name="reminder">スマートリマインダー</string>
@@ -98,7 +98,7 @@
     <string name="leave_review">レビューを書く</string>
     <string name="dice">ダイス</string>
     <string name="dice_summary">ダイスを振ります</string>
-    <string name="night_filter_working">ナイトフィルターは実行中です</string>
+    <string name="night_filter_working">ナイトフィルターが実行中です</string>
     <string name="not_supported">サポートされていません</string>
     <string name="donation_s">0.99ドル</string>
     <string name="donation_s_effective">開発者の受取金額はおよそ0.69ドルです</string>
