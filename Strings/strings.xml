@@ -93,7 +93,7 @@
     <string name="bluefilter_summary">Apply a coloured filter on the screen</string>
     <string name="brightness">Brightness</string>
     <string name="brightness_summary">Adjust the brightness</string>
-    <string name="leave_review">Leave a review</string>
+    <string name="leave_review">Review</string>
     <string name="dice">Dice</string>
     <string name="dice_summary">Roll the dice</string>
     <string name="night_filter_working">Night filter is working</string>
@@ -107,6 +107,7 @@
     <string name="donation_xl">$4.49</string>
     <string name="donation_xl_effective">I\'ll receive about $3.14</string>
     <string name="donate">Donate</string>
+    <string name="remove_ads">Remove ads</string>
     <string name="order_number">Order number</string>
     <string name="search_tile">Search</string>
     <string name="search_summary">Search on the Internet</string>
@@ -253,5 +254,27 @@
     <string name="inapp_item_already_owned">There\'s already a pending purchase for this item</string>
     <string name="app_splash_hello_title">Hello!</string>
     <string name="app_splash_welcome_subtitle">Welcome to Quick Settings</string>
-    <string name="app_splash_accept_privacy_policy">Accept and continue</string>
+    <string name="app_splash_accept_privacy_policy">Continue</string>
+    <string name="subs_card_text">Subscribe for %s/mo.</string>
+    <string name="subscribe_cta">Subscribe</string>
+    <string name="in_app_purchases_alternative_title">Or buy just once:</string>
+    <string name="user_subscription_success">You\'re supporting the app. Thank you!</string>
+    <string name="manage_subscription">Manage subscription</string>
+    <string name="manage_sim_cards_tile">Manage SIM Cards</string>
+    <string name="manage_sim_cards_description">Open settings to manage your SIM cards (if available)</string>
+    <string name="policy_options_disable_personalized">Use non-personalized ads</string>
+    <string name="reset_privacy_policy">Reset privacy settings</string>
+    <string name="policy_manage_admob_consent">Manage ads consent</string>
+    <string name="accessibility_disclosure"><b>You need to enable Accessibility Service to use this feature.</b>\nRemember that no data are ever collected using accessibility permission, for any reason.\nAccessibility Service is only used to allow the app to perform actions like locking the screen, only when you click on the appropriate button, and never in background</string>
+    <string name="accessibility_enable_button">Agree</string>
+    <string name="accessibility_deny_button">Not now</string>
+    <string name="already_purchased_help_text">Already purchased? Click here to send an email to receive help</string>
+    <string name="notifications_permission_success">Notifications are now enabled and those features will work!</string>
+    <string name="notifications_permission_failure">These features cannot work without notifications permission</string>
+    <string name="no_worries_denied_accessibility">OK, you can still use other features</string>
+    <string name="accessibility_disclosure_title">Quick Settings: accessibility</string>
+    <string name="unsupported_feature_notification_text">This feature is not supported on your device</string>
+    <string name="unsupported_feature_notification_title">Feature not supported</string>
+    <string name="disable_filter">Disable</string>
+    <string name="ringer_mode_no_permission">Please grant Do Not Disturb permission to switch ringer mode</string>
 </resources>
