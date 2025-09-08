@@ -4,7 +4,7 @@
 
 - Download <a href="https://raw.githubusercontent.com/simonesestito/nougat_quickSettings/master/Strings/strings.xml">strings.xml English file</a> to your computer
 - Translate it in your language but DO NOT change <code>name</code> value
-- Send me the translated xml via email to <a href="mailto:simone@simonesestito.com">simone@simonesestito.com</a>
+- Send me the translated xml via email to <a href="mailto:support@simonesestito.com">support@simonesestito.com</a>
 
 I'll include your translation in the next updates of the app ;D
 
